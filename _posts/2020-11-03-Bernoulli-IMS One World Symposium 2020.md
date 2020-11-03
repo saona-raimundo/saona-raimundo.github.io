@@ -1,9 +1,19 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2020-11-03 14:35:51 +0100
-categories: jekyll update
+date:   2020-08-24 00:00:00 +0000
+categories: talk
 ---
+I presented the paper "The Complexity of POMDPs with Long-run Average Objectives" (https://arxiv.org/abs/1904.13360) in the Bernoulli-IMS One World Symposium 2020!
+
+Here is the video:
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=5n9KdntRj6I">
+</iframe> 
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
