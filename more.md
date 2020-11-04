@@ -2,10 +2,12 @@
 layout: page
 title: More
 permalink: /more/
-weight: 9
 ---
 
-<a href="interests">
-<div>
-<span>Data</span>
-</div>
+- <a href="{{site.baseurl}}/more/teaching"> Teaching </a>
+- <a href="{{site.baseurl}}/more/software"> Software </a>
+- <a href="{{site.baseurl}}/more/short-cv"> Short CV </a>
+- <a href="{{site.baseurl}}/more/events"> Events </a>
+- <a href="{{site.baseurl}}/more/awards"> Awards </a>
+- <a href="{{site.baseurl}}/more/professional-activities"> Professional activites </a>
+
