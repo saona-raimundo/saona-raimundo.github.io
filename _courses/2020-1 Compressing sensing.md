@@ -3,7 +3,7 @@ layout: course
 title:  Compressing sensing
 semester: 2020-1
 teacher: Raimundo Saona
-official_page: 
+link: 
 
 ---
 

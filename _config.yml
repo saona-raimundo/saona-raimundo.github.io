@@ -45,6 +45,12 @@ collections:
     output: true
   experiences:
     output: true
+  conferences:
+    output: true
+  schools:
+    output: true
+  seminars:
+    output: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

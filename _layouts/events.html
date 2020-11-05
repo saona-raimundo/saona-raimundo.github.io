@@ -1,0 +1,169 @@
+---
+layout: default
+---
+
+<div class="events">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <li><a href="#Conferences">Conferences</a></li>
+  <li><a href="#Schools">Schools</a></li>
+  <li><a href="#Seminars">Seminars</a></li>
+  <br>
+
+  {% if site.paginate %}
+    {% assign events = paginator.conferences | sort:"date" | reverse %}
+  {% else %}
+    {% assign events = site.conferences | sort:"date" | reverse %}
+  {% endif %}
+
+  {%- if events.size > 0 -%}
+    <hr>
+    <h2 class="event-type" id="Conferences">Conferences</h2>
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%Y-%-m" -%}
+      {%- for event in events -%}
+        <li>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ event.excerpt }}
+        {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+  {%- endif -%}
+
+
+
+
+
+  {% if site.paginate %}
+    {% assign events = paginator.schools | sort:"date" | reverse %}
+  {% else %}
+    {% assign events = site.schools | sort:"date" | reverse %}
+  {% endif %}
+
+
+  {%- if events.size > 0 -%}
+    <hr>
+    <h2 class="event-type" id="Schools">Schools</h2>
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%Y-%-m" -%}
+      {%- for event in events -%}
+        <li>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ event.excerpt }}
+        {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+  {%- endif -%}
+
+
+
+  {% if site.paginate %}
+    {% assign events = paginator.seminars | sort:"date" | reverse %}
+  {% else %}
+    {% assign events = site.seminars | sort:"date" | reverse %}
+  {% endif %}
+
+
+  {%- if events.size > 0 -%}
+    <hr>
+    <h2 class="event-type" id="Seminars">Seminars</h2>
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%Y-%-m" -%}
+      {%- for event in events -%}
+        <li>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ event.excerpt }}
+        {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+  {%- endif -%}
+
+</div>

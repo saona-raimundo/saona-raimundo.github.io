@@ -1,13 +1,5 @@
 # To do
 
-- All (sub-)sections in 
-  https://sites.google.com/view/saona-raimundo/more?authuser=0
-  - Events
-  - Awards
-- Publication list
-  - Bibtex
-- 
-
 
 # Workflow
 
@@ -29,3 +21,5 @@
   - https://24ways.org/2013/get-started-with-github-pages/
 - Post types
   - https://www.csrhymes.com/development/2017/10/27/multiple-post-types-in-jekyll.html
+- Scholar plugin
+  - https://github.com/inukshuk/jekyll-scholar

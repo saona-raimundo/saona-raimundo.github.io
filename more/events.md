@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: events
 title: Events
 permalink: /more/events/
 ---
-
-Events
