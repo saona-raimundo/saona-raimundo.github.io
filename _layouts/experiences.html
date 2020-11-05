@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<div class="teaching">
+<div class="experiences">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -12,28 +12,28 @@ layout: default
 
 
   {% if site.paginate %}
-    {% assign courses = paginator.courses | sort:"semester" | reverse %}
+    {% assign experiences = paginator.experiences | sort:"start" | reverse %}
   {% else %}
-    {% assign courses = site.courses | sort:"semester" | reverse %}
+    {% assign experiences = site.experiences | sort:"start" | reverse %}
   {% endif %}
 
 
-  {%- if courses.size > 0 -%}
+  {%- if experiences.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
-      {%- assign date_format = site.minima.course_date_format | default: "%Y-%-m" -%}
-      {%- for course in courses -%}
+      {%- assign date_format = site.minima.experience_date_format | default: "%Y-%-m" -%}
+      {%- for experience in experiences -%}
         <li>
-        <span class="post-meta">{{ course.semester | date: date_format }}</span>
+        <span class="post-meta">{{ experience.start | date: date_format }} to {{ experience.end | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ course.url | relative_url }}">
-            {{ course.title | escape }}
+          <a class="post-link" href="{{ experience.url | relative_url }}">
+            {{ experience.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ course.excerpt }}
+          {{ experience.excerpt }}
         {%- endif -%}
         </li>
       {%- endfor -%}

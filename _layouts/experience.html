@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="experience">
+
+  <header class="experience-header">
+    <h1 class="experience-title">{{ page.title | escape }}</h1>
+    {%- if page.contact -%}
+      With {{ page.contact }}
+      {%- if page.place -%}
+        &nbsp;at {{ page.place }} 
+      {%- endif -%}
+      .<br><br>
+    {%- endif -%}
+  </header>
+  
+  <div class="experience-content">
+    {{ content }}
+  </div>  
+
+</article>

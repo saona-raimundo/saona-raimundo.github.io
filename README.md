@@ -5,8 +5,8 @@ Personal webpage of a mathematician.
 
 - Teaching list
   - Courses with posts-like system
+- Experiences list
 - Publications?
-- Nested menus?
 - Blog
   - Most recent news in home page
 
@@ -20,8 +20,6 @@ Personal webpage of a mathematician.
 ## Teaching
 
 ## Publications
-
-## Nested menus
 
 ## Blog
 
