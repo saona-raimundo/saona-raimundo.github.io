@@ -23,10 +23,9 @@ email: raimundo.saona@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Research website of Raimundo Saona (mathematician).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://saona-raimundo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://saona-raimundo.github.io" 
 #twitter_username: jekyllrb
 #github_username:  saona-raimundo
-
 
 # Build settings
 theme: minima
@@ -39,6 +38,17 @@ header_pages:
   - publications.md
   - interests.md
   - more.md
+
+# Collections
+collections:
+  courses:
+    output: true
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+  course_date_format: "%Y-%-m"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
