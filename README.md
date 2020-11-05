@@ -1,2 +1,27 @@
 # saona-raimundo.github.io
-Personal webpage
+Personal webpage of a mathematician.
+
+## Features
+
+- Teaching list
+  - Courses with posts-like system
+- Publications?
+- Nested menus?
+- Blog
+  - Most recent news in home page
+
+# Documentation
+
+## Goal
+
+- Use GitHub pages and Jekyll only, no plug-ins required
+- Easy to maintain
+
+## Teaching
+
+## Publications
+
+## Nested menus
+
+## Blog
+
