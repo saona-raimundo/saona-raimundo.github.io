@@ -13,4 +13,7 @@ permalink: /more/professional-activities/
 
 ## Journals
 
+- [ACM Transactions on Economics and Computation](https://dl.acm.org/journal/teac)
+  - 2020 (1)
 - [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)
+  - 2020 (1)
