@@ -11,3 +11,7 @@ layout: home
 	width=200px>
 
 Currently, I am a PhD student at [IST Austria](https://ist.ac.at/en/home/). 
+
+# Interests
+
+Game Theory, Probability Theory, Optimal Control, Stochastic Analysis, Imprecise Probability Theory
