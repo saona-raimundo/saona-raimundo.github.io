@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: News
 ---
 
 <a href="https://saona-raimundo.github.io/">
@@ -10,7 +11,9 @@ layout: home
 	class="galleryItem"
 	width=200px>
 
-Currently, I am a PhD student at [IST Austria](https://ist.ac.at/en/home/). 
+Currently, I am a PhD student at [IST Austria](https://ist.ac.at/en/home/).
+
+E-mail: raimundo.saona (at) gmail (dot) com 
 
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 

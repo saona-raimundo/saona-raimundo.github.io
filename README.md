@@ -23,3 +23,8 @@ Personal webpage of a mathematician.
 
 ## Blog
 
+### Attributes
+
+- 'front' - home page, News section
+
+- 'press' - more/press page

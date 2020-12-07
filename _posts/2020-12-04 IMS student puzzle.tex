@@ -1,0 +1,31 @@
+\documentclass[letterpaper]{article}
+
+\usepackage{amssymb}     %\mathbb{}
+
+\begin{document}
+
+Imagine a particle conducting a walk on the traditional square lattice, starting at the origin $(0, 0)$. That is, at any time during the walk, the particle goes one unit distance to either the east, or the west, or the north, or the south. An $n$-walk is a walk that has taken $n$ steps. The walk is called self-avoiding if the particle does not visit any given state twice.
+
+Let $f(n)$ denote the number of n-walks that are self-avoiding.
+
+\textbf{Compute $f(n)$ for $n = 2, 3$, and justify how you got these values.}
+
+For $n = 2$, the only non self-avoiding paths are those that return to the origin, which are only $4$. Then, $f(2) = 4^2 - 4 = 12$.
+
+For $n = 3$, the first two steps of the walk must be a self-avoiding path itself. Then, the third step has three possibilities. Therefore, $f(3) = 3 f(2) = 36$.
+
+
+\textbf{Compute $f(4)$ if you can, or place it within good lower and upper bounds.}
+
+Out of all self-avoiding $3$-walks, there are only $8$ of them that can complete a square by adding a fourth step, leaving only $2$ possibilities to complete a $4$-walk. All other self-avoiding $3$-walks have $3$ possibilities for a fourth step.
+
+Therefore, $f(4) =3(f(3) - 8) + 2(8) = 84 + 16 = 100$.
+
+
+\textbf{Try to give non-trivial lower and upper bounds on $f(n)$ of the form $c k^n$ for $c > 0$ and $k \in \mathbb{N}$.}
+
+$f(n) \le 4 \cdot 3^{n-1} = \frac{4}{3} 3^n$, because there are $4$ initial directions and each next step has at most $3$ possibilities.
+
+$f(n) \ge 4 \cdot (2 \cdot 2^{n - 1} - 1) = 4 \cdot 2^n - 4$, because there are $4$ initial directions and then using either (i) the same initial direction, or (ii) a perpendicular direction, will result in a self-avoiding walk. This counting procedure repeats the four paths that uses one direction only, therefore we must correct the counting by substracting four. This bounds means that for all $N$ natural number, there exists a constant $c_N > 0$ such that $f(n) \ge c_N \cdot 2^n$ and $\lim_{N \to \infty} c_N = 4$.
+
+\end{document}

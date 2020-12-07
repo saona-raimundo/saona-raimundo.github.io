@@ -4,6 +4,11 @@ title: Professional activites
 permalink: /more/professional-activities/
 ---
 
+<li><a href="#reviewing">Reviewing</a></li>
+<li><a href="#organizing">Organizing</a></li>
+<br>
+<hr>
+
 # Reviewing
 
 ## Conferences
@@ -17,3 +22,10 @@ permalink: /more/professional-activities/
   - 2020 (1)
 - [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)
   - 2020 (1)
+
+<hr>
+
+# Organizing
+
+## Seminars
+- [Stochastic seminars IST Austria](https://stochasticseminars.pages.ist.ac.at/)
