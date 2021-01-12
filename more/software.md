@@ -4,6 +4,12 @@ title: Software
 permalink: /more/software/
 ---
 
+# Apps
+
+## Virus alarm
+
+[Simulation engine](https://saona-raimundo.github.io/virus_alert/examples/web_app/www/dist/index.html) to study and design the board game [virus alarm](https://ist.ac.at/en/education/ist-for-kids/virus-alert/).
+
 # <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"> Rust crates 
 
 ## [neumann](https://crates.io/crates/neumann)
