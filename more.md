@@ -11,5 +11,6 @@ permalink: /more/
 # <a href="{{site.baseurl}}/more/awards"> Awards </a>
 # <a href="{{site.baseurl}}/more/experiences"> Experiences </a>
 # <a href="{{site.baseurl}}/more/professional-activities"> Professional activites </a>
+# <a href="{{site.baseurl}}/more/press"> Press </a>
 # <a href="{{site.baseurl}}/more/blog"> Blog </a>
 

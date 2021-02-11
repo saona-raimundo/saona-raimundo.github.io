@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
-<article class="course">
+<article class="new">
 
-  <header class="course-header">
-    <h1 class="course-title">{{ page.title | escape }}</h1>
+  <header class="new-header">
+    <h1 class="new-title">{{ page.title | escape }}</h1>
     {%- if page.teacher -%}
       By {{ page.teacher }} <br>
     {%- endif -%}
 
     {%- if page.link -%}
-      Official website: <a href={{ page.link }}>{{ page.link }}</a><br><br>
+      <a href={{ page.link }}>More information here</a>.<br><br>
     {%- endif -%}
-
   </header>
   
   <div class="course-content">

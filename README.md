@@ -21,6 +21,8 @@ Personal webpage of a mathematician.
 
 ## Publications
 
+## Press
+
 ## Blog
 
 ### Attributes
