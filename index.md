@@ -17,4 +17,4 @@ E-mail: raimundo.saona (at) gmail (dot) com
 
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 
-Game Theory, Probability Theory, Optimal Control, Stochastic Analysis, Imprecise Probability Theory
+Game Theory, Probability Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Imprecise Probability Theory
