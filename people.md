@@ -6,15 +6,13 @@ permalink: /people/
 
 # Students
 
-There are open positions for [INTERNSHIPS](https://phd.pages.ist.ac.at/internships/) and [THESIS](https://phd.pages.ist.ac.at/bsms-thesis/) (Bachelor or Master)
-
 - Simone Bombari
 
 # Supervisors
 
-- Krishnendu Chatterjee (PhD, IST Austria)
-- José Correa (Master, Universidad de Chile)
-- Soledad Torres (Intern, Universidad de Valparaíso)
+- [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) (PhD, IST Austria)
+- [José Correa](https://www.dii.uchile.cl/~jcorrea/) (Master, Universidad de Chile)
+- [Soledad Torres](https://storres-cimfav.uv.cl/) (Intern, Universidad de Valparaíso)
 
 # Co-authors
 
