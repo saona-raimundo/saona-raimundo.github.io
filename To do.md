@@ -1,5 +1,11 @@
 # To do
 
+## Search filter
+
+- [Working example](https://cristianpb.github.io/blog/amp-search-jekyll)
+  - [Demo](https://cristianpb.github.io/blog)
+- [Tutorial](https://learn.cloudcannon.com/jekyll-search/)
+
 
 # Workflow
 
