@@ -7,7 +7,9 @@ permalink: /publications/
 # The Complexity of POMDPs with Long-run Average Objectives
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). Arxiv. 
 
-**Paper**: [https://arxiv.org/abs/1904.13360](https://arxiv.org/abs/1904.13360) 
+**Paper**: [https://doi.org/10.1287/moor.2020.1116](https://doi.org/10.1287/moor.2020.1116)
+
+**ArXiv**: [https://arxiv.org/abs/1904.13360](https://arxiv.org/abs/1904.13360) 
 
 **Video**: [Bernoulli-IMS One World Symposium 2020](https://www.youtube.com/watch?v=5n9KdntRj6I)
 
