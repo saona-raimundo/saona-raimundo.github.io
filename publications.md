@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # The Complexity of POMDPs with Long-run Average Objectives
-[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). Arxiv. 
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). Mathematics of Operations Research.
 
 **Paper**: [https://doi.org/10.1287/moor.2020.1116](https://doi.org/10.1287/moor.2020.1116)
 
