@@ -6,7 +6,7 @@ permalink: /more/short-cv/
 
 # PHD
 
-IST Austria
+Institute of Science and Technology Austria (IST Austria)
 
 September 2019 - Today
 
