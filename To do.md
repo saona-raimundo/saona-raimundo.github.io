@@ -6,6 +6,22 @@
   - [Demo](https://cristianpb.github.io/blog)
 - [Tutorial](https://learn.cloudcannon.com/jekyll-search/)
 
+## Blog entries
+
+### Utility representation
+
+- Introduction
+  - https://en.wikipedia.org/wiki/Expected_utility_hypothesis
+- Goal
+- St. Petersburg Paradox
+  - https://plato.stanford.edu/entries/paradox-stpetersburg/
+- Ellsberg paradox
+  - https://en.wikipedia.org/wiki/Ellsberg_paradox
+- A Foundation for Expected Utility in Decision Problems and Games
+  - https://www.youtube.com/watch?v=hXIXtfrqvJU
+- References
+  - https://www.ihs.ac.at/publications/eco/visit_profs/blume/machinaneu.pdf
+
 
 # Workflow
 
