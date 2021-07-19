@@ -11,7 +11,7 @@ permalink: /more/photos/
 	loading="eager"
 	width=400px>
 
-<img src="2021-07.jpg" 
+<img src="2021-07.JPG" 
 	class="galleryItem"
 	alt="IST group"
 	referrerpolicy="no-referrer"
