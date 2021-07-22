@@ -27,6 +27,5 @@ Personal webpage of a mathematician.
 
 ### Attributes
 
-- 'front' - home page, News section
-
-- 'press' - more/press page
+- `home page, News section`
+  front: bool
