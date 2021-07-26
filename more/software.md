@@ -10,6 +10,10 @@ permalink: /more/software/
 
 [Simulation engine](https://saona-raimundo.github.io/virus_alert/sim/index.html) to study and design the board game [virus alarm](https://ist.ac.at/en/education/ist-for-kids/virus-alert/).
 
+## Online_plotter
+
+[Online plotter](https://saona-raimundo.github.io/online_plotter/) of mathematical functions.
+
 # <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"> Rust crates 
 
 ## [neumann](https://crates.io/crates/neumann)
