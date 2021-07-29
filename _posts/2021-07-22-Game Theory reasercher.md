@@ -31,6 +31,7 @@ I want to put up some resources for researches that might be useful.
 
 - [Game Theory Society](https://gametheorysociety.org/)
 - [GAMENET](https://gametheorynetwork.com/)
+- [International Society on Dynamic Games (ISDG)](http://www.isdg-site.org/)
 
 ### Journals
 
