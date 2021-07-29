@@ -16,6 +16,7 @@ I want to put up some resources for researches that might be useful.
   - SciHub
     - [Wikipedia](https://en.wikipedia.org/wiki/Sci-Hub)
     - [Reddit](https://www.reddit.com/r/scihub/)
+    - [Telegram bot](https://www.reddit.com/r/scihub/comments/cbzod3/official_telegram_bot_for_scihub/)
   - Genesis Library
     - [Wikipedia](https://en.wikipedia.org/wiki/Library_Genesis)
 
