@@ -14,8 +14,10 @@ I want to put up some resources for researches that might be useful.
   - [Setup Zotero](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
 - Bibliography banks
   - SciHub
-    - [Wiki](https://en.wikipedia.org/wiki/Sci-Hub)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Sci-Hub)
     - [Reddit](https://www.reddit.com/r/scihub/)
+  - Genesis Library
+    - [Wikipedia](https://en.wikipedia.org/wiki/Library_Genesis)
 
 ## Game Theory
 
@@ -34,3 +36,9 @@ I want to put up some resources for researches that might be useful.
 
 - [International Journal of Game Theory](https://www.springer.com/journal/182)
 - [Games and Economic Behavior](https://www.journals.elsevier.com/games-and-economic-behavior)
+
+### Books
+
+- [A Course in Game Theory](https://mitpress.mit.edu/books/course-game-theory)
+- [Algorithmic Game Theory](https://doi.org/10.1017/CBO9780511800481)
+- [Mathematical Foundations of Game Theory](https://www.springer.com/gp/book/9783030266455)
