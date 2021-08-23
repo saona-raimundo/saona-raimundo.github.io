@@ -16,13 +16,17 @@ permalink: /more/software/
 
 # <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"> Rust crates 
 
-## [neumann](https://crates.io/crates/neumann)
+## [asking](https://crates.io/crates/asking)
 
-Game Theory
+Build async prompts
 
 ## [markovian](https://crates.io/crates/markovian)
 
 Simulation of Stochastic processes
+
+## [neumann](https://crates.io/crates/neumann)
+
+Game Theory
 
 ## [preexplorer](https://crates.io/crates/preexplorer)
 
