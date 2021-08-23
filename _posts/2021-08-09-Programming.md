@@ -14,6 +14,8 @@ I put up some tools I use for programming.
 
 [rustfmt](https://github.com/rust-lang/rustfmt)
 
+[sccache](https://github.com/mozilla/sccache)
+
 ## [Sublime Text](https://www.sublimetext.com)
 
 [Rust Enhanced](https://github.com/rust-lang/rust-enhanced)
