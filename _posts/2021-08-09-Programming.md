@@ -16,6 +16,8 @@ I put up some tools I use for programming.
 
 [sccache](https://github.com/mozilla/sccache)
 
+[Rust search extension](https://rust.extension.sh/)
+
 ## [Sublime Text](https://www.sublimetext.com)
 
 [Rust Enhanced](https://github.com/rust-lang/rust-enhanced)
