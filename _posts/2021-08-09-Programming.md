@@ -8,6 +8,8 @@ I put up some tools I use for programming.
 
 # Shell
 
+Shell manager: [Windows terminal](https://github.com/microsoft/terminal)
+
 ## [PowerShell](https://github.com/PowerShell/PowerShell)
 
 - [Starship](https://starship.rs/)
