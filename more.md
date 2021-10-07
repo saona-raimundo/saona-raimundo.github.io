@@ -9,6 +9,7 @@ permalink: /more/
 # <a href="{{site.baseurl}}/more/events"> Events </a>
 # <a href="{{site.baseurl}}/more/experiences"> Experiences </a>
 # <a href="{{site.baseurl}}/more/funding"> Funding </a>
+# <a href="{{site.baseurl}}/more/leadership"> Leadership (politics) </a>
 # <a href="{{site.baseurl}}/more/photos"> Photos </a>
 # <a href="{{site.baseurl}}/more/press"> Press </a>
 # <a href="{{site.baseurl}}/more/professional-activities"> Professional activites </a>
