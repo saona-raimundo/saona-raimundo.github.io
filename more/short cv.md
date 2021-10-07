@@ -4,7 +4,7 @@ title: Short CV
 permalink: /more/short-cv/
 ---
 
-# PHD
+# PhD
 
 Institute of Science and Technology Austria (IST Austria)
 

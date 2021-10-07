@@ -5,3 +5,5 @@ date: 2020-09-01
 place: Online
 link: https://sites.google.com/view/budapest-vienna-proba-semi/home
 ---
+
+Assisted to the seminar.
