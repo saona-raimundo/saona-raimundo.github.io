@@ -18,7 +18,7 @@ Rotation, IST Austria
 
 October 2020 - January 2021
 
-Risk objectives in Partially Observable Markov Decission Processes (POMDPs)
+Risk-aware objectives in Partially Observable Markov Decission Processes (POMDPs)
 
 # Supervisors
 
