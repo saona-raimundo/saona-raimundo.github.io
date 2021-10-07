@@ -13,7 +13,7 @@ June 2021 - September 2021
 
 Numerichal schemes for Partial Differential Equations (PDEs) and Entropy estimator
 
-## Simone Bombari
+## [Simone Bombari](https://simone-bombari.github.io/)
 Rotation, IST Austria
 
 October 2020 - January 2021
