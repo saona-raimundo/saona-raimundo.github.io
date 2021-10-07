@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leadership (Politics)
-permalink: /more/awards/
+permalink: /more/leadership/
 ---
 
 This page contains all remarkable activities I consider political actions or positions.
