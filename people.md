@@ -11,14 +11,14 @@ Internship, IST Austria
 
 June 2021 - September 2021
 
-Numerichal schemes for PDEs and Entropy estimator
+Numerichal schemes for Partial Differential Equations (PDEs) and Entropy estimator
 
 ## Simone Bombari
 Rotation, IST Austria
 
 October 2020 - January 2021
 
-Risk objectives in POMDPs
+Risk objectives in Partially Observable Markov Decission Processes (POMDPs)
 
 # Supervisors
 
