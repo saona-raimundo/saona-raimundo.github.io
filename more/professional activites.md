@@ -29,4 +29,9 @@ permalink: /more/professional-activities/
 # Organizing
 
 ## Seminars
-- [Stochastic seminars IST Austria](https://stochasticseminars.pages.ist.ac.at/)
+
+### [Stochastic seminars IST Austria](https://stochasticseminars.pages.ist.ac.at/)
+
+September 2020 - Today
+
+Goal: Increase the conversation between groups (at IST Austria) that work in solutions for stochastic problems and properties of stochastic dynamics.
