@@ -6,6 +6,20 @@ permalink: /people/
 
 # Students
 
+## Mona Mohammadi
+Internship, IST Austria
+
+November 2021 - April 2022
+
+Optimal stopping problems: Prophet inequality and Secretary problem
+
+## Mahdi Jafari
+Internship, IST Austria
+
+November 2021 - ?? 2022
+
+Markov Decission Processes: New algorithms for reachability objective
+
 ## Mikhailo Bondarenko
 Internship, IST Austria
 
