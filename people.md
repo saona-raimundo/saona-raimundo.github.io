@@ -6,6 +6,20 @@ permalink: /people/
 
 # Students
 
+## Mona Mohammadi
+Internship, IST Austria
+
+November 2021 - April 2022
+
+Optimal stopping problems: Prophet inequality and Secretary problem
+
+## Mahdi Jafari
+Internship, IST Austria
+
+November 2021 - ?? 2022
+
+Markov Decission Processes: New algorithms for reachability objective
+
 ## Mikhailo Bondarenko
 Internship, IST Austria
 
@@ -13,7 +27,7 @@ June 2021 - September 2021
 
 Numerichal schemes for Partial Differential Equations (PDEs) and Entropy estimator
 
-## Simone Bombari
+## [Simone Bombari](https://simone-bombari.github.io/)
 Rotation, IST Austria
 
 October 2020 - January 2021

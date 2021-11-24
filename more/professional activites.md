@@ -11,6 +11,10 @@ permalink: /more/professional-activities/
 
 # Reviewing
 
+## Certification
+
+- [Elsevier Peer Reviewer Course](https://researcheracademy.elsevier.com/navigating-peer-review/certified-peer-reviewer-course) (completed on February 2021)
+
 ## Conferences
 
 - [EC20](http://ec20.sigecom.org/) (Twenty-First ACM Conference on Economics and Computation)
