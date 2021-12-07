@@ -5,7 +5,7 @@ date: 2021-12-07 00:00:00 +0000
 front: true
 ---
 
-I am going to attend the [Seventh EPICENTER Summer Course in Epistemic Game Theory 2022 | EpiCenter](https://www.epicenter.name/summercourse/)!
+I am going to attend the [Seventh EPICENTER Summer Course in Epistemic Game Theory 2022 <span>&#124;</span> EpiCenter](https://www.epicenter.name/summercourse/)!
 
 ## What is Epistemic Game Theory?
 
@@ -13,8 +13,6 @@ This field takes a new, fresh approach to game theory, and studies how people *
 
 ## Do you want to more?
 
-[FROM CLASSICAL TO EPISTEMIC GAME THEORY | International Game Theory Review](https://doi.org/10.1142/S0219198914400015)
+[FROM CLASSICAL TO EPISTEMIC GAME THEORY <span>&#124;</span> International Game Theory Review](https://doi.org/10.1142/S0219198914400015)
 
 This is a gentle and pleasing introduction :)
-
-
