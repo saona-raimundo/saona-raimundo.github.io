@@ -1,9 +1,12 @@
 ---
+
 layout: post
 title:  "Introduction to researching"
 date:   2021-07-22 00:00:00 +0000
 front: false
+
 ---
+
 I want to put up some resources for researches that might be useful.
 
 ## General theoretician
