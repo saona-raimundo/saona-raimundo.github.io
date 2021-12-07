@@ -1,5 +1,14 @@
+# bundle
 _site
+
+# sass
+# CSS cache
 .sass-cache
+
+# jekyll
 .jekyll-cache
 .jekyll-metadata
-vendor
+
+# npm
+# Saves packages installed
+node_modules
