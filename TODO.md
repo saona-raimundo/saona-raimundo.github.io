@@ -1,5 +1,16 @@
 # To do
 
+## Automatic broken link checker
+
+Check https://www.brokenlinkcheck.com/ automatically upon publishing :)
+
+## Subscribe
+
+Goal: Notify people of your posts
+Strategy: Create a RSS for your blog posts
+Details
+	https://tonsky.me/blog/how-to-subscribe/
+
 ## Search filter
 
 - [Working example](https://cristianpb.github.io/blog/amp-search-jekyll)
@@ -22,19 +33,18 @@
 - References
   - https://www.ihs.ac.at/publications/eco/visit_profs/blume/machinaneu.pdf
 
-
 # Workflow
 
 - Check out while editing
-
+  
   > bundle exec jekyll serve --watch
 
 - Git for updating
-
+  
   > git add .
-  >
+  > 
   > git commit -m "Update"
-  >
+  > 
   > git push origin main
 
 # Resources

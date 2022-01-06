@@ -13,7 +13,7 @@ list_title: News
 
 Currently, I am a PhD student at [IST Austria](https://ist.ac.at/en/home/) under the supervision of [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/).
 
-**NOTICE:** There are open positions for [INTERNSHIPS](https://phd.pages.ist.ac.at/internships/) and [THESIS](https://phd.pages.ist.ac.at/bsms-thesis/) (Bachelor or Master)
+**NOTICE:** There are open positions for [INTERNSHIPS](https://phd.pages.ist.ac.at/internships/) and [THESIS](https://phd.pages.ist.ac.at/bsc-msc-research-projects/) (Bachelor or Master)
 
 E-mail: raimundo.saona (at) gmail (dot) com 
 
