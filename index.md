@@ -6,14 +6,44 @@ layout: home
 list_title: News
 ---
 
-<a href="https://saona-raimundo.github.io/">
-<img src="me.jpg" 
-	class="galleryItem"
-	width=200px>
+<div vocab="https://schema.org/" typeof="Person">
+	<div>
+		<a href="https://saona-raimundo.github.io/">
+		<img src="me.jpg" 
+		class="galleryItem"
+		width=200px>
+		</a>
+	</div>
+	<div>
+		I am 
+		<a property="sameAs" href="https://saona-raimundo.github.io/">
+			<span property="name">
+				Raimundo Saona</span></a>, currently a PhD student at 
+		<span property="memberOf" typeof="OrganizationRole">
+			<span property="alumniOf" typeof="CollegeOrUniversity">
+			<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
+				<span property="name">IST Austria</span>
+			</a>
+			</span>
+		</span>
+		since 
+		<meta property="startDate" content="2019-06">
+			2019
+		under the supervision of 
+		<span vocab="https://schema.org/" typeof="Person">
+			<a property="sameAs" href="https://pub.ist.ac.at/~kchatterjee/">
+				<span property="name">
+					Krishnendu Chatterjee
+				</span>
+			</a>
+		</span>.
+	</div>
+</div>
 
-Currently, I am a PhD student at [IST Austria](https://ist.ac.at/en/home/) under the supervision of [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/).
-
-**NOTICE:** There are open positions for [INTERNSHIPS](https://phd.pages.ist.ac.at/internships/) and [THESIS](https://phd.pages.ist.ac.at/bsc-msc-research-projects/) (Bachelor or Master)
+<p>
+	<strong>NOTICE:</strong> 
+	There are open positions for <a href="https://phd.pages.ist.ac.at/internships/">INTERNSHIPS</a> and <a href="https://phd.pages.ist.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a>.
+</p>
 
 E-mail: raimundo.saona (at) gmail (dot) com 
 

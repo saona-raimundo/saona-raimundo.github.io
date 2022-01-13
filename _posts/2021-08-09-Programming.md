@@ -30,10 +30,6 @@ Shell manager: [Windows terminal](https://github.com/microsoft/terminal)
 
 - [Rust search extension](https://rust.extension.sh/)
 
-# Text editor
+### Integrated Developer Environment (IDE)
 
-## [Sublime Text](https://www.sublimetext.com)
-
-- [Rust Enhanced](https://github.com/rust-lang/rust-enhanced)
-
-- [Rustfmt](https://packagecontrol.io/packages/RustFmt)
+Check out https://areweideyet.com and make your favorite choice!
