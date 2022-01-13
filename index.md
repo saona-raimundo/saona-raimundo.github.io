@@ -16,12 +16,12 @@ list_title: News
 	</div>
 	<div>
 		I am currently a 
-		<span vocab="https://schema.org/" typeof="Role">
-			<span property="name">
+		<span vocab="https://schema.org/" typeof="OrganizationRole">
+			<span property="roleName">
 				PhD student
 			</span>
 			at
-			<span property="affiliation" typeof="Organization">
+			<span typeof="Organization">
 				<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
 					<span property="name">IST Austria</span>
 				</a>
