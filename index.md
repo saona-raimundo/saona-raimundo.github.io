@@ -20,14 +20,13 @@ list_title: News
 			<span property="name">
 				Raimundo Saona</span></a>, currently a PhD student at 
 		<span property="memberOf" typeof="OrganizationRole">
-			<span property="alumniOf" typeof="CollegeOrUniversity">
 			<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
 				<span property="name">IST Austria</span>
 			</a>
 			</span>
 		</span>
 		since 
-		<meta property="startDate" content="2019-06">
+		<meta property="startDate" content="2019-06-01">
 			2019
 		under the supervision of 
 		<span vocab="https://schema.org/" typeof="Person">
