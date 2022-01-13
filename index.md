@@ -8,31 +8,36 @@ list_title: News
 
 <div vocab="https://schema.org/" typeof="Person">
 	<div>
-		<a href="https://saona-raimundo.github.io/">
+		<a property="sameAs" href="https://saona-raimundo.github.io/">
 		<img src="me.jpg" 
 		class="galleryItem"
 		width=200px>
 		</a>
 	</div>
 	<div>
-		I am currently a PhD student at 
-		<span property="memberOf" typeof="OrganizationRole">
-			<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
-				<span property="name">IST Austria</span>
-			</a>
+		I am currently a 
+		<span vocab="https://schema.org/" typeof="Role">
+			<span property="name">
+				PhD student
 			</span>
+			at
+			<span property="affiliation" typeof="Organization">
+				<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
+					<span property="name">IST Austria</span>
+				</a>
+			</span>
+			since 
+			<meta property="startDate" content="2019-06-01">
+				2019,
+			under the supervision of 
+			<span vocab="https://schema.org/" typeof="Person">
+				<a property="sameAs" href="https://pub.ist.ac.at/~kchatterjee/">
+					<span property="name">
+						Krishnendu Chatterjee
+					</span>
+				</a>
+			</span>.
 		</span>
-		since 
-		<meta property="startDate" content="2019-06-01">
-			2019
-		under the supervision of 
-		<span vocab="https://schema.org/" typeof="Person">
-			<a property="sameAs" href="https://pub.ist.ac.at/~kchatterjee/">
-				<span property="name">
-					Krishnendu Chatterjee
-				</span>
-			</a>
-		</span>.
 	</div>
 </div>
 
