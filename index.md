@@ -15,10 +15,7 @@ list_title: News
 		</a>
 	</div>
 	<div>
-		I am 
-		<a property="sameAs" href="https://saona-raimundo.github.io/">
-			<span property="name">
-				Raimundo Saona</span></a>, currently a PhD student at 
+		I am currently a PhD student at 
 		<span property="memberOf" typeof="OrganizationRole">
 			<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
 				<span property="name">IST Austria</span>
