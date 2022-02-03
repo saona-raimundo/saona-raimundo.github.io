@@ -35,8 +35,8 @@ list_title: News
 					<span property="name">
 						Krishnendu Chatterjee
 					</span>
-				</a>
-			</span>.
+				</a>.
+			</span>
 		</span>
 	</div>
 </div>

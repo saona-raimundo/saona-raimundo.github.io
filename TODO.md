@@ -1,5 +1,9 @@
 # To do
 
+## RDFa
+
+Add WebSemantics (using RDFa) to other pages than the home page.
+
 ## Automatic broken link checker
 
 Check https://www.brokenlinkcheck.com/ automatically upon publishing :)

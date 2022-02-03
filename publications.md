@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+# Relation between the number of peaks and the number of reciprocal sign epistatic interactions
+Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-group/), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). Submitted
+
+**Paper**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
+
 # The Complexity of POMDPs with Long-run Average Objectives
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). Mathematics of Operations Research.
 
@@ -22,3 +27,4 @@ permalink: /publications/
 [D. Acuña](https://www.ing.uc.cl/academicos-e-investigadores/david-esteban-acuna-ureta/), [M. Orchard](https://www.cec.uchile.cl/~morchard/), R. Saona. Applied Soft Computing (in Press).
 
 **Paper**: [https://doi.org/10.1016/j.asoc.2018.01.033](https://doi.org/10.1016/j.asoc.2018.01.033)
+
