@@ -19,6 +19,10 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 **Video**: [Bernoulli-IMS One World Symposium 2020](https://www.youtube.com/watch?v=5n9KdntRj6I)
 
 # Prophet Secretary Through Blind Strategies
+[J. Correa](https://www.dii.uchile.cl/~jcorrea/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). Math. Program. 190, 483–521 (2021).
+
+**Paper**: [https://doi.org/10.1007/s10107-020-01544-8](https://doi.org/10.1007/s10107-020-01544-8)
+
 [J. Correa](https://www.dii.uchile.cl/~jcorrea/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). SODA '19: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete Algorithms.
 
 **Paper**: [https://doi.org/10.1137/1.9781611975482.118](https://doi.org/10.1137/1.9781611975482.118)

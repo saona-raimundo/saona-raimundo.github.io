@@ -11,7 +11,9 @@ Internship, IST Austria
 
 November 2021 - April 2022
 
-Optimal stopping problems: Prophet inequality and Secretary problem
+Optimal stopping problems: Prophet inequality and Secretary problem.
+
+She gave a [talk titled "Repeated Prophet Inequality"](https://sites.google.com/view/adwim-2022/abstracts#h.uai6gxfy57n0) in the [SECOND Austrian Day of women in mathematics](https://sites.google.com/view/adwim-2022/home?authuser=0)
 
 ## Mahdi Jafari
 Internship, IST Austria
@@ -71,3 +73,4 @@ Preventive alert for inter-regional fires
 - José Correa
 - David Acuña
 - Marcos Orchard
+
