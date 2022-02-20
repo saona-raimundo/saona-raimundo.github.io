@@ -43,7 +43,7 @@ list_title: News
 
 <p>
 	<strong>NOTICE:</strong> 
-	There are open positions for <a href="https://phd.pages.ist.ac.at/internships/">INTERNSHIPS</a> and <a href="https://phd.pages.ist.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a>.
+	There are open positions for <a href="https://phd.ist.ac.at/scientific-internships/">year-round INTERNSHIPS</a>, <a href="https://phd.pages.ist.ac.at/internships/">summer INTERNSHIPS</a> and <a href="https://phd.pages.ist.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a>.
 </p>
 
 E-mail: raimundo.saona (at) gmail (dot) com 
