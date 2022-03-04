@@ -22,8 +22,10 @@ list_title: News
 			</span>
 			at
 			<span typeof="Organization">
-				<a property="sameAs" href="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
-					<span property="name">IST Austria</span>
+				<a href= "https://ista.ac.at">
+				<span property="sameAs" content="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
+					<span property="name">Institute of Science and Technology Austria (ISTA)</span>
+				</span>
 				</a>
 			</span>
 			since 

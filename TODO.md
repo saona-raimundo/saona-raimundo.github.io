@@ -53,6 +53,8 @@ Details
 
 # Resources
 
+- RDFa checker
+	- https://rdfa.info/play/
 - Getting started
   - https://24ways.org/2013/get-started-with-github-pages/
 - Post types
