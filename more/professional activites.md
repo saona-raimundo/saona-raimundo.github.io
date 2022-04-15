@@ -17,6 +17,7 @@ permalink: /more/professional-activities/
 
 ## Conferences
 
+- [FOCS22](https://focs2022.eecs.berkeley.edu) (63rd IEEE Symposium on Foundations of Computer Science)
 - [EC20](http://ec20.sigecom.org/) (Twenty-First ACM Conference on Economics and Computation)
 - [STOC19](http://acm-stoc.org/stoc2019/) (51st Annual ACM Symposium on the Theory of Computing)
 
@@ -39,3 +40,4 @@ permalink: /more/professional-activities/
 September 2020 - Today
 
 Goal: Increase the conversation between groups (at IST Austria) that work in solutions for stochastic problems and properties of stochastic dynamics.
+
