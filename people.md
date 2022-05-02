@@ -9,7 +9,7 @@ permalink: /people/
 ## Mona Mohammadi
 Internship, IST Austria
 
-November 2021 - April 2022
+November 2021 - October 2022
 
 Optimal stopping problems: Prophet inequality and Secretary problem.
 

@@ -4,7 +4,7 @@ title: Software
 permalink: /more/software/
 ---
 
-# Apps
+# <img src="apps.svg" class="galleryItem" width=140p> Apps
 
 ## Virus alarm
 
@@ -39,3 +39,4 @@ Visualization tool
 ## [Prohet Secretary](https://github.com/saona-raimundo/prophet-secretary-through-blind-strategies)
 
 Master thesis scripts
+
