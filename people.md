@@ -68,9 +68,123 @@ Preventive alert for inter-regional fires
 
 # Co-authors
 
-- Krishnendu Chatterjee
 - Bruno Ziliotto
-- José Correa
 - David Acuña
+- Fyodor Kondrashov
+- José Correa
+- Krishnendu Chatterjee
+- Ksenia Khudiakova
 - Marcos Orchard
+
+# Researchers in the world
+
+This is a map of people and their institutions I have encountered during my time as a researcher.
+
+<!-- Leaflet (https://leafletjs.com) -->
+<!-- Stylesheet -->
+<link rel="stylesheet"
+	href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+	integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+	crossorigin=""
+/>
+<!-- Script -->
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+	integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+	crossorigin="">
+</script>
+<!-- Leaflet marker cluster (https://github.com/Leaflet/Leaflet.markercluster) -->
+<link rel="stylesheet"
+	href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+/>
+<link rel="stylesheet"
+	href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+/>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js">
+</script>
+
+
+<noscript>
+	This website uses JavaScript, make sure it is enabled please.
+</noscript>
+
+<!-- Map -->
+<div id="map" style="width: 600px; height: 400px; position: relative;"></div>
+
+
+<!-- Map information -->
+<script>
+
+	// Points to show
+	var information = [
+		// ['Name', 'Institution', 'Longitude ', 'Latitude'],
+		['Aditya Aradhye', 'Czech Technical University', 50.10318089221843, 14.391284097595074],
+		['Anna Zseleva', 'Maastricht University', 50.84698050189696, 5.6879908264648735],
+		['Antonín Kučera', 'Masaryk University', 49.19873503876354, 16.605437641735367],
+		['Arkadi Predtetchinski', 'Maastricht University', 50.84698050189696, 5.6879908264648735],
+		['Bary S. R. Pradelski', 'CNRS', 48.85163984352975, 2.2638762544034945],
+		['Barnabé Monnot', 'Ethereum Foundation', 52.50190943746014, 13.425802343989291],
+		['Bruno Ziliotto', 'CNRS & CEREMADE', 48.87019258518365, 2.2737967576874163],
+		['Dana Pizarro', "O'Higgins University", -34.16399984063102, -70.74160098465548],
+		['Eilon Solan', 'Tel-Aviv University', 32.11350491443059, 34.80434478157295],
+		['Eran Shmaya', 'Stonny Brook University', 40.90490159414964, -73.12390052976914],
+		['Gaëtan Fournier', 'Aix-Marseille Université', 43.30283923513663, 5.379250610798506],
+		['Galit Seknadji-Golan', 'London School of Economics', 51.51457231426795, -0.11640838699617974],
+		['János Flesch', 'Maastricht University', 50.84698050189696, 5.6879908264648735],
+		['José Correa', 'University of Chile', -33.45688485684971, -70.6668742625855],
+		['Krishnendu Chatterjee', 'ISTA', 48.309568, 16.258709],
+		['Mahsa Shirmohammadi', 'CNRS & IRIF', 48.82717897389951, 2.380807899391197],
+		['Marc Schröder', 'Maastricht University', 50.844613783694875, 5.685717869834652],
+		['Marco Scarsini', 'LUISS', 41.92461719962625, 12.493981712597572],
+		['Miquel Oliu-Barton', 'Paris Dauphine', 48.87019258518365, 2.2737967576874163],
+		['Nicolas Klein', 'University of Montreal', 45.50572084767318, -73.61383430449108],
+		['Nicolas Vieille', 'HEC Paris', 48.757211966416335, 2.1688400128797434],
+		['Raimundo Saona', 'ISTA', 48.309568, 16.258709],
+		['Rasmus Ibsen-Jensen', 'Uniersity of Liverpool', 53.404807964306286, -2.965202442727258],
+		['Soldead Torres', 'University of Valparaiso', -33.045874464135814, -71.61320389488866],
+		['Sven Rady', 'Hausdorff Center for Mathematics', 50.728495688209414, 7.08418867434603],
+		['Thomas Lidbetter', 'Rutgers Business School', 40.745335845427554, -74.1703874162834],
+		['Tim Oosterwijk', 'Vrije Universiteit Amsterdam', 52.33389445495339, 4.865709168861083],
+		['Tommaso Cesari', 'Toulouse School of Economics', 43.604609820951566, 1.4348480220979003],
+		['Tristan Tomala', 'HEC Paris', 48.757211966416335, 2.1688400128797434],
+		['Xavier Venel', 'LUISS', 41.92461719962625, 12.493981712597572],
+		['Yehuda "John" Levy', 'University of Glasgow', 55.871507696350534, -4.288443046314292],
+		['Yevgeny Tsodikovich', 'Aix-Marseille School of Economics', 43.302800196174985, 5.3792507107985275],
+	];
+
+	// Map implementation
+	var map = L.map('map')
+		.setView([0, 0], 1) // World view
+	;
+
+	// Adding tiles
+	var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+		maxZoom: 18,
+		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+		id: 'mapbox/streets-v11',
+		tileSize: 512,
+		zoomOffset: -1
+	}).addTo(map);
+
+	// Displaying information
+	var markers = L.markerClusterGroup();
+	for (var i = 0; i < information.length; ++i) {
+		var row = information[i];
+		var marker = L.marker([row[2], row[3]]); //addTo(map);
+		marker.bindPopup("<b>" + row[0] +"</b>" + "<br>" + row[1]).openPopup();
+		markers.addLayer(marker);
+	}
+	map.addLayer(markers);
+
+	// Easily find new coordinates by clicking
+	var popup = L.popup();
+	function onMapClick(e) {
+	    popup
+	        .setLatLng(e.latlng)
+	        .setContent(e.latlng.toString())
+	        .openOn(map);
+	}
+	map.on('click', onMapClick);
+	
+</script>
 
