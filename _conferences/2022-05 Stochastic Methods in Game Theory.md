@@ -217,3 +217,78 @@ An extension of the folk theorem for games with switching costs.
 Folks theorem characterizes the possible long-run average equilibrium payoffs. In particular, it claims that there are two properties characterizing these payoffs: feasibility and invidual rationality. The same characteristics extends when one consider switching costs.
 
 Switching costs consists on penalities players need to pay in order to take different decisions in consecutive rounds.
+
+# Open questions
+
+## Secretary game - one strategic candidate
+
+In the Secretary problem, 
+- a recruiter see candidates in a random order
+- after seeing a candidate, an irrevocable hiring decision must be made
+- there is no previous information other than the number of candidates
+- upon seeing a candidate, the relative ranking with previous options is known
+
+The objective of the secretary is to maximize the probability of choosing the maximum.
+
+The twist is when there is one candidate that knows their absolute ranking and can choose their position in the order.
+
+This problem was proposed by Marco Scarsini.
+
+### Simple setting: unaware recruiter
+
+Given the optimal strategy of the recruiter (waiting $\lfloor n / e \rfloor$ samples and choose the next ranking), the optimal strategy for the strategic candidate is to appear at place $(\lfloor n / e \rfloor + 1)$, no matter their absolute rank.
+
+### Game setting
+
+When the recruiter is aware of this candidate, the optimal strategy is no longer deterministic by mixed. Actually, for the strategic candidate too.
+<center>
+	What is the equilibrium of this game?
+</center>
+
+## Existence of equilibria for non-regular payoffs
+
+The objective is to push measurability of payoffs as far as possible, maintaining the existence of equilibria.
+
+The setting considers
+- Two players
+- Repeated games
+- Payoffs that are (borel-measurable) history-dependent and bounded.
+
+<center>
+	Is there always an equilibria in such games?
+</center>
+
+This problem was proposed by Eilon Solan.
+
+### Related works
+
+- Equilibria in Repeated Games with Countably Many Players and Tail-Measurable Payoffs
+	- Eilon Solan, Galit Ashkenazi-Golan, Janos Flesch, and Arkadi Predtetchinski.
+- In quitting games, existence of equilibria is not known
+
+
+
+
+## Meeting place for uncommunicated players
+
+Consider two people who want to meet in a cafe in the city.
+They can not communicate beforehand and can try tom meet every day.
+The sooner they meet the better.
+
+<center>
+	What are optimal strategies for the players?
+</center>
+
+Since there is no communication, it is natural to assume that players must play the same strategy.
+
+This problem was proposed by Thomas Lidbetter.
+
+### Previous works
+
+- For #places = 3, there is an optimal strategy where players
+	- Choose a random order
+	- Start visitng cafes in this order
+	- At the following day, with some probability they stay at the same cafe, if not the continue their order
+- For #places = 4, the previous strategy is no loger optimal, ie
+	- There exists a different explicit strategy that is bettter
+		- This other strategy is not known to be optimal
