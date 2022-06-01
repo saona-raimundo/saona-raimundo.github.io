@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Introduction to researching"
+title:  "Introduction to researching (in Game Theory)"
 date:   2021-07-22 00:00:00 +0000
 front: false
 
@@ -44,6 +44,25 @@ I want to put up some resources for researches that might be useful.
 
 ### Books
 
-- [A Course in Game Theory](https://mitpress.mit.edu/books/course-game-theory)
-- [Algorithmic Game Theory](https://doi.org/10.1017/CBO9780511800481)
-- [Mathematical Foundations of Game Theory](https://www.springer.com/gp/book/9783030266455)
+- Classical, easy-to-read
+	- [A Course in Game Theory](https://mitpress.mit.edu/books/course-game-theory)
+		- Main subsections are
+			- Strategic Games
+			- Extensive games with perfect information
+			- Extensive games with imperfect information
+			- Coalition games
+- Computer Science and Mathematics meets
+	- [Algorithmic Game Theory](https://doi.org/10.1017/CBO9780511800481)
+		- Main subsections are
+			- Computing in Games
+			- Algorithmic Mechanism Design
+			- Quantifying the Inefficiency of Equilibria
+			- Additional topics
+- Formal mathematical introduction
+	- [Mathematical Foundations of Game Theory](https://www.springer.com/gp/book/9783030266455)
+		- Notable mention to equilibria in various settings
+- Broad introduction to the field 
+	- [Game Theory](https://www.cambridge.org/at/academic/subjects/economics/microeconomics/game-theory-2nd-edition?format=HB&isbn=9781108493451)
+- Encyclopedia-like
+	- [Complex Social and Behavioral Systems: Game Theory and Agent-Based Models](http://link.springer.com/10.1007/978-1-0716-0368-0)
+
