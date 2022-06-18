@@ -7,7 +7,9 @@ permalink: /publications/
 # Relation between the number of peaks and the number of reciprocal sign epistatic interactions
 Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-group/), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). Submitted
 
-**Paper**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
+**Paper**: [https://doi.org/10.1007/s11538-022-01029-z](https://doi.org/10.1007/s11538-022-01029-z)
+
+**BioRxiv**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
 
 # The Complexity of POMDPs with Long-run Average Objectives
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). Mathematics of Operations Research.

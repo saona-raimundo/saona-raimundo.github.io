@@ -33,3 +33,15 @@ Shell manager: [Windows terminal](https://github.com/microsoft/terminal)
 ### Integrated Developer Environment (IDE)
 
 Check out https://areweideyet.com and make your favorite choice!
+
+## [LaTeX]
+
+### Integrated Developer Environment (IDE)
+
+- Atom
+	- With the following packages
+		- See
+			- https://acarril.github.io/posts/atom-latex
+			- https://gist.github.com/Aerijo/5b9522530715e5be6e89fc012e9a72a8#spelling
+			- https://towardsdatascience.com/setting-up-latex-on-your-atom-editor-7ea624571d50
+
