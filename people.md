@@ -6,6 +6,13 @@ permalink: /people/
 
 # Students
 
+## Roodabeh Safavi
+Internship, IST Austria
+
+June 2022 - September 2022
+
+Game Theory literature review, towards Simple Stochastic Games.
+
 ## Mona Mohammadi
 Internship, IST Austria
 
