@@ -25,6 +25,9 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 
 **Paper**: [https://doi.org/10.1007/s10107-020-01544-8](https://doi.org/10.1007/s10107-020-01544-8)
 
+R. Saona. Prophet inequality through schur-convexity and optimal control. Master thesis at University of Chile.
+**Master thesis**: [https://repositorio.uchile.cl/handle/2250/168161](https://repositorio.uchile.cl/handle/2250/168161)
+
 [J. Correa](https://www.dii.uchile.cl/~jcorrea/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). SODA '19: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete Algorithms.
 
 **Paper**: [https://doi.org/10.1137/1.9781611975482.118](https://doi.org/10.1137/1.9781611975482.118)
