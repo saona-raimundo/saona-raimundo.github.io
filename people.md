@@ -20,7 +20,9 @@ November 2021 - October 2022
 
 Optimal stopping problems: Prophet inequality and Secretary problem.
 
-She gave a [talk titled "Repeated Prophet Inequality"](https://sites.google.com/view/adwim-2022/abstracts#h.uai6gxfy57n0) in the [SECOND Austrian Day of women in mathematics](https://sites.google.com/view/adwim-2022/home?authuser=0)
+She gave a [talk titled "Repeated Prophet Inequality"](https://sites.google.com/view/adwim-2022/abstracts#h.uai6gxfy57n0) in the [SECOND Austrian Day of women in mathematics](https://sites.google.com/view/adwim-2022/home?authuser=0).
+
+We submitted a paper to [ACM-SIAM Symposium on Discrete Algorithms (SODA23)](https://www.siam.org/conferences/cm/conference/soda23) on the Prophet Inequality.
 
 ## Mahdi Jafari
 Internship, IST Austria
@@ -78,14 +80,17 @@ Preventive alert for inter-regional fires
 - Bruno Ziliotto
 - David Acuña
 - Fyodor Kondrashov
+- Jakub Svoboda
 - José Correa
 - Krishnendu Chatterjee
 - Ksenia Khudiakova
 - Marcos Orchard
+- Mona Mohammadi
+- Tobias Meggendorfer
 
 # Researchers in the world
 
-This is a map of people and their institutions I have encountered during my time as a researcher.
+I have encountered many good people during my time as a researcher. This map shows some of them, with their respective affiliations when I met them. 
 
 <!-- Leaflet (https://leafletjs.com) -->
 <!-- Stylesheet -->
