@@ -130,6 +130,7 @@ I have encountered many good people during my time as a researcher. This map sho
 	var information = [
 		// ['Name', 'Institution', 'Longitude ', 'Latitude'],
 		['Aditya Aradhye', 'Czech Technical University', 50.10318089221843, 14.391284097595074],
+		['Andreas Schulz', 'Technical University of Munich', 48.158223185617295, 11.567946031296778],
 		['Andrés Perea', 'Maastricht University', 50.84493591828424, 5.684834929071263],
 		['Anna Zseleva', 'Maastricht University', 50.84698050189696, 5.6879908264648735],
 		['Antonín Kučera', 'Masaryk University', 49.19873503876354, 16.605437641735367],
