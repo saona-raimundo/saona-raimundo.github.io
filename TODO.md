@@ -49,7 +49,7 @@ Details
   > 
   > git commit -m "Update"
   > 
-  > git push origin main
+  > git push
 
 # Resources
 
