@@ -30,3 +30,4 @@ Personal webpage of a mathematician.
 
 - `home page, News section`
   front: bool
+

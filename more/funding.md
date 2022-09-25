@@ -6,7 +6,7 @@ permalink: /more/funding/
 
 Where have I gotten money for research from?
 
-This usually appears in papers as "Partially supported by ...".
+This usually appears in papers as "This research was partially supported by ..." in a section "Acknowledgements".
 
 # Present
 
