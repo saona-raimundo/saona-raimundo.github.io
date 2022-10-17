@@ -66,3 +66,6 @@ I want to put up some resources for researches that might be useful.
 - Encyclopedia-like
 	- [Complex Social and Behavioral Systems: Game Theory and Agent-Based Models](http://link.springer.com/10.1007/978-1-0716-0368-0)
 
+### Mailing lists
+
+- [Discrete Mathematics and Algorithms Network (DMANet)](https://www.zaik.uni-koeln.de/AFS/publications/dmanet/)

@@ -18,7 +18,7 @@ Mozilla Rally is an initiative that allows you to share your data for studies yo
   <path class="flag" d="M175.75 28.27a.16.16 0 01-.16.13h-2.29a.17.17 0 01-.16-.22l8-28.06a.16.16 0 01.16-.12h2.29a.17.17 0 01.091.03l.009-.03h8.66a1.39 1.39 0 011.29 1.42 1.84 1.84 0 01-.06.48L193 3.64h11.064a.21.21 0 01.176.23l-5.31 18.51a.22.22 0 01-.2.16h-13.07a1.43 1.43 0 01-1.42-1.08 1.24 1.24 0 010-.27 1.39 1.39 0 011.39-1.4h1.8a1.4 1.4 0 001.34-1.47 1.45 1.45 0 00-1.48-1.32h-8.328z"></path>
 </svg>
 <strong>
-	https://rally.mozilla.org/
+	<a href="https://rally.mozilla.org/">https://rally.mozilla.org/</a>
 </strong>
 
 <emph>How your data may help?</emph>

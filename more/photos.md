@@ -11,6 +11,13 @@ permalink: /more/photos/
 	loading="eager"
 	width=400px>
 
+<img src="2022-09.JPG" 
+	class="galleryItem"
+	alt="Institute of Science and Technology Austria (ISTA) group"
+	referrerpolicy="no-referrer"
+	loading="eager"
+	width=400px>
+
 <img src="2021-07.JPG" 
 	class="galleryItem"
 	alt="IST group"

@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+# Repeated Prophet Inequality with Near-optimal Bounds
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M. Mohammadi, R. Saona. Submitted.
+
+- **ArXiv**: [https://arxiv.org/abs/2209.14368](https://arxiv.org/abs/2209.14368) 
+
 # Relation between the number of peaks and the number of reciprocal sign epistatic interactions
 Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-group/), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). 
 
