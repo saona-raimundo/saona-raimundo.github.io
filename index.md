@@ -39,6 +39,11 @@ list_title: News
 			</span>
 		</span>
 	</div>
+	<div>
+		<address itemprop="email">
+			E-mail: raimundo.saona (at) gmail (dot) com 
+		</address>
+	</div>
 </div>
 
 # <strong>NOTICE</strong> 
@@ -49,8 +54,6 @@ There are open positions for:
 	<li> <a href="https://phd.pages.ist.ac.at/internships/">summer INTERNSHIPS</a> (application deadline around February each year)</li> 
 	<li> <a href="https://phd.pages.ist.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a> </li>
 </ul>
-
-E-mail: raimundo.saona (at) gmail (dot) com 
 
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 
