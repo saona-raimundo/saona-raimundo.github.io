@@ -11,16 +11,16 @@ categories:
 # How to choose in life?
 
 Everyone has thought about how to make decisions in life, mathematicians too.
-As it is customary in Mathematics, they simplify the problem until they can analyze it.
+As is customary in Mathematics, they simplify the problem until they can analyze it.
 For some of us, the simplified setting may have nothing to do with real life.
-The hope is that the essence of the problem is still captured, and therefore the solution "somehow" applies to real life. 
+The hope is that these simplifications still capture the essence of the problem. If that is true, the solution "somehow" applies to real life. 
 In other words, mathematicians hope that they have something meaningful to share with you.
 
 This article introduces the most classical setting, discusses some open extensions and points out a few references for the interested reader. 
 
 ## Mathematical formalization
 
-Many names has been given to the problem, including:
+The problem goes by many names, including:
 - Secretary problem
 - Marriage problem 
 - Dowry problem
@@ -68,8 +68,8 @@ $
 
 Lindley (1961) (Section "The Marriage Problem", page 47) seems to be the first to solve the problem in a scientific journal. 
 
-The solution of this problem consists in rejecting candidates until some fixed number and then choose the first candidate that is better than anything you have seen. 
-This can be expressed by a number $k^*$, that depends on the number of candidates $n$. Then, the optimal selection procedure is determined as follows.
+The solution to this problem consists in rejecting candidates until some fixed number and then choosing the first candidate that is better than anything you have seen. 
+This can be expressed by a number $k^*$, which depends on the number of candidates $n$. Then, the optimal selection procedure is determined as follows.
 1. Reject the first $(k^* - 1)$ candidates,
 2. Then, if a leading candidate appears (someone preferable to all previous ones) then choose it.
 
@@ -238,7 +238,7 @@ Let's model this by saying that the number of candidates is random and follows s
 In the worst possible distribution for the number of candidates, can we choose the best candidate with non-zero probability?
 The answer is no, given by Abdel-Hamid et al. (1982).
 
-Consider a parameter $m \in \mathbb{N}$ and the following distribution $p$ over number of candidates $n$.
+Consider a parameter $m \in \mathbb{N}$ and the following distribution $p$ over the number of candidates $n$.
 <math display="block">
   <mrow>
     <mi>p</mi>
@@ -313,13 +313,13 @@ $$
 -->
 where $c$ is such that $p$ sums up to one.
 
-This is a very tricky belief for the number of candidates you may encounter.
+This belief is a very tricky: usually the number of candidates behaves very differently.
 Person and Sonin (1972) investigated more "usual" distributions like [Uniform](https://en.wikipedia.org/wiki/Discrete_uniform_distribution), [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution) and [Geometric](https://en.wikipedia.org/wiki/Geometric_distribution). 
 In all these cases, you can obtain a constant probability of selecting the best candidate. 
 
 ## History and extensions
 
-Whether you are interested in the history of this problem or its extensions, you may find the following references useful.
+If you are interested in the history of this problem or its extensions, you may find useful the following references.
 
 - "Who solved the secretary problem?"
 	+ Historical and mathematical review. Partly serious, partly entertainment.
@@ -330,7 +330,7 @@ Whether you are interested in the history of this problem or its extensions, you
 
 ## My work
 
-My master thesis "Prophet Secretary Through Blind Strategies" deals with the case where you do not care only about the best candidate, but you want to select a "good" candidate.
+My master thesis titled "Prophet Secretary Through Blind Strategies" deals with the case where you do not care only about the best candidate but want to select a "good" candidate.
 
-This shift in objectives requires to formalize what is a "good" candidate. At the end, the strategy that we propose is that you should start with a very high requirement to accept a candidate and lower it as time goes by.
+This shift in objective requires formalizing what a "good" candidate is. In the end, we propose a strategy where you start with a very high requirement to accept a candidate and lower it as time goes by.
 
