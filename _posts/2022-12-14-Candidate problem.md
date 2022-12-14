@@ -135,50 +135,18 @@ The critical number $k^*$ is defined in terms of the number of candidates $n$ by
 <!--
 $$\sum_{\ell = k^*}^{n - 1} \frac{1}{\ell} \le 1 < \sum_{\ell = k^* - 1}^{n - 1} \frac{1}{\ell} \,.$$
 -->
-The corresponding maximum probability of selecting the best candidate is the following.
-<math display="block">
-  <mrow>
-    <mfrac>
-      <mrow>
-        <msup>
-          <mi>k</mi>
-          <mo>*</mo>
-        </msup>
-        <mo>−</mo>
-        <mn>1</mn>
-      </mrow>
-      <mi>n</mi>
-    </mfrac>
-    <mrow>
-      <munderover>
-        <mo movablelimits="false">∑</mo>
-        <mrow>
-          <mi>ℓ</mi>
-          <mo>=</mo>
-          <msup>
-            <mi>k</mi>
-            <mo>*</mo>
-          </msup>
-          <mo>−</mo>
-          <mn>1</mn>
-        </mrow>
-        <mrow>
-          <mi>n</mi>
-          <mo>−</mo>
-          <mn>1</mn>
-        </mrow>
-      </munderover>
-    </mrow>
-    <mfrac>
-      <mn>1</mn>
-      <mi>ℓ</mi>
-    </mfrac>
-    <mspace width="0.1667em"></mspace>
-    <mi>.</mi>
-  </mrow>
-</math>
+
+It has been shown that
+<math display="block"><mrow><mrow><mo fence="true" form="prefix">(</mo><mfrac><msup><mi>k</mi><mo>*</mo></msup><mi>n</mi></mfrac><mo fence="true" form="postfix">)</mo></mrow><mrow><mspace width="0.2778em"></mspace><munderover><mo stretchy="true" minsize="1.75em" lspace="0" rspace="0">→</mo><mrow><mspace width="0.4286em"></mspace><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow><mspace width="0.4286em"></mspace></mrow><mspace width="2.5000em"></mspace></munderover><mspace width="0.2778em"></mspace></mrow><mfrac><mn>1</mn><mi>e</mi></mfrac><mo>≈</mo><mn>36.78</mn><mi>%</mi><mspace width="0.1667em"></mspace><mi>.</mi></mrow></math>
 <!--
-$$\frac{k^* - 1}{n} \sum_{\ell = k^* - 1}^{n - 1} \frac{1}{\ell} \,.$$
+$$ \left( \frac{k^*}{n} \right) \xrightarrow[n \to \infty]{} \frac{1}{e} \approx 36.78 \% \,. $$
+-->
+In other words, you must wait until you have seen approximately 37% of the candidates until you start accepting anyone that surprises you.
+
+The corresponding maximum probability of selecting the best candidate is the following.
+<math display="block"><mrow><mrow><mo fence="true" form="prefix">(</mo><mfrac><mrow><msup><mi>k</mi><mo>*</mo></msup><mo>−</mo><mn>1</mn></mrow><mi>n</mi></mfrac><mrow><munderover><mo movablelimits="false">∑</mo><mrow><mi>ℓ</mi><mo>=</mo><msup><mi>k</mi><mo>*</mo></msup><mo>−</mo><mn>1</mn></mrow><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></munderover></mrow><mfrac><mn>1</mn><mi>ℓ</mi></mfrac><mo fence="true" form="postfix">)</mo></mrow><mrow><mspace width="0.2778em"></mspace><munderover><mo stretchy="true" minsize="1.75em" lspace="0" rspace="0">→</mo><mrow><mspace width="0.4286em"></mspace><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow><mspace width="0.4286em"></mspace></mrow><mspace width="2.5000em"></mspace></munderover><mspace width="0.2778em"></mspace></mrow><mfrac><mn>1</mn><mi>e</mi></mfrac><mo>≈</mo><mn>36.78</mn><mi>%</mi><mspace width="0.1667em"></mspace><mi>.</mi></mrow></math>
+<!--
+$$ \left( \frac{k^* - 1}{n} \sum_{\ell = k^* - 1}^{n - 1} \frac{1}{\ell} \right) \xrightarrow[n \to \infty]{} \frac{1}{e} \approx 36.78\% \,.$$
 -->
 
 The proof is an application of dynamic programming, see Lindley (1961) for details.
@@ -328,7 +296,7 @@ If you are interested in the history of this problem or its extensions, you may 
 	+ Extensive review
 	+ Freeman (1983)
 
-## My work
+## My previous work
 
 My master thesis titled "Prophet Secretary Through Blind Strategies" deals with the case where you do not care only about the best candidate but want to select a "good" candidate.
 
