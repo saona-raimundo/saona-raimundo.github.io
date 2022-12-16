@@ -12,15 +12,16 @@ Universidad de Chile.
 
 Third director, 2017 and 2018.
 
-## Course representative
+## Class representative
 
 First-year course representative.
 
 2013.
 
-## Course president
+## Class president
 
 High-school course president. 
 
 2008.
+
 

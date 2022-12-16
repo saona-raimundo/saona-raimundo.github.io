@@ -17,6 +17,8 @@ permalink: /more/professional-activities/
 
 ## Conferences
 
+- [IPCO23](https://optimization.discovery.wisc.edu/ipco-2023-madison/) (24th Conference on Integer Programming and Combinatorial Optimization)
+- [SODA23](https://www.siam.org/conferences/cm/conference/soda23) (ACM-SIAM Symposium on Discrete Algorithms 2023)
 - [FOCS22](https://focs2022.eecs.berkeley.edu) (63rd IEEE Symposium on Foundations of Computer Science)
 - [EC20](http://ec20.sigecom.org/) (Twenty-First ACM Conference on Economics and Computation)
 - [STOC19](http://acm-stoc.org/stoc2019/) (51st Annual ACM Symposium on the Theory of Computing)
@@ -29,7 +31,7 @@ permalink: /more/professional-activities/
   - 2021 (2)
   - 2020 (1)
 
-<hr>
+<hr/>
 
 # Organizing
 
