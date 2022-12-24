@@ -142,6 +142,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['Dana Pizarro', "O'Higgins University", -34.16399984063102, -70.74160098465548],
 		['Eilon Solan', 'Tel-Aviv University', 32.11350491443059, 34.80434478157295],
 		['Eran Shmaya', 'Stonny Brook University', 40.90490159414964, -73.12390052976914],
+		['Frederik Mallmann-Trenn', 'King’s Collegue London', 51.51355029116478, -0.11679380052104096]
 		['Gaëtan Fournier', 'Aix-Marseille Université', 43.30283923513663, 5.379250610798506],
 		['Galit Seknadji-Golan', 'London School of Economics', 51.51457231426795, -0.11640838699617974],
 		['János Flesch', 'Maastricht University', 50.84698050189696, 5.6879908264648735],
