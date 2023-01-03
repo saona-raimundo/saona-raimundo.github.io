@@ -162,6 +162,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['Tim Oosterwijk', 'Vrije Universiteit Amsterdam', 52.33389445495339, 4.865709168861083],
 		['Tommaso Cesari', 'Toulouse School of Economics', 43.604609820951566, 1.4348480220979003],
 		['Tristan Tomala', 'HEC Paris', 48.757211966416335, 2.1688400128797434],
+		['Vasilis Livanos', 'University of Illinois at Urbana-Champaign', 40.10164045301988, -88.22707566931092],
 		['Xavier Venel', 'LUISS', 41.92461719962625, 12.493981712597572],
 		['Yehuda "John" Levy', 'University of Glasgow', 55.871507696350534, -4.288443046314292],
 		['Yevgeny Tsodikovich', 'Aix-Marseille School of Economics', 43.302800196174985, 5.3792507107985275],
