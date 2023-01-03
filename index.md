@@ -41,7 +41,7 @@ list_title: News
 	</div>
 	<div>
 		<address itemprop="email">
-			E-mail: raimundo.saona (at) gmail (dot) com 
+			📧 E-mail: raimundo.saona (at) gmail (dot) com 
 		</address>
 	</div>
 </div>
