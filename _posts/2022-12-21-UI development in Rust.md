@@ -74,6 +74,22 @@ Already here, you should consider internationalization of reporting back. Think 
 - [fluent](https://crates.io/crates/fluent)
 	- localization system designed to unleash the entire expressive power of natural language translations 
 
+For testing the application, you may use the following crates.
+- [assert_cmd](https://crates.io/crates/assert_cmd)
+	- Test CLI Applications
+- [escargot](https://crates.io/crates/escargot)
+	- More control over configuring the crate's binary.
+- [duct](https://crates.io/crates/duct) 
+	- Orchestrating multiple processes
+- [commandspec](https://crates.io/crates/commandspec) 
+	- Easily use multiple processes
+- [assert_fs](https://crates.io/crates/assert_fs) 
+	- filesystem fixtures and assertions
+- [tempfile](https://crates.io/crates/tempfile) 
+	- scratchpad directories
+- [dir-diff](https://crates.io/crates/dir-diff) 
+	- testing file side-effects
+
 ### Adding interaction
 
 Consider prompts for more user input, a drop-down menu and such. This is basic interaction.
@@ -101,6 +117,10 @@ Some crates that can help you, even at the CLI level, are the following.
 	- There are more references in the README
 	- Author here :)
 
+For testing the application, you may use the following crates.
+- [rexpect](https://crates.io/crates/rexpect) 
+	- test interactive CLIs
+
 ### Adding complex interactions
 
 So far, we have not left the terminal, and sometimes you do not need to. 
@@ -115,6 +135,10 @@ Some relevant crates are:
 You can do a lot without leaving the terminal!
 And the basic question still apply: how do you plan the interaction with the user?
 
+For testing the application, you may use the following crates.
+- [enigo](https://crates.io/crates/enigo) 
+	- control your mouse and keyboard in an abstract way on different operating systems
+
 ### Stepping out of the terminal
 
 Graphics is but one form of interaction. As soon as you step out of the terminal, you should consider accessibility (different ways of interaction) a major concern. So far, you should consider integration with [AccessKit](https://crates.io/crates/accesskit), "UI accessibility infrastructure across platforms".
@@ -127,6 +151,10 @@ I have used
 - [druid](https://crates.io/crates/druid)
 
 They are great and vastly different, so think about what you want before committing to one of them. 
+
+For testing the application, you may use the following crates.
+- [fantoccini](https://crates.io/crates/fantoccini) 
+	- High-level API for programmatically interacting with web pages through WebDriver
 
 ### Stepping out of a single machine
 
