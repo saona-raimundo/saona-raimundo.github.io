@@ -110,6 +110,8 @@ Some crates that can help you, even at the CLI level, are the following.
 	- small interactive user inputs for the command line
 - [indicatif](https://crates.io/crates/indicatif)
 	- report progress to users
+- [howudoin](https://crates.io/crates/howudoin)
+	- separates the progress producers from the consumer
 - [console](https://crates.io/crates/console)
 	- nice looking command line interfaces
 - [asking](https://crates.io/crates/asking)

@@ -13,7 +13,7 @@ permalink: /publications/
 Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-group/), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). 
 
 - **Paper**: [https://doi.org/10.1007/s11538-022-01029-z](https://doi.org/10.1007/s11538-022-01029-z). Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/11447)
-
+- **Correction**: [https://doi.org/10.1007/s11538-022-01118-z](https://doi.org/10.1007/s11538-022-01118-z).
 - **BioRxiv**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
 
 # The Complexity of POMDPs with Long-run Average Objectives
