@@ -34,21 +34,13 @@ The current components are:
 	- [Interledger](https://interledger.org/)
 - Provider: (who controls the money?)
 	- [Coil](https://coil.com/)
+		- Update: From March 15, 2023, Coil was discontinued. The work continues through the [Interledger Foundation](https://interledger.org/)
 
 ### Interledger
 
 The Interledger Foundation is a non-profit advocate for the web, promoting innovation, creativity, and inclusion by advancing open payment standards and technologies that seamlessly connect our global society. 
 
 For now, micro-payments are only used to pay websites. [Rafiki, see main post](https://write.as/coil/introducing-rafiki-an-all-in-one-solution-for-interledger-wallets), extends this to receiving payments too.
-
-### Coil
-
-Coil wants to provide better ways to access and reward the creators, publishers and platforms that create the content you love. All without relying on advertising, site-by-site subscriptions or tracking your every move.
-
-According to [Daniel's blog](https://www.ctrl.blog/entry/coil-web-monetization.html),
-- Default payment rate: 0.0001 USD/sec
-- When you get close to using up the 5 USD, your rate decreases
-- Coil takes up unused money
 
 ## Some thoughts
 
@@ -57,9 +49,5 @@ The whole ecosystem is quite young, but eager to propose a different way to thin
 ## Resources
 
 If you want to dive deep into the topic, try experimenting  with some of these:
-- Examples to work on
-	- https://webmonetization.org/docs/exclusive-content
-- Tutorial
-	- https://css-tricks.com/site-monetization-with-coil-and-removing-ads-for-supporters/
-- Direct API
-	- https://community.webmonetization.org/qwyre/qwyre-com-a-guide-for-integrating-coil-web-monetization-apis-for-creatives-doing-the-job-once-1f56
+- Get started from Interledger
+	- https://interledger.org/developer-tools/get-started/overview/
