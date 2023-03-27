@@ -14,6 +14,9 @@ Trees are one of the most basic data structures. So, how are they supported in R
 
 In general, you can checkout https://crates.io/keywords/tree
 
+Below is a table of specially selected crates. 
+The less features, the fastest the implementation. 
+So, if you are going to pick one, choose the one that exactly fits your use case.
 <table>
 	<tr>
 		<th>feature\crate</th>
