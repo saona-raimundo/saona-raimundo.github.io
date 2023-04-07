@@ -32,7 +32,8 @@ Links
 - [Project description](https://cordis.europa.eu/project/id/863818)
 
 Code: ERC CoG 863818
-Text: ERC CoG 863818 (ForM-SMArt) 
+Text: 
+- English: This research was partially supported by the ERC CoG 863818 (ForM-SMArt) grant. 
 
 # Past
 
