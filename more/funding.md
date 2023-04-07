@@ -35,6 +35,15 @@ Code: ERC CoG 863818
 Text: 
 - English: This research was partially supported by the ERC CoG 863818 (ForM-SMArt) grant. 
 
+## ANID Chile
+
+Chilean Government research grant [Anillo Information and Computation in Market Design](https://sites.google.com/view/anilloicmd/home). 
+ANID contract ACT210005, Nov 2021 - Oct 2024.
+
+Code: ACT210005
+Text:
+- English: Partially supported by ANID Chile, grant ACT210005.
+
 # Past
 
 ## CONICYT-Chile
