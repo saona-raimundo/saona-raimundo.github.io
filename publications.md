@@ -4,6 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
+<!-- # Title 
+[A. Author](http://link.to.author), R. Saona, [A. Author](http://link.to.author). 
+
+- Provider/Version/Venue
+	- **Paper**: [https://doi.org/](https://doi.org/).
+	- **Video**: 
+	- **Slides**: 
+-->
+
+# Prophet Inequalities: Separating Random Order from Order Selection
+[G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
+
+- ArXiv
+	- **Paper**: https://doi.org/10.48550/arXiv.2304.04024
+
+
 # The Complexity of Value Approximation of Concurrent Reachability Games
 
 [A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
