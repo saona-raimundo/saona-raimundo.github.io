@@ -129,7 +129,8 @@ So far, we have not left the terminal, and sometimes you do not need to.
 To add more interactivity, you go for a terminal user interface (TUI).
 
 Some relevant crates are:
-- [tui](https://crates.io/crates/tui)
+- [ratatui](https://crates.io/crates/ratatui)
+	- An actively maintained fork of [tui](https://crates.io/crates/tui)
 	- build rich terminal user interfaces or dashboards 
 - [cursive](https://crates.io/crates/cursive)
 	- focused on ease-of-use

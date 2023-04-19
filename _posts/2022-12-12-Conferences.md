@@ -2,7 +2,7 @@
 
 layout: post
 title:  "Conferences"
-date:   2022-12-12 00:00:00 +0000
+date:   2023-04-14 00:00:00 +0000
 front: 	false
 categories: 
 
@@ -49,3 +49,11 @@ Therefore, I put together a small mind map of my current understanding.
 	- International Conference on Artificial Intelligence and Statistics
 	- Abstract submission ~ October
 	- http://aistats.org/aistats2023/
+- MFCS
+	- International Symposium on Mathematical Foundations of Computer Science
+	- Abstract submission ~ April
+	- https://www.ac.tuwien.ac.at/mfcs2022/
+- ESA
+	- European Symposia on Algorithms
+	- Paper submission ~ April
+	- http://esa-symposium.org/symposia.php#esa
