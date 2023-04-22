@@ -47,28 +47,28 @@ Risk-aware objectives in Partially Observable Markov Decission Processes (POMDPs
 
 # Supervisors
 
-## [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) 
+## [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/)
 PhD, IST Austria
 
 July 2019 - today
 
 
 
-## [José Correa](https://www.dii.uchile.cl/~jcorrea/) 
+## [José Correa](https://www.dii.uchile.cl/~jcorrea/)
 Master, Universidad de Chile
 
 March 2018 - March 2019
 
 Prophet Secretary Through Blind Strategies
 
-## [Aaron Ellison](https://harvardforest.fas.harvard.edu/aaron-ellison) 
+## [Aaron Ellison](https://harvardforest.fas.harvard.edu/aaron-ellison)
 Internship, Harvard
 
 January 2017 - March 2017
 
 Anthole modelling with noninvasive data
 
-## [Soledad Torres](https://storres-cimfav.uv.cl/) 
+## [Soledad Torres](https://storres-cimfav.uv.cl/)
 Internship, Universidad de Valparaíso
 
 January 2016 - March 2016
@@ -148,6 +148,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['Eran Shmaya', 'Stonny Brook University', 40.90490159414964, -73.12390052976914],
 		['Franziska Eberle', 'London School of Economics', 51.514370572733625, -0.11641432067783081],
 		['Frederik Mallmann-Trenn', 'King’s Collegue London', 51.51355029116478, -0.11679380052104096],
+		['Fryderyk Falniowski', 'Krakow University of Economics', 50.068440913960636, 19.955120095943368],
 		['Gaëtan Fournier', 'Aix-Marseille Université', 43.30283923513663, 5.379250610798506],
 		['Galit Seknadji-Golan', 'London School of Economics', 51.51457231426795, -0.11640838699617974],
 		['Javier Cembrano', 'TU Berlin', 52.51233531948273, 13.328656661566253],
@@ -159,6 +160,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['Mahsa Shirmohammadi', 'CNRS & IRIF', 48.82717897389951, 2.380807899391197],
 		['Marc Schröder', 'Maastricht University', 50.844613783694875, 5.685717869834652],
 		['Marco Scarsini', 'LUISS', 41.92461719962625, 12.493981712597572],
+		['Maryam Kamgarpour', 'EPFL', 46.51897226796198, 6.566599864257258],
 		['Miquel Oliu-Barton', 'Paris Dauphine', 48.87019258518365, 2.2737967576874163],
 		['Moritz Buchem', 'Technical University of Munich', 48.14956692330043, 11.56773145147504],
 		['Nicolas Klein', 'University of Montreal', 45.50572084767318, -73.61383430449108],
@@ -168,6 +170,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['Raimundo Saona', 'ISTA', 48.309568, 16.258709],
 		['Rasmus Ibsen-Jensen', 'Uniersity of Liverpool', 53.404807964306286, -2.965202442727258],
 		['Soldead Torres', 'University of Valparaiso', -33.045874464135814, -71.61320389488866],
+		['Sylvain Sorin', 'Sorbonne Université', 48.84742963307259, 2.3539671665027173],
 		['Sven Rady', 'Hausdorff Center for Mathematics', 50.728495688209414, 7.08418867434603],
 		['Thomas Lidbetter', 'Rutgers Business School', 40.745335845427554, -74.1703874162834],
 		['Tim Oosterwijk', 'Vrije Universiteit Amsterdam', 52.33389445495339, 4.865709168861083],
@@ -176,6 +179,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['Ulrike Schmidt-Kraepelin', 'TU Berlin', 52.5122047299131, 13.328828322944394],
 		['Vasilis Livanos', 'University of Illinois at Urbana-Champaign', 40.10164045301988, -88.22707566931092],
 		['Xavier Venel', 'LUISS', 41.92461719962625, 12.493981712597572],
+		['Vianney Perchet', 'Center for Research in Economics and Statistics ENSAE', 48.71073189303987, 2.2075533074870317],
 		['Yehuda "John" Levy', 'University of Glasgow', 55.871507696350534, -4.288443046314292],
 		['Yevgeny Tsodikovich', 'Aix-Marseille School of Economics', 43.302800196174985, 5.3792507107985275],
 	];
@@ -216,4 +220,3 @@ I have encountered many good people during my time as a researcher. This map sho
 	map.on('click', onMapClick);
 	
 </script>
-
