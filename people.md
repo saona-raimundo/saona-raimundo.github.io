@@ -27,7 +27,7 @@ We submitted a paper to [ACM-SIAM Symposium on Discrete Algorithms (SODA23)](htt
 ## Mahdi Jafari
 Internship, IST Austria
 
-November 2021 - ?? 2022
+November 2021 - October 2022
 
 Markov Decission Processes: New algorithms for reachability objective
 
@@ -220,3 +220,4 @@ I have encountered many good people during my time as a researcher. This map sho
 	map.on('click', onMapClick);
 	
 </script>
+
