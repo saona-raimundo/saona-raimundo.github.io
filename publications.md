@@ -13,6 +13,11 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Value-iteration with Guessing for Markov chains and Markov decision processes
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M.	JafariRaviz, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
+
+Submitted.
+
 # Prophet Inequalities: Separating Random Order from Order Selection
 [G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
 
