@@ -13,6 +13,11 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Deterministic Sub-exponential Algorithm for Discounted-sum Games with Unary Weights
+[A. Asadi](https://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
+
+Submitted.
+
 # Value-iteration with Guessing for Markov chains and Markov decision processes
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M.	JafariRaviz, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
 

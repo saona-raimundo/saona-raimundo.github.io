@@ -60,13 +60,16 @@ This process does not happen in practice in `Vec` because (we assume that) opera
 
 ## Basic progression
 
-Imagine there is a really cool function or library that you would like to interact with. The first step would be to make a command line interface application (CLI). There is even a [CLI Rust working group](https://www.rust-lang.org/governance/wgs/cli) overseeing its development, which I think is great. 
+Imagine there is a really cool function or library that you would like to interact with. The first step would be to make a command line interface application (CLI). There is even a [CLI Rust working group](https://www.rust-lang.org/governance/wgs/cli) overseeing its development, which I think is great.
 
 ### Single functionality
 
 The most basic interface would be solving one single task: parse the input and return output. For this, the way to go is using something like [clap](https://crates.io/crates/clap) for parsing, then do you thing and report back.
 
-Already here, you should consider internationalization of reporting back. Think of different languages and outputting sound and not only text. Some relevant crates are the following.
+Already here, you should consider internationalization of reporting back. 
+Think of different languages and outputting sound and not only text. 
+
+Some relevant crates are the following.
 - [tts](https://crates.io/crates/tts) 
 	- high-level Text-To-Speech (TTS) interface
 - [rust-i18n](https://crates.io/crates/rust-i18n) 
@@ -90,20 +93,73 @@ For testing the application, you may use the following crates.
 - [dir-diff](https://crates.io/crates/dir-diff) 
 	- testing file side-effects
 
+### REST API
+
+Single functionalities are about a one-time execution. There is no data stored, no sustained interaction. In a REST API, you introduce repeated interactions while keeping everything else as simple as opssible. In particular, the server that process your requests is stateless. The proposal is to consider a REST API.
+
+A REST API is any API that the REST principles:
+- Client-server architecture
+	- REST APIs separate the client (the one requesting information) from the server (the one possessing information). The client does not have to worry about how the server stores and retrieves data.
+- Uniform interface
+	- Whether the client is a software application, a browser, a mobile app, or something else entirely, it can access and use the REST API in the same way.
+- Statelessness
+	- The server does not have to remember the client’s state. All the client’s requests must be “stateless,” so each request must include all necessary information (such as the client’s authentication details).
+- Cacheability
+	- REST servers can cache data and reuse it for other requests in the future.
+- Layered system
+	- REST APIs may have multiple intermediary layers between the client and the server. However, the client does not have to know these implementation details.
+- Code on demand (optional)
+	- Clients may download code (e.g. Java applets or JavaScript scripts) to access additional functionality at runtime.
+
+Thinking in programable interactions helps you streamline the user experience design with complex interactions.
+This is [a useful guide on building a REST APIs by LogRocket](https://blog.logrocket.com/building-rest-api-rust-warp/).
+You may also check these [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
+
+Some relevant crates are the following.
+- [warp](https://crates.io/crates/warp) 
+	- super-easy, composable, web server framework
+- [axum](https://crates.io/crates/axum) 
+	- web application framework that focuses on ergonomics and modularity
+- [hyper](https://crates.io/crates/hyper)
+	- fast and correct HTTP implementation
+- [reqwest](https://crates.io/crates/reqwest)
+	- ergonomic, batteries-included HTTP Client
+
+For testing you should consider testing the REST API by spinning up a server in your integration tests and making request to it.
+- [axum-test](https://crates.io/crates/axum-test)
+	- spinning up and testing Axum servers
+- [unimock](https://crates.io/crates/unimock)
+	- versatile and developer-friendly trait mocking library
+	- [Explanatory post](https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/)
+- [httpmock](https://crates.io/crates/httpmock)
+	- HTTP mocking library
+
 ### Adding interaction
 
-Consider prompts for more user input, a drop-down menu and such. This is basic interaction.
-There is a real problem to consider when adding interaction: user expectations. Let me ask you:
+Interaction should be devided into two classes: 
+- Interactive questions where forms are filled
+- The state of the system changes
+
+They are fundamentally different.
+
+#### Basic forms
+
+Forms refers to a complex request that is designed to be filled by a user in various steps. Some examples of common UI elements for forms are user input, drop-down menu, etc. 
+
+This is interaction is inherently about constructing a next request and are used when something is "in-progress". As opposed to the request-response model, there is no or partial response and the application is asking the user for more information.
+
+There is a real problem to consider when adding interaction: user expectations. 
+Let me ask you:
 - What if your program is taking too long to finish?
 	- Do you report back saying "working"?
 - When asking for more input... 
 	- do you wait until infinity?
 	- do you play a sound to call the attention of the user?
 	- do you keep processing in the background? 
-
 Basically, how do you plan the interaction with the user? 
+
 I believe that `async` interactions are the way to go.
-But, as mentioned in the counter example, there are many options to implement an interaction!
+But, as mentioned in the counter application example, there are many options to implement an interaction!
 
 Some crates that can help you, even at the CLI level, are the following.
 - [dialoguer](https://crates.io/crates/dialoguer)
@@ -117,11 +173,31 @@ Some crates that can help you, even at the CLI level, are the following.
 - [asking](https://crates.io/crates/asking)
 	- Async prompts
 	- There are more references in the README
-	- Author here :)
+	- I am the author :)
 
 For testing the application, you may use the following crates.
 - [rexpect](https://crates.io/crates/rexpect) 
 	- test interactive CLIs
+
+#### Stateful application
+
+Interactions may not only be a way to help making complex requests, it may be about changing the state of the application. 
+
+As opposed to REST API, this means that the application now has a state and the user should be able to: change it, see it, undo changes, etc.
+
+Before you introduce any complex interaction, think about what are the fundamentally different states your application can be, how is this communicated to the user, and how you indicate how to change the state of the application.
+
+States of applications should be restorable, logged, queryable, changeable, predicatble, clear, etc...
+
+#### Driver
+
+Once you add interactions, you should think about testing interactions. The brute-force way would be to test all possible interaction paths, which is actually a good idea in small applications.
+
+A driver is a program that can control your application (simulate a user). The driver should get as much information as the user, and developing a driver usually streamlines the design of the interaction with a user by: highlighting the important information to take a decision.
+
+As an analogy, browser have a WebDriver, which can "act as a user". Recently, the information the WebDriver receives needed to be augmented to run more complex test. This is a sign that any complex UI system should eventually have a driver.
+
+So far, I do not know of any GUI framework in Rust that comes with its own driver.
 
 ### Adding complex interactions
 
