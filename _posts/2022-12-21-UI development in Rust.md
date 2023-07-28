@@ -120,6 +120,7 @@ Some relevant crates are the following.
 	- super-easy, composable, web server framework
 - [axum](https://crates.io/crates/axum) 
 	- web application framework that focuses on ergonomics and modularity
+	- [REST HTTP walkthrough using shuttle](https://docs.shuttle.rs/tutorials/rest-http-service-with-axum)
 - [hyper](https://crates.io/crates/hyper)
 	- fast and correct HTTP implementation
 - [reqwest](https://crates.io/crates/reqwest)
