@@ -31,6 +31,9 @@ Therefore, I put together a small mind map of my current understanding.
 - STACS
 	- International Symposium on Theoretical Aspects of Computer Science
 	- https://www.conferences.uni-hamburg.de/event/272/page/153-home
+- TACAS
+	- Tools and Algorithms for the Construction and Analysis of Systems
+	- https://etaps.org/2024/conferences/tacas/
 - IJCAI 
 	- International Joint Conference on Artificial Intelligence
 	- Abstract submission ~ January
