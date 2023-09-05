@@ -71,7 +71,7 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
 - Mathematics of Operations Research.
-	- **Paper**: [https://doi.org/10.1287/moor.2020.1116](https://doi.org/10.1287/moor.2020.1116). Also available at [ISTA repository].(https://research-explorer.app.ist.ac.at/record/9311)
+	- **Paper**: [https://doi.org/10.1287/moor.2020.1116](https://doi.org/10.1287/moor.2020.1116). Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/9311).
 
 - ArXiv
 	- **Paper**: [https://arxiv.org/abs/1904.13360](https://arxiv.org/abs/1904.13360) 
