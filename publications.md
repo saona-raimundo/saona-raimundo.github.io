@@ -32,7 +32,7 @@ Submitted.
 [G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
 
 - ArXiv
-	- **Paper**: https://doi.org/10.48550/arXiv.2304.04024
+	- **Paper**: [https://doi.org/10.48550/arXiv.2304.04024](https://doi.org/10.48550/arXiv.2304.04024)
 
 
 # The Complexity of Value Approximation of Concurrent Reachability Games
