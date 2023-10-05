@@ -145,11 +145,20 @@ They are fundamentally different.
 
 #### Basic forms
 
-Forms refers to a complex request that is designed to be filled by a user in various steps. Some examples of common UI elements for forms are user input, drop-down menu, etc. 
+Forms refers to a complex request that is designed to be filled by a user in various steps. 
+Basically, a request builder.
+Some examples of common UI elements for forms are:
+- text input
+- drop-down menu
+- multi-choice selector
+- ranges
 
-This is interaction is inherently about constructing a next request and are used when something is "in-progress". As opposed to the request-response model, there is no or partial response and the application is asking the user for more information.
+As opposed to the "immediate" request-response model, filling forms can (and should) be guided by the application. 
+Some guidance provided are:
+- early verification of fields
+- suggestions and tips
 
-There is a real problem to consider when adding interaction: user expectations. 
+I think the main issue with interactions are user expectations. 
 Let me ask you:
 - What if your program is taking too long to finish?
 	- Do you report back saying "working"?
@@ -158,9 +167,14 @@ Let me ask you:
 	- do you play a sound to call the attention of the user?
 	- do you keep processing in the background? 
 Basically, how do you plan the interaction with the user? 
+As mentioned in the counter application example, there are many options to implement an interaction!
 
-I believe that `async` interactions are the way to go.
-But, as mentioned in the counter application example, there are many options to implement an interaction!
+In general for UI, I believe that `async` interactions are the way to go.
+`async` uses "tasks" to abstract over threads and execution.
+It allows you to, for example, prioritize the interaction with the user over the underlying computations. 
+This makes the application feel more responsive.
+Traditionally, offloading long tasks is done in a very selecting way, introducing various concepts like "web workers". 
+Instead, working with `async` from the get go allows you to schedule tasks independently of the hardware architecture it will run on (even over only one thread). 
 
 Some crates that can help you, even at the CLI level, are the following.
 - [dialoguer](https://crates.io/crates/dialoguer)
@@ -175,6 +189,12 @@ Some crates that can help you, even at the CLI level, are the following.
 	- Async prompts
 	- There are more references in the README
 	- I am the author :)
+- [tokio](https://crates.io/crates/tokio)
+	- Most popular and mature `async` runtime
+- [smol](https://crates.io/crates/smol)
+	- Modular, small and fast async runtime
+	- Especially, look for priority async executors
+		- https://github.com/smol-rs/async-executor/blob/master/examples/priority.rs
 
 For testing the application, you may use the following crates.
 - [rexpect](https://crates.io/crates/rexpect) 

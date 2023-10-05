@@ -13,6 +13,11 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# The Marginal Values of a Stochastic Game
+[M. Oliu-Barton](https://sites.google.com/site/oliubarton/), R. Saona, [L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc)
+
+Submitted.
+
 # Deterministic Sub-exponential Algorithm for Discounted-sum Games with Unary Weights
 [A. Asadi](https://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
 
