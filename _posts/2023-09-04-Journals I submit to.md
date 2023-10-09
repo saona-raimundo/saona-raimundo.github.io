@@ -18,3 +18,7 @@ Therefore, I put together a small mind map of my current understanding.
 	- https://www.springer.com/journal/10107
 - Mathematics of Operations Research
 	- https://pubsonline.informs.org/journal/moor
+- Operations Research Letters
+	- https://www.sciencedirect.com/journal/operations-research-letters
+- SIAM Journal on Discrete Mathematics
+	- https://www.siam.org/publications/journals/siam-journal-on-discrete-mathematics-sidma
