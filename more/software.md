@@ -14,6 +14,10 @@ permalink: /more/software/
 
 [Online plotter](https://saona-raimundo.github.io/online_plotter/) of mathematical functions.
 
+## Case conversion
+
+[Heck playground](https://saona-raimundo.github.io/heck_playground/) for case conversion.
+
 # <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"> Rust crates 
 
 ## [asking](https://crates.io/crates/asking)
