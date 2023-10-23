@@ -135,6 +135,8 @@ For testing you should consider testing the REST API by spinning up a server in 
 - [httpmock](https://crates.io/crates/httpmock)
 	- HTTP mocking library
 
+For deployment, have a look at
+- [Containerise rust applications with Github Actions](https://medium.com/@emilia.jaser/containerise-rust-applications-on-ubuntu-alpine-with-github-actions-or-docker-builders-9378a02b98fd)
 ### Adding interaction
 
 Interaction should be devided into two classes: 
