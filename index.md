@@ -48,11 +48,11 @@ list_title: News
 
 # <strong>NOTICE</strong> 
 
-There are open positions for: 
+There are open positions for <a href="https://phd.pages.ist.ac.at/internships/">INTERNSHIPS</a>, including: 
 <ul>
-	<li> <a href="https://phd.ist.ac.at/scientific-internships/">year-round INTERNSHIPS</a> </li> 
-	<li> <a href="https://phd.pages.ist.ac.at/internships/">summer INTERNSHIPS</a> (application deadline around February each year)</li> 
-	<li> <a href="https://phd.pages.ist.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a> </li>
+	<li> <a href="https://phd.ista.ac.at/scientific-internships/">year-round internship</a> </li> 
+	<li> <a href="https://phd.pages.ista.ac.at/isternship/">summer internship</a> (application deadline around February each year)</li> 
+	<li> <a href="https://phd.pages.ista.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a> </li>
 </ul>
 
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
