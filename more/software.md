@@ -18,7 +18,14 @@ permalink: /more/software/
 
 [Heck playground](https://saona-raimundo.github.io/heck_playground/) for case conversion.
 
-# <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"> Rust crates 
+## Weather
+
+[Weather forecast](https://saona-raimundo.github.io/weather/) for my needs.
+
+
+
+
+# <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"> Rust crates
 
 ## [asking](https://crates.io/crates/asking)
 
