@@ -1,14 +1,15 @@
 ---
 
 layout: post
-title:  "Giving feedback"
+title:  "Responding to (bad) feedback"
 date:   2024-01-10 00:00:00 +0000
 front: false
 
 ---
 
-Giving feedback can be improved using a few phrases which make you think about what you actually want to tell the other.
-This is a collection of phrases that should help you rethink your feedback.
+Responding to (bad) feedback can be challenging. 
+A few phrases can keep you in track to what really matters.
+This is a collection of phrases to help you rethink your answer.
 
 
 ## Key phrases
