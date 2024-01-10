@@ -38,3 +38,10 @@ These tools generate content that might not be accurate
 ### Readers
 
 - [Semantic Reader](https://www.semanticscholar.org/product/semantic-reader)
+
+## Finding papers
+
+To find papers in the internet, you can use this tools.
+- [sci-hub](https://sci-hub.41610.org/)
+- [Open Access for everyone - Academic search engine](https://oa.mg/)
+- [Genesis library](https://libgen.li/)
