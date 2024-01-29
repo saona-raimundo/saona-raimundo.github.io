@@ -13,6 +13,16 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Zero-sum Random Games on Directed Graphs
+
+[L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc), [L. Lichev](http://lyubenlichev.rf.gd/), [D. Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno)
+
+Submitted.
+
+- ArXiv
+	- **Paper**: [https://doi.org/](https://doi.org/) (to come).
+
+
 # The Marginal Values of a Stochastic Game
 [M. Oliu-Barton](https://sites.google.com/site/oliubarton/), R. Saona, [L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc)
 
