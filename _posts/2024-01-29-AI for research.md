@@ -42,6 +42,8 @@ There is a free (limited) and a paid version.
 	- Connect related notes into ideas, and we connect your ideas into reports
 - [Connected papers](https://www.connectedpapers.com)
 	- Explore academic papers in a visual graph
+- [Scholarcy](https://www.scholarcy.com/)
+	- Artcile summarizer
 
 ## Paid
 
@@ -55,9 +57,11 @@ The service is fully paid, and there is a trial version that is exhausted after 
 	- Chat with documents and get instant answers with cited sources
 - [genei](https://www.genei.io/)
 	- Summarise background reading and produce blogs, articles, and reports
-- [scite](https://scite.ai/assistant)
+- [scite.ai](https://scite.ai/assistant)
 	- Search Engine for Research
 - [Enago Research Hub](https://www.enago.com/researcher-hub/)
+	- Researcher toolkit
+- [iris.ai](https://iris.ai)
 	- Researcher toolkit
 
 ## Other tools
@@ -67,6 +71,7 @@ The service is fully paid, and there is a trial version that is exhausted after 
 These tools generate content that might not be accurate
 
 - [Bard](https://bard.google.com/chat)
+	- Powered by [Gemini](https://deepmind.google/technologies/gemini)
 - [Chat GPT](https://chat.openai.com/)
 
 ## Accessing papers
