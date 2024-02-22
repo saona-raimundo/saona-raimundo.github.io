@@ -74,10 +74,23 @@ These tools generate content that might not be accurate
 	- Powered by [Gemini](https://deepmind.google/technologies/gemini)
 - [Chat GPT](https://chat.openai.com/)
 
-## Accessing papers
+## Papers
+
+So, you want a publication, right?
+
+### Accessing
 
 To access papers in the internet, you can use this tools.
 
 - [sci-hub](https://sci-hub.41610.org/)
 - [Open Access for everyone - Academic search engine](https://oa.mg/)
 - [Genesis library](https://libgen.li/)
+
+### Metadata
+
+To find information about a publication, you can use this tools.
+
+- [Google scholar](https://scholar.google.com/)
+- [Crossref](https://www.crossref.org/)
+- [OpenAlex](https://openalex.org)
+

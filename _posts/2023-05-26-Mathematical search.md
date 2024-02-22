@@ -37,7 +37,7 @@ How to browse mathematical content in the web? How to do it as a working mathema
 - [arXiv-Catchup](www.arxiv.org/catchup) 
 	- interface for catching up with the newest articles in math
 - [FormulaSearch](www.zbmath.org/formulae) 
-	- allows to search for mathematical formulae in documents indexed in zbMath”
+	- allows to search for mathematical formulae in documents indexed in zbMath
 
 Also, recall that you have
 - "myOffice" 
