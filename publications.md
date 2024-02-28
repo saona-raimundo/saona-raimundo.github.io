@@ -35,7 +35,7 @@ Submitted
 Submitted.
 
 - ArXiv
-	- **Paper**: [https://doi.org/](https://doi.org/) (to come).
+	- **Paper**: [https://doi.org/10.48550/arXiv.2401.16252](https://doi.org/10.48550/arXiv.2401.16252)
 
 
 # The Marginal Values of a Stochastic Game
