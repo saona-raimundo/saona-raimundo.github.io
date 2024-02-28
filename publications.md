@@ -13,6 +13,14 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+
+
+# Concurrent Stochastic Games with Stateful-discounted and Parity Objectives: Complexity and Algorithms
+
+[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
+
+Submitted.
+
 # IID Prophet Inequality with Random Horizon: Going Beyond Increasing Hazard Rates
 [G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
 
@@ -50,13 +58,6 @@ Submitted.
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2304.04024](https://doi.org/10.48550/arXiv.2304.04024)
-
-
-# The Complexity of Value Approximation of Concurrent Reachability Games
-
-[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
-
-Submitted.
 
 # Value-Positivity for Matrix Games
 
