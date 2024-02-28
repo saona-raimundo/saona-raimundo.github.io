@@ -13,6 +13,13 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# IID Prophet Inequality with Random Horizon: Going Beyond Increasing Hazard Rates
+[G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
+
+Submitted
+
+
+
 # Zero-sum Random Games on Directed Graphs
 
 [L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc), [L. Lichev](http://lyubenlichev.rf.gd/), [D. Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno)
