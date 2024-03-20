@@ -69,3 +69,8 @@ I want to put up some resources for researches that might be useful.
 ### Mailing lists
 
 - [Discrete Mathematics and Algorithms Network (DMANet)](https://www.zaik.uni-koeln.de/AFS/publications/dmanet/)
+
+### Seminars
+
+- [Game Theory at BIU](https://www.youtube.com/channel/UCLmke0uS49yuUBSQIBQ-eDA)
+- [One World Mathematical Game Theory Seminar](https://www.youtube.com/playlist?list=PLawk9ryOxpx0kuBVMDRLm86GGHC2laQgA)

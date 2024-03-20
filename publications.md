@@ -38,10 +38,11 @@ Submitted.
 	- **Paper**: [https://doi.org/10.48550/arXiv.2401.16252](https://doi.org/10.48550/arXiv.2401.16252)
 
 
-# The Marginal Values of a Stochastic Game
+# Marginal Values of a Stochastic Game
 [M. Oliu-Barton](https://sites.google.com/site/oliubarton/), R. Saona, [L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc)
 
-Submitted.
+- Mathematics of Operations Research
+	- **Paper** [https://doi.org/10.1287/moor.2023.0297](https://doi.org/10.1287/moor.2023.0297)
 
 # Deterministic Sub-exponential Algorithm for Discounted-sum Games with Unary Weights
 [A. Asadi](https://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
