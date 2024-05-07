@@ -157,6 +157,7 @@ I have encountered many good people during my time as a researcher. This map sho
 		['José Verschae', 'Pontificie Universidad Católica de Chile', -33.49977929392596, -70.6107391893226],
 		['José Correa', 'University of Chile', -33.45688485684971, -70.6668742625855],
 		['Krishnendu Chatterjee', 'ISTA', 48.309568, 16.258709],
+		['Léonard Brice', 'Université Libre de Bruxelles', 50.81322710873037, 4.382018348125053]
 		['Mahsa Shirmohammadi', 'CNRS & IRIF', 48.82717897389951, 2.380807899391197],
 		['Marc Schröder', 'Maastricht University', 50.844613783694875, 5.685717869834652],
 		['Marco Scarsini', 'LUISS', 41.92461719962625, 12.493981712597572],
