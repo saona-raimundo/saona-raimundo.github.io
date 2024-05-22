@@ -44,6 +44,11 @@ I want to put up some resources for researches that might be useful.
 
 ### Books
 
+- General audience, introduction of key concepts
+	- [Thinking Strategically](https://en.wikipedia.org/wiki/Thinking_Strategically)
+		- Used in top US universities for Game Theory courses ([JOHNS HOPKINS, 2024](https://cty.jhu.edu/programs/on-campus/courses/game-theory-and-economics-gmth))
+		- Real-life relatable examples
+		- Written in 1991
 - Classical, easy-to-read
 	- [A Course in Game Theory](https://mitpress.mit.edu/books/course-game-theory)
 		- Main subsections are
