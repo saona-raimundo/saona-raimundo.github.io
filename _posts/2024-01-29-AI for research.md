@@ -15,6 +15,8 @@ These tool are free to use. Check their policy for details.
 
 - [Perplexity](https://www.perplexity.ai/)
 	- Ask questions and get answers with citations
+- [Connected Papers](https://www.connectedpapers.com)
+	- Explore academic papers in a visual graph 
 - [Research rabbit](https://researchrabbitapp.com)
 	- Upload papers and investigates its connections with other papers
 - [Scopus AI](https://www.elsevier.com/products/scopus/scopus-ai)
