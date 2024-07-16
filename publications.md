@@ -99,7 +99,7 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 - BioRxiv
 	- **Paper**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
 
-# The Complexity of POMDPs with Long-run Average Objectives
+# Finite-Memory Strategies in POMDPs with Long-Run Average Objectives
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
 - Mathematics of Operations Research.
