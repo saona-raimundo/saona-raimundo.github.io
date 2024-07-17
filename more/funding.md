@@ -10,6 +10,15 @@ This usually appears in papers as "This research was partially supported by ..."
 
 # Present
 
+## Bilateral Artificial Intelligence
+
+Links
+- https://doi.org/10.55776/COE12
+
+Codde (DOI): 10.55776/COE12
+Text
+- English: This research was partially supported by Austrian Science Fund (FWF) 10.55776/COE12.
+
 ## CONVERGENCE
 
 ANRFrench Agence Nationale de la Recherche (ANR).
