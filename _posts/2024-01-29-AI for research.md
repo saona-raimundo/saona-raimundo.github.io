@@ -44,6 +44,8 @@ There is a free (limited) and a paid version.
 	- Explore academic papers in a visual graph
 - [Scholarcy](https://www.scholarcy.com/)
 	- Artcile summarizer
+- [Litmaps](https://www.litmaps.com/)
+	- Literature review assistant
 
 ## Paid
 
@@ -85,6 +87,7 @@ To access papers in the internet, you can use this tools.
 - [sci-hub](https://sci-hub.41610.org/)
 - [Open Access for everyone - Academic search engine](https://oa.mg/)
 - [Genesis library](https://libgen.li/)
+- [LibKey](https://libkey.io/)
 
 ### Metadata
 
