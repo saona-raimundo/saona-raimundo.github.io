@@ -55,7 +55,7 @@ Submitted.
 - ArXiv
 	- **Paper**: [https://arxiv.org/abs/2405.02479](https://arxiv.org/abs/2405.02479)
 - LICS 2024
-	- To appear.
+	- **Paper**: [https://doi.org/10.1145/3661814.3662080](https://doi.org/10.1145/3661814.3662080)
 
 # Value-iteration with Guessing for Markov chains and Markov decision processes
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M.	JafariRaviz, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
