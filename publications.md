@@ -13,6 +13,15 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Stochastic homogenization of HJ equations: a differential game approach
+[A. Davini](https://www1.mat.uniroma1.it/people/davini/home.html), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
+
+- ArXiv
+	- **Paper**: [https://doi.org/10.48550/arXiv.2406.18404](https://doi.org/10.48550/arXiv.2406.18404)
+
+
+
+
 # Ergodic Unobservable MDPs: Decidability of Approximation
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [David Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david) R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
