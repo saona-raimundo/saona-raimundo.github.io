@@ -113,6 +113,7 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 
 - Mathematics of Operations Research.
 	- **Paper**: [https://doi.org/10.1287/moor.2020.1116](https://doi.org/10.1287/moor.2020.1116). Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/9311).
+	- **PDF**: <a href="publications/chatterjee2021FiniteMemoryStrategiesPOMDPs.pdf">self-hosted</a>
 
 - ArXiv
 	- **Paper**: [https://arxiv.org/abs/1904.13360](https://arxiv.org/abs/1904.13360) 
