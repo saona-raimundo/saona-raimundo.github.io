@@ -20,8 +20,6 @@ permalink: /publications/
 	- **Paper**: [https://doi.org/10.48550/arXiv.2406.18404](https://doi.org/10.48550/arXiv.2406.18404)
 
 
-
-
 # Ergodic Unobservable MDPs: Decidability of Approximation
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [David Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david) R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
@@ -57,6 +55,7 @@ Submitted.
 
 - Mathematics of Operations Research
 	- **Paper** [https://doi.org/10.1287/moor.2023.0297](https://doi.org/10.1287/moor.2023.0297)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/attia2024MarginalValuesStochastic.pdf">self-hosted</a>
 
 # Deterministic Sub-exponential Algorithm for Discounted-sum Games with Unary Weights
 [A. Asadi](https://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
@@ -64,7 +63,8 @@ Submitted.
 - ArXiv
 	- **Paper**: [https://arxiv.org/abs/2405.02479](https://arxiv.org/abs/2405.02479)
 - LICS 2024
-	- **Paper**: [https://doi.org/10.1145/3661814.3662080](https://doi.org/10.1145/3661814.3662080)
+	- **Paper**: [https://doi.org/10.1145/3661814.3662080](https://doi.org/10.1145/3661814.3662080) 
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/asadi2024DeterministicSubexponentialAlgorithm.pdf">self-hosted</a>
 
 # Value-iteration with Guessing for Markov chains and Markov decision processes
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M.	JafariRaviz, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
@@ -98,13 +98,16 @@ Submitted.
 - SODA 2023
 	- **DOI**: [https://doi.org/10.1137/1.9781611977554.ch173](https://doi.org/10.1137/1.9781611977554.ch173)
 	- **PDF**: [https://epubs.siam.org/doi/pdf/10.1137/1.9781611977554.ch173](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977554.ch173)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/chatterjee2023FasterAlgorithmTurnbased.pdf">self-hosted</a>
 
 # Relation between the number of peaks and the number of reciprocal sign epistatic interactions
 Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-group/), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). 
 
 - Bulletin of Mathematical Biology 
 	- **Paper**: [https://doi.org/10.1007/s11538-022-01029-z](https://doi.org/10.1007/s11538-022-01029-z). Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/11447)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/saona2022RelationNumberPeaksa.pdf">self-hosted</a>
 	- **Correction**: [https://doi.org/10.1007/s11538-022-01118-z](https://doi.org/10.1007/s11538-022-01118-z).
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/saona2023CorrectionRelationNumber.pdf">self-hosted</a>
 - BioRxiv
 	- **Paper**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
 
@@ -125,6 +128,7 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 
 - Math. Program.
 	- **Paper**: [https://doi.org/10.1007/s10107-020-01544-8](https://doi.org/10.1007/s10107-020-01544-8)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/correa2021ProphetSecretaryBlind.pdf">self-hosted</a>
 
 - Master thesis at University of Chile.
 	- R. Saona. Prophet inequality through schur-convexity and optimal control.
@@ -140,4 +144,5 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 
 - Applied Soft Computing
 	- **Paper**: [https://doi.org/10.1016/j.asoc.2018.01.033](https://doi.org/10.1016/j.asoc.2018.01.033)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/acuna2018ConditionalPredictiveBayesian.pdf">self-hosted</a>
 
