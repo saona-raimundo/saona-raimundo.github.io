@@ -38,6 +38,8 @@ There is a free (limited) and a paid version.
 
 - [ChatPDF](https://www.chatpdf.com/)
 	- Reader assitant: chat with a pdf
+- [Slick Reader](https://www.slickreader.ai)
+	- Literature Search, Document Reading and Writing Tool
 - [LiquidText](https://www.liquidtext.net/)
 	- Connect related notes into ideas, and we connect your ideas into reports
 - [Connected papers](https://www.connectedpapers.com)
