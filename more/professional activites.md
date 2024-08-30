@@ -17,6 +17,9 @@ permalink: /more/professional-activities/
 
 ## Conferences
 
+- [SODA2025](https://www.siam.org/conferences-events/siam-conferences/soda25/) (ACM-SIAM Symposium on Discrete Algorithms 2025)
+- [FOCS2024](https://focs.computer.org/2024/) (IEEE Symposium on Foundations of Computer Science 2024)
+- [MFCS2024](http://www.mfcs.sk/) (Mathematical Foundations of Computer Science 2024)
 - [ICALP2024](https://compose.ioc.ee/icalp2024/) (51st EATCS International Colloquium on Automata, Languages and Programming)
 - [SODA24](https://www.siam.org/conferences/cm/conference/soda24) (ACM-SIAM Symposium on Discrete Algorithms 2024)
 - [IPCO23](https://optimization.discovery.wisc.edu/ipco-2023-madison/) (24th Conference on Integer Programming and Combinatorial Optimization)
@@ -27,6 +30,8 @@ permalink: /more/professional-activities/
 
 ## Journals
 
+- [International Journal of Approximate Reasoning](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
+	- 2024 (1)
 - [ACM Transactions on Economics and Computation](https://dl.acm.org/journal/teac)
 	- 2020 (1)
 - [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)
