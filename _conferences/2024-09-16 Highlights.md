@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Ergodic Unobservable MDPs: Decidability of Approximation"
-date:   2024-09-24 00:00:00 +0000
+date:   2024-09-16 00:00:00 +0000
 place:  LaBRI in University of Bordeaux, Bordeaux, France
 link:   https://highlights-conference.org/2024/cfp
 ---
