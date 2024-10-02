@@ -81,7 +81,12 @@ Submitted.
 
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [M. Oliu-Barton](https://sites.google.com/site/oliubarton/), R. Saona. 
 
-Submitted.
+- Mathematics of Operations Research.
+	- **Paper**: [https://doi.org/10.1287/moor.2022.0332](https://doi.org/10.1287/moor.2022.0332). 
+
+<!-- Also available at [ISTA repository]().
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/???.pdf">self-hosted</a>
+-->
 
 # Repeated Prophet Inequality with Near-optimal Bounds
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M. Mohammadi, R. Saona. 
