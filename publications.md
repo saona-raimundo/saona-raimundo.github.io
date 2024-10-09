@@ -83,7 +83,7 @@ Submitted.
 
 - Mathematics of Operations Research.
 	- **Paper**: [https://doi.org/10.1287/moor.2022.0332](https://doi.org/10.1287/moor.2022.0332). 
-
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/chatterjee2024ValuePositivityMatrixGames.pdf">self-hosted</a>
 <!-- Also available at [ISTA repository]().
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/???.pdf">self-hosted</a>
 -->
