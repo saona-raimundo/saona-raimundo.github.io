@@ -47,11 +47,11 @@ Text:
 ## ANID Chile
 
 Chilean Government research grant [Anillo Information and Computation in Market Design](https://sites.google.com/view/anilloicmd/home). 
-ANID contract ACT210005, Nov 2021 - Oct 2024.
+Chilean National Agency for Research and Development ANID contract ACT210005, Nov 2021 - Oct 2024.
 
 Code: ACT210005
 Text:
-- English: Partially supported by ANID Chile, grant ACT210005.
+- English: Partially supported by Chilean National Agency for Research and Development, ANID Chile, grant ACT210005.
 
 # Past
 
