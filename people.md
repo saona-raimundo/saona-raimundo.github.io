@@ -6,6 +6,13 @@ permalink: /people/
 
 # Students
 
+## Ali Shafiee
+Internship, IST Austria
+
+June 2024 - September 2024
+
+Complexity of Memoryless Limit-sure value in POMDPs. 
+
 ## Roodabeh Safavi
 Internship, IST Austria
 
@@ -75,6 +82,9 @@ January 2016 - March 2016
 
 Preventive alert for inter-regional fires
 
+<!--
+This section needs to be automatically generated. Otherwise, it grows old fast.
+
 # Co-authors
 
 - Bruno Ziliotto
@@ -87,6 +97,7 @@ Preventive alert for inter-regional fires
 - Marcos Orchard
 - Mona Mohammadi
 - Tobias Meggendorfer
+-->
 
 # Researchers in the world
 
