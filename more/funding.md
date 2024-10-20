@@ -55,6 +55,13 @@ Text:
 
 # Past
 
+## E-COST: European Cooperation in Science and Technology 
+
+Short Term Scientific Mission, 2022. 
+
+Code: E-COST-GRANT-CA16228-c5a69859
+Text: E-COST action CA16228 through grant E-COST-GRANT-CA16228-c5a69859. 
+
 ## CONICYT-Chile
 
 2018.
