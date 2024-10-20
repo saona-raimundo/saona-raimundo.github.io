@@ -1,6 +1,6 @@
 ---
 layout: course
-title:  Compressing sensing
+title:  Compressed sensing
 semester: 2020-1
 teacher: Raimundo Saona
 link: 
@@ -8,3 +8,4 @@ link:
 ---
 
 Part of a mandatory course for mathematicians in PhD at IST Austria.
+
