@@ -18,6 +18,12 @@ permalink: /publications/
 
 Submitted.
 
+# Linear Equations with Min and Max Operators: Computational Complexity
+
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Luo, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
+
+Submitted.
+
 # Stochastic homogenization of HJ equations: a differential game approach
 [A. Davini](https://www1.mat.uniroma1.it/people/davini/home.html), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
