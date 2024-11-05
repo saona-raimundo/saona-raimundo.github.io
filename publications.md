@@ -47,7 +47,10 @@ Submitted.
 # IID Prophet Inequality with Random Horizon: Going Beyond Increasing Hazard Rates
 [G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
 
-Submitted
+- ArXiv
+	- **Paper**: [https://doi.org/10.48550/arXiv.2407.11752](https://doi.org/10.48550/arXiv.2407.11752)
+
+
 
 
 
