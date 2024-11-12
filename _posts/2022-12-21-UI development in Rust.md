@@ -114,6 +114,7 @@ A REST API is any API that the REST principles:
 Thinking in programable interactions helps you streamline the user experience design with complex interactions.
 This is [a useful guide on building a REST APIs by LogRocket](https://blog.logrocket.com/building-rest-api-rust-warp/).
 You may also check these [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
+Lastly, you may want to checkout [OpenAPI](https://www.openapis.org/) as a standard way to express your HTTP API.
 
 Some relevant crates are the following.
 - [warp](https://crates.io/crates/warp) 
