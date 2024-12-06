@@ -13,6 +13,12 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Limit-sure reachability for small memory policies in POMDPs is NP-complete 
+[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
+
+- ArXiv
+	- **Paper**: [https://doi.org/10.48550/arXiv.2412.00941](https://doi.org/10.48550/arXiv.2412.00941)
+
 # POMDPs and Blind MDPs: (Dis)continuity of Values and Strategies
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona. 
 
@@ -41,8 +47,12 @@ Submitted.
 
 [A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
 
+- FSTTCS 2024
+	- **Paper**: [https://doi.org/10.4230/LIPIcs.FSTTCS.2024.5](https://doi.org/10.4230/LIPIcs.FSTTCS.2024.5)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a>
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2405.02486](https://doi.org/10.48550/arXiv.2405.02486)
+	
 
 # IID Prophet Inequality with Random Horizon: Going Beyond Increasing Hazard Rates
 [G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 

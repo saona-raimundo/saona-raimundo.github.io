@@ -14,6 +14,10 @@ permalink: /more/software/
 
 [Online plotter](https://saona-raimundo.github.io/online_plotter/) of mathematical functions.
 
+## Diffing text
+
+[Similar playground](https://saona-raimundo.github.io/similar_playground/) for diffing text.
+
 ## Case conversion
 
 [Heck playground](https://saona-raimundo.github.io/heck_playground/) for case conversion.
