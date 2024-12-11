@@ -6,13 +6,9 @@ permalink: /more/software/
 
 # <img src="apps.svg" class="galleryItem" width=140p> Apps
 
-## Virus alarm
+## Unicode font
 
-[Simulation engine](https://saona-raimundo.github.io/virus_alert/sim/index.html) to study and design the board game [virus alarm](https://ist.ac.at/en/education/ist-for-kids/virus-alert/).
-
-## Online_plotter
-
-[Online plotter](https://saona-raimundo.github.io/online_plotter/) of mathematical functions.
+[Unicode font playground](https://saona-raimundo.github.io/unicode_font/) for converting unicode characters between fonts.
 
 ## Diffing text
 
@@ -25,6 +21,14 @@ permalink: /more/software/
 ## Weather
 
 [Weather forecast](https://saona-raimundo.github.io/weather/) for my needs.
+
+## Virus alarm
+
+[Simulation engine](https://saona-raimundo.github.io/virus_alert/sim/index.html) to study and design the board game [virus alarm](https://ist.ac.at/en/education/ist-for-kids/virus-alert/).
+
+## Online_plotter
+
+[Online plotter](https://saona-raimundo.github.io/online_plotter/) of mathematical functions.
 
 
 
