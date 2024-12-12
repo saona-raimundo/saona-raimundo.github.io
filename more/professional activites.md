@@ -30,6 +30,8 @@ permalink: /more/professional-activities/
 
 ## Journals
 
+- [Turkish Journal of Electrical Engineering & Computer Sciences](https://journals.tubitak.gov.tr/elektrik/)
+	- 2024 (1)
 - [International Journal of Approximate Reasoning](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
 	- 2024 (1)
 - [ACM Transactions on Economics and Computation](https://dl.acm.org/journal/teac)
