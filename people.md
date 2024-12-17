@@ -103,42 +103,29 @@ This section needs to be automatically generated. Otherwise, it grows old fast.
 
 I have encountered many good people during my time as a researcher. This map shows some of them, with their respective affiliations when I met them. 
 
-<!-- Leaflet (https://leafletjs.com) -->
-<!-- Stylesheet -->
-<link rel="stylesheet"
-	href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
-	integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
-	crossorigin=""
-/>
-<!-- Script -->
-<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
-	integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
-	crossorigin="">
-</script>
-<!-- Leaflet marker cluster (https://github.com/Leaflet/Leaflet.markercluster) -->
-<link rel="stylesheet"
-	href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
-/>
-<link rel="stylesheet"
-	href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
-/>
-<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js">
-</script>
+                        <noscript>
+                            This website uses JavaScript, make sure it is
+                            enabled please.
+                        </noscript>
 
+                        <!-- MapLibre -->
+                        <link
+                            rel="stylesheet"
+                            href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css"
+                        />
+                        <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
 
-<noscript>
-	This website uses JavaScript, make sure it is enabled please.
-</noscript>
+                        <div
+                            id="maplibre"
+                            style="
+                                width: 600px;
+                                height: 400px;
+                                position: relative;
+                            "
+                        ></div>
 
-<!-- Map -->
-<div id="map" style="width: 600px; height: 400px; position: relative;"></div>
-
-
-<!-- Map information -->
-<script>
-
-	// Points to show
-	const information = [
+                        <script>
+                            const information = [
                                 // ['Name', 'Institution', 'Longitude ', 'Latitude'],
                                 [
                                     "Aditya Aradhye",
@@ -466,40 +453,85 @@ I have encountered many good people during my time as a researcher. This map sho
                                 ],
                             ];
 
-	// Map implementation
-	var map = L.map('map')
-		.setView([0, 0], 1) // World view
-	;
+                            const features = information.map((row) => {
+                                const description =
+                                    "<b>" + row[0] + "</b>" + "<br>" + row[1];
+                                const marker = {
+                                    type: "Feature",
+                                    properties: {
+                                        description: description,
+                                        icon: "triangle", // "circle", "square", ..., full list with map.listImages()
+                                    },
+                                    geometry: {
+                                        type: "Point",
+                                        coordinates: [row[3], row[2]],
+                                    },
+                                };
+                                return marker;
+                            });
 
-	// Adding tiles
-	var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-		maxZoom: 18,
-		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
-			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-		id: 'mapbox/streets-v11',
-		tileSize: 512,
-		zoomOffset: -1
-	}).addTo(map);
+                            const map = new maplibregl.Map({
+                                container: "maplibre",
+                                style: "https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+                                center: [0, 0],
+                                zoom: 1,
+                            });
 
-	// Displaying information
-	var markers = L.markerClusterGroup();
-	for (var i = 0; i < information.length; ++i) {
-		var row = information[i];
-		var marker = L.marker([row[2], row[3]]); //addTo(map);
-		marker.bindPopup("<b>" + row[0] +"</b>" + "<br>" + row[1]).openPopup();
-		markers.addLayer(marker);
-	}
-	map.addLayer(markers);
+                            map.on("load", () => {
+                                map.addSource("places", {
+                                    type: "geojson",
+                                    data: {
+                                        type: "FeatureCollection",
+                                        features: features,
+                                    },
+                                });
+                                // Add a layer showing the places.
+                                map.addLayer({
+                                    id: "places",
+                                    type: "symbol",
+                                    source: "places",
+                                    layout: {
+                                        "icon-image": "{icon}_15",
+                                        "icon-overlap": "always",
+                                    },
+                                });
 
-	// Easily find new coordinates by clicking
-	var popup = L.popup();
-	function onMapClick(e) {
-	    popup
-	        .setLatLng(e.latlng)
-	        .setContent(e.latlng.toString())
-	        .openOn(map);
-	}
-	map.on('click', onMapClick);
-	
-</script>
+                                // When a click event occurs on a feature in the places layer, open a popup at the
+                                // location of the feature, with description HTML from its properties.
+                                map.on("click", "places", (e) => {
+                                    const coordinates =
+                                        e.features[0].geometry.coordinates.slice();
+                                    const description =
+                                        e.features[0].properties.description;
 
+                                    // Ensure that if the map is zoomed out such that multiple
+                                    // copies of the feature are visible, the popup appears
+                                    // over the copy being pointed to.
+                                    while (
+                                        Math.abs(
+                                            e.lngLat.lng - coordinates[0],
+                                        ) > 180
+                                    ) {
+                                        coordinates[0] +=
+                                            e.lngLat.lng > coordinates[0]
+                                                ? 360
+                                                : -360;
+                                    }
+
+                                    new maplibregl.Popup()
+                                        .setLngLat(coordinates)
+                                        .setHTML(description)
+                                        .addTo(map);
+                                });
+
+                                // Change the cursor to a pointer when the mouse is over the places layer.
+                                map.on("mouseenter", "places", () => {
+                                    map.getCanvas().style.cursor = "pointer";
+                                });
+
+                                // Change it back to a pointer when it leaves.
+                                map.on("mouseleave", "places", () => {
+                                    map.getCanvas().style.cursor = "";
+                                });
+                            });
+                        </script>
