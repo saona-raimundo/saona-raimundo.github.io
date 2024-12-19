@@ -4,14 +4,19 @@ title: Photos
 permalink: /more/photos/
 ---
 
-<img src="2021-06.jpeg" 
-	class="galleryItem"
-	alt="Working at IST"
-	referrerpolicy="no-referrer"
-	loading="eager"
-	width=400px>
+<figure>
+	<img src="2021-06.jpeg" 
+		class="galleryItem"
+		alt="Working at ISTA"
+		referrerpolicy="no-referrer"
+		loading="eager"
+		width=400px>
+  <figcaption>Working at ISTA</figcaption>
+</figure>
 
-<img src="2022-09.JPG" 
+
+
+<img src="2022-09.jpg" 
 	class="galleryItem"
 	alt="Institute of Science and Technology Austria (ISTA) group"
 	referrerpolicy="no-referrer"
