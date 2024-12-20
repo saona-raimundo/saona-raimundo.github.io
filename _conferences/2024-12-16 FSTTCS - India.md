@@ -11,6 +11,6 @@ Stateful-discounted and Parity Objectives: Complexity and Algorithms" a talk bas
 
 Here is the presentation:
 <iframe src="presentations\2024-12 Concurrent Stochastic Games with
-Stateful-discounted and Parity Objectives - Complexity and Algorithms.pdf" height="400" width="700"></iframe>
+Stateful-discounted Objectives.pdf" height="400" width="700"></iframe>
 
 
