@@ -83,7 +83,8 @@ Preventive alert for inter-regional fires
 
 # Researchers in the world
 
-I have encountered many good people during my time as a researcher. This map shows some of them, with their respective affiliations when I met them.
+I have encountered many good people during my time as a researcher.
+This map and list shows some of them.
 <noscript>
     This website uses JavaScript, make sure it is
     enabled please.
