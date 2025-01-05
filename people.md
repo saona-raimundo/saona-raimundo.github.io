@@ -3421,6 +3421,7 @@ I have encountered many good people during my time as a researcher. This map sho
     <ul>
         <li><a href="https://barypradelski.com/">Bary S. R. Pradelski</a></li>
         <li><a href="https://epicenter.name/bach/">Christian Bach</a></li>
+        <li><a href="https://people.mpi-sws.org/~dch/">Dmitry Chistikov</a></li>
         <li><a href="https://www.kcl.ac.uk/people/frederik-mallmann-trenn">Frederik Mallmann-Trenn</a></li>
         <li><a href="https://www.lse.ac.uk/Mathematics/people/Galit-Ashkenazi-Golan">Galit Seknadji-Golan</a></li>
         <li><a href="https://nolver.net/home/">Neil Olver</a></li>
