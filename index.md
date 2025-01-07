@@ -15,7 +15,7 @@ list_title: News
 		</a>
 	</div>
 	<div>
-		I am currently a 
+		I am currently a last-year
 		<span vocab="https://schema.org/" typeof="OrganizationRole">
 			<span property="roleName">
 				PhD student
