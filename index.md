@@ -26,9 +26,7 @@ list_title: News
 				<span property="sameAs" content="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
 					<span property="name">Institute of Science and Technology Austria (ISTA)</span></span></a>
 			</span>
-			since 
 			<meta property="startDate" content="2019-06-01">
-				2019,
 			under the supervision of 
 			<span vocab="https://schema.org/" typeof="Person">
 				<a property="sameAs" href="https://pub.ist.ac.at/~kchatterjee/">
