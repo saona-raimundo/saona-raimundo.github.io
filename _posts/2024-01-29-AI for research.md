@@ -16,9 +16,9 @@ These tool are free to use. Check their policy for details.
 - [Perplexity](https://www.perplexity.ai/)
 	- Ask questions and get answers with citations
 - [Research rabbit](https://researchrabbitapp.com)
-	- Upload papers and investigates its connections with other papers
-- [Scopus AI](https://www.elsevier.com/products/scopus/scopus-ai)
-	- UI to the Scopus database (comprehensive, multidisciplinary, trusted abstract and citation database)
+	- Upload papers and investigate its connections with other papers
+- [Citation gecko](https://citationgecko.azurewebsites.net/)
+	- Find the most relevant papers to your research
 - [Semantic scholar](https://www.semanticscholar.org/)
 	- Search for scientific literature
 - [scispace](https://scispace.com/)
@@ -31,6 +31,10 @@ These tool are free to use. Check their policy for details.
 	- Upload a paper, highlight confusing text, get an explanation
 - [Semantic Reader](https://www.semanticscholar.org/product/semantic-reader)
 	- Scientific Reading Application
+- [Aria](https://github.com/lifan0127/ai-research-assistant)
+	- Zotero plugin powered by Large Language Models
+- [Scopus AI](https://www.elsevier.com/products/scopus/scopus-ai)
+	- UI to the Scopus database (comprehensive, multidisciplinary, trusted abstract and citation database)
 
 ## Freemium
 
