@@ -3448,6 +3448,7 @@ This map and list shows some of them.
     <p>United States</p>
     <ul>
         <li><a href="https://www.stonybrook.edu/commcms/economics/people/_bios/SHMAYA.php">Eran Shmaya</a></li>
+        <li><a href="https://www.linkedin.com/in/mahdi-jafari-72ba551a6/">Mahdi JafariRaviz</a></li>  <!--College park, University of Maryland, Washington, DC-->
         <li><a href="https://people.cs.umass.edu/~rsengupta/">Rik Sengupta</a></li>
     </ul>
 </div>
