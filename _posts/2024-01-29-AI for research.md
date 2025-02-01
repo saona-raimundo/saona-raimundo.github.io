@@ -78,9 +78,15 @@ The service is fully paid, and there is a trial version that is exhausted after 
 
 These tools generate content that might not be accurate
 
-- [Bard](https://bard.google.com/chat)
-	- Powered by [Gemini](https://deepmind.google/technologies/gemini)
+- [DeepSeek](https://www.deepseek.com/)
+	- Owned by Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd.
+	- Open source
+- [Gemini](https://gemini.google.com/app)
+	- Owned by Google
+	- Closed source
 - [Chat GPT](https://chat.openai.com/)
+	- Owned by OpenAI
+	- Closed source
 
 ## Papers
 
