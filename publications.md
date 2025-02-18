@@ -117,7 +117,7 @@ Submitted.
 Submitted.
 
 - ArXiv
-	- **Paper**: [https://arxiv.org/abs/2209.14368](https://arxiv.org/abs/2209.14368) 
+	- **Paper**: [https://doi.org/10.48550/arXiv.2209.14368](https://doi.org/10.48550/arXiv.2209.14368) 
 
 # Faster Algorithm for Turn-based Stochastic Games with Bounded Treewidth
 
