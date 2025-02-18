@@ -38,7 +38,7 @@ Submitted.
 	- **Paper**: [https://doi.org/10.48550/arXiv.2406.18404](https://doi.org/10.48550/arXiv.2406.18404)
 
 
-# Ergodic Unobservable MDPs: Decidability of Approximation
+# Asymptotic Value and Decidability in Ergodic Blind Stochastic Games
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [D. Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
 - ArXiv
