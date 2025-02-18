@@ -14,7 +14,7 @@ permalink: /publications/
 -->
 
 # Limit-sure reachability for small memory policies in POMDPs is NP-complete 
-[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
+[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [A. Shafiee](https://www.linkedin.com/in/ali9shafiee/). 
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2412.00941](https://doi.org/10.48550/arXiv.2412.00941)
