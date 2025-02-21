@@ -28,6 +28,8 @@ Submitted.
 
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Luo, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/). 
 
+- AAAI 2025
+	- **Video**: [https://underline.io/lecture/111465-9838-linear-equations-with-min-and-max-operators-computational-complexity](https://underline.io/lecture/111465-9838-linear-equations-with-min-and-max-operators-computational-complexity)
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2412.12228](https://doi.org/10.48550/arXiv.2412.12228)
 
