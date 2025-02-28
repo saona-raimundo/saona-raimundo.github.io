@@ -79,3 +79,4 @@ I want to put up some resources for researches that might be useful.
 
 - [Game Theory at BIU](https://www.youtube.com/channel/UCLmke0uS49yuUBSQIBQ-eDA)
 - [One World Mathematical Game Theory Seminar](https://www.youtube.com/playlist?list=PLawk9ryOxpx0kuBVMDRLm86GGHC2laQgA)
+- [Algorithmic Learning in Games Seminar (ALiGS)](https://sites.google.com/view/aligs)
