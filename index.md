@@ -15,7 +15,7 @@ list_title: News
 		</a>
 	</div>
 	<div>
-		I am currently a last-year
+		I am a last-year
 		<span vocab="https://schema.org/" typeof="OrganizationRole">
 			<span property="roleName">
 				PhD student
@@ -36,6 +36,10 @@ list_title: News
 				</a>.
 			</span>
 		</span>
+	</div>
+	<div>
+		My research lies at the intersection of Mathematics, Game Theory, and Computer Science.
+		I have a bachelor's and master's degree in mathematics. My master thesis was on Optimal Stopping problems and Online Algorithms. During my PhD, I worked on the Computational Complexity of problems in Game Theory.
 	</div>
 	<div>
 		<address itemprop="email">
