@@ -71,7 +71,8 @@ Submitted.
 
 [L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc), [L. Lichev](http://lyubenlichev.rf.gd/), [D. Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno)
 
-Submitted.
+- Dynamic Games and Applications
+	- **Paper**: Accepted, available soon.
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2401.16252](https://doi.org/10.48550/arXiv.2401.16252)
