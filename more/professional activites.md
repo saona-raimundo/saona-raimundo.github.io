@@ -6,6 +6,7 @@ permalink: /more/professional-activities/
 
 <li><a href="#reviewing">Reviewing</a></li>
 <li><a href="#organizing">Organizing</a></li>
+<li><a href="#evaluating">Evaluating</a></li>
 <br>
 <hr>
 
@@ -53,7 +54,17 @@ permalink: /more/professional-activities/
 
 ### [Stochastic seminars IST Austria](https://stochasticseminars.pages.ist.ac.at/)
 
-September 2020 - Today
+September 2020 - September 2024
 
 Goal: Increase the conversation between groups (at IST Austria) that work in solutions for stochastic problems and properties of stochastic dynamics.
 
+
+<hr/>
+
+# Evaluating
+
+## PhD applications
+
+February 2023, 2024, 2025
+
+Goal: Prescreen PhD applications to the Insitute of Science and Technology Austria before professors look at applications, choosing from 200 applications the top 20~30. This involves applications from all over the world and I reviewed applications to the field of Mathematics and Computer Science.

@@ -72,7 +72,8 @@ Submitted.
 [L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc), [L. Lichev](http://lyubenlichev.rf.gd/), [D. Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno)
 
 - Dynamic Games and Applications
-	- **Paper**: Accepted, available soon.
+	- **Paper**: [https://doi.org/10.1007/s13235-025-00636-4](https://doi.org/10.1007/s13235-025-00636-4)
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Attia2025RandomZero-SumDynamicGamesInfiniteDirectedGraphs.pdf">self-hosted</a> or [at Springer](https://rdcu.be/eezUW)
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2401.16252](https://doi.org/10.48550/arXiv.2401.16252)
@@ -157,7 +158,7 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 # Prophet Secretary Through Blind Strategies
 [J. Correa](https://www.dii.uchile.cl/~jcorrea/), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno).
 
-- Math. Program.
+- Mathematical Programming.
 	- **Paper**: [https://doi.org/10.1007/s10107-020-01544-8](https://doi.org/10.1007/s10107-020-01544-8)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/correa2021ProphetSecretaryBlind.pdf">self-hosted</a>
 
