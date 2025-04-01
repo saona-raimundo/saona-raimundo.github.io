@@ -49,4 +49,20 @@ People with profiles similar to mine, but more advanced in their career are:
 
 ## Netherlands  
 
+- Maastricht university
+	- Lot of teaching
+
+## USA
+
+
+
+## France
+
+- INSEAD Business school, decision science area
+	- https://www.insead.edu/faculty-research/academic-areas/decision-sciences
+
 ## United Kingdom
+
+- LSE fellowship at the department of Mathematics
+	- Reduced teaching
+	- 2 years fixed term

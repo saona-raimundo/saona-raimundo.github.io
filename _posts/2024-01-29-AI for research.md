@@ -40,6 +40,9 @@ These tool are free to use. Check their policy for details.
 
 There is a free (limited) and a paid version. 
 
+- [Atlas Research](https://atlas-research.io/)
+	- AI-integrated research environment, including Jupyter Notebook, markdown/LaTeX editor, PDF viewer, and parsed academic papers. 
+	- Quickly convert any computational paper into executable code.
 - [ChatPDF](https://www.chatpdf.com/)
 	- Reader assitant: chat with a pdf
 - [Slick Reader](https://www.slickreader.ai)
