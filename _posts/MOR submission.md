@@ -16,4 +16,4 @@ the future or their limitations
     + how the proof works,
     + what is the driving force behind them.
 
-related works shold be seen in terms of: results, proof techniques, and applications.
+related works should be seen in terms of: results, proof techniques, and applications.

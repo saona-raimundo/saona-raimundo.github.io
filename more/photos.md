@@ -17,11 +17,11 @@ permalink: /more/photos/
 <figure>
 	<img src="2021-06.jpeg" 
 		class="galleryItem"
-		alt="Working at ISTA"
+		alt="Working at the Institute of Science and Technology Austria (ISTA)"
 		referrerpolicy="no-referrer"
 		loading="eager"
 		width=400px>
-  <figcaption>Working at ISTA</figcaption>
+  <figcaption>Working at the Institute of Science and Technology Austria (ISTA)</figcaption>
 </figure>
 
 <figure>
@@ -31,17 +31,38 @@ permalink: /more/photos/
 		referrerpolicy="no-referrer"
 		loading="eager"
 		width=400px>
-  <figcaption>Working at ISTA</figcaption>
+  <figcaption>Institute of Science and Technology Austria (ISTA) group</figcaption>
 </figure>
 
 <figure>
 	<img src="2021-07.JPG" 
 		class="galleryItem"
-		alt="IST group"
+		alt="ISTA group"
 		referrerpolicy="no-referrer"
 		loading="eager"
 		width=400px>
-  <figcaption>Working at ISTA</figcaption>
+  <figcaption>ISTA group</figcaption>
+</figure>
+
+<figure>
+	<img src="2021-11.jpg" 
+		class="galleryItem"
+		alt="Living in Vienna"
+		referrerpolicy="no-referrer"
+		loading="eager"
+		width=400px>
+  <figcaption>Living in Vienna</figcaption>
+</figure>
+
+
+<figure>
+	<img src="2019-03.jpg" 
+		class="galleryItem"
+		alt="Presenting Master's thesis"
+		referrerpolicy="no-referrer"
+		loading="eager"
+		width=400px>
+  <figcaption>Presenting Master's thesis</figcaption>
 </figure>
 
 <figure>
@@ -51,17 +72,7 @@ permalink: /more/photos/
 		referrerpolicy="no-referrer"
 		loading="eager"
 		width=400px>
-  <figcaption>Working at ISTA</figcaption>
-</figure>
-
-<figure>
-	<img src="2021-11.jpg" 
-		class="galleryItem"
-		alt="Vienna"
-		referrerpolicy="no-referrer"
-		loading="eager"
-		width=400px>
-  <figcaption>Working at ISTA</figcaption>
+  <figcaption>Latin America awards conference</figcaption>
 </figure>
 
 <figure>
@@ -71,7 +82,7 @@ permalink: /more/photos/
 		referrerpolicy="no-referrer"
 		loading="eager"
 		width=400px>
-  <figcaption>Working at ISTA</figcaption>
+  <figcaption>Chilean festival</figcaption>
 </figure>
 
 <figure>
@@ -81,6 +92,6 @@ permalink: /more/photos/
 		referrerpolicy="no-referrer"
 		loading="eager"
 		width=400px>
-  <figcaption>Working at ISTA</figcaption>
+  <figcaption>Me as a child</figcaption>
 </figure>
 
