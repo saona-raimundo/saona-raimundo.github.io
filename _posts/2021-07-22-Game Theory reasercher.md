@@ -63,6 +63,8 @@ I want to put up some resources for researches that might be useful.
 			- Algorithmic Mechanism Design
 			- Quantifying the Inefficiency of Equilibria
 			- Additional topics
+- Introduction for Engineers and Computer Scientists
+	- [Noncooperative Game Theory: An introduction for Engineers and Computer Scientists](https://press.princeton.edu/books/hardcover/9780691175218/noncooperative-game-theory)
 - Formal mathematical introduction
 	- [Mathematical Foundations of Game Theory](https://www.springer.com/gp/book/9783030266455)
 		- Notable mention to equilibria in various settings
