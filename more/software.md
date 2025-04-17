@@ -12,7 +12,7 @@ permalink: /more/software/
 
 ## Diffing text
 
-[Similar playground](https://saona-raimundo.github.io/similar_playground/) for diffing text.
+[Dissimilar playground](https://saona-raimundo.github.io/dissimilar_playground/) and [similar playground](https://saona-raimundo.github.io/similar_playground/) for diffing text.
 
 ## Case conversion
 
