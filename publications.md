@@ -62,7 +62,8 @@ Submitted.
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2407.11752](https://doi.org/10.48550/arXiv.2407.11752)
-
+- ICALP 2025
+	- **Paper**: To appear
 
 
 

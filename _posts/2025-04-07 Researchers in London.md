@@ -11,3 +11,5 @@ This is an attempt to map out researchers relevant for my field in the London ar
 
 - [Marc Lanctot](https://mlanctot.info/)
 	- general multiagent learning (and planning), computational game theory, reinforcement learning, and game-tree search
+- [Mehmet S. Ismael](https://sites.google.com/site/mehmetsismail/)
+	- Fairness and cooperation in multi-player games
