@@ -99,7 +99,9 @@ Submitted.
 # Value-iteration with Guessing for Markov chains and Markov decision processes
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M.	JafariRaviz, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
 
-Submitted.
+- TACAS 2025
+	- **Paper**: [https://doi.org/10.1007/978-3-031-90653-4_11](https://doi.org/10.1007/978-3-031-90653-4_11) 
+	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/chatterjee2025ValueIterationGuessing.pdf">self-hosted</a>
 
 # Prophet Inequalities: Separating Random Order from Order Selection
 [G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 

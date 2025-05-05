@@ -6,7 +6,8 @@ place:  Tilburg, Netherlands
 link:   https://www.tilburguniversity.edu/current/events/cgt-day
 ---
 
-I presented "POMDPs and Blind MDPs: (Dis)continuity of Values and Strategies", the last part of my PhD thesis dealing with continuity properties in Partially Observable Markov Decision Processes. This was the same topic I presented in Rome, but in a shorter talk.
+I presented "POMDPs and Blind MDPs: (Dis)continuity of Values and Strategies", the last part of my PhD thesis dealing with continuity properties in Partially Observable Markov Decision Processes. 
+This was the same topic I presented in Rome, but in a shorter talk.
 
 I met some good friends in the event, including:
 - [Rebecca Reiffenhäuser](https://reiffenhaeuser.de/)
