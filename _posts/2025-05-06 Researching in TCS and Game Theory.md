@@ -2,7 +2,7 @@
 
 layout: post
 title:  "Researching in TCS and Game Theory"
-date:   2023-07-31 00:00:00 +0000
+date:   2025-05-06 00:00:00 +0000
 front: 	false
 categories: 
 
@@ -32,6 +32,32 @@ I want to put up some resources for researches that might be useful.
 - [Ronitt Rubinfeld](https://people.csail.mit.edu/ronitt/)
 - [Constantinos Daskalakis](http://people.csail.mit.edu/costis/)
 - [Asu Ozdaglar](https://asu.mit.edu/)
+
+Check out the [line up of speakers](https://sites.google.com/view/nash75/) for the celebration of 75 years from Nash's thesis. 
+- Yakov Babichenko
+- Florian Brandl
+- Colin Camerer
+- Yan Chen
+- Michael Chwe
+- Vince Conitzer
+- Constantinos Daskalakis
+- Françoise Forges
+- Sergiu Hart
+- Niccole Immorlica
+- Ehud Kalai
+- Rachel Kranton
+- Rida Laraki
+- Eric Maskin
+- Panayotis Mertikopoulos
+- Jonathan Newton
+- Christos Papadimitriou
+- Yuval Salant
+- Rahul Savani
+- Jeff Shamma
+- Sylvain Sorin
+- Eva Tardos
+- Jörgen Weibull
+- Leeat Yariv
 
 ## Read and enjoy
 
