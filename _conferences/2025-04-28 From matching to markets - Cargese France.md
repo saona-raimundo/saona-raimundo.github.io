@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "IID Prophet Inequality with Random Horizon - From matching to markets"
-date:   2023-12-15 00:00:00 +0000 
+date:   2025-04-28 00:00:00 +0000 
 place:  Cargese, France
 link: https://oceanerc.com/cargese-2/
 ---
