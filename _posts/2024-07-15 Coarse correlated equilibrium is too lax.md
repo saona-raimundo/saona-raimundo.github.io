@@ -26,7 +26,8 @@ In Learning Theory (and before), there is the concept of "Coarse correlated equi
 <script>
 MathJax = {
 	tex: {
-		inlineMath: [['$', '$']]
+		inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+		displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
 	},
 };
 </script>
