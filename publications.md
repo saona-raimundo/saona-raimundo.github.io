@@ -120,7 +120,7 @@ Submitted.
 <!-- Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/18266). -->
 
 # Repeated Prophet Inequality with Near-optimal Bounds
-[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M. Mohammadi, R. Saona. 
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [M. Mohammadi](https://monam99.github.io/), R. Saona. 
 
 Submitted.
 
