@@ -105,7 +105,7 @@ Submitted.
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/asadi2024DeterministicSubexponentialAlgorithm.pdf">self-hosted</a>
 
 # Value-iteration with Guessing for Markov chains and Markov decision processes
-[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), M.	JafariRaviz, R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [M.	JafariRaviz](https://github.com/mahdi-jfri), R. Saona, [J. Svoboda](https://pub.ista.ac.at/~jsvoboda/my-webpages/)
 
 - TACAS 2025
 	- **Paper**: [https://doi.org/10.1007/978-3-031-90653-4_11](https://doi.org/10.1007/978-3-031-90653-4_11) 
