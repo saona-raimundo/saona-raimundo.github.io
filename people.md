@@ -6,21 +6,21 @@ permalink: /people/
 
 # Students
 
-## Ali Shafiee
+## [Ali Shafiee](https://www.linkedin.com/in/ali9shafiee/)
 Internship, IST Austria
 
 June 2024 - September 2024
 
 Complexity of Memoryless Limit-sure value in POMDPs.
 
-## Roodabeh Safavi
+## Roodabeh Safavi Hemami
 Internship, IST Austria
 
 June 2022 - September 2022
 
 Game Theory literature review, towards Simple Stochastic Games.
 
-## Mona Mohammadi
+## [Mona Mohammadi](https://monam99.github.io/)
 Internship, IST Austria
 
 November 2021 - October 2022
@@ -31,7 +31,7 @@ She gave a [talk titled "Repeated Prophet Inequality"](https://sites.google.com/
 
 We submitted a paper to [ACM-SIAM Symposium on Discrete Algorithms (SODA23)](https://www.siam.org/conferences/cm/conference/soda23) on the Prophet Inequality.
 
-## Mahdi Jafari
+## Mahdi Jafari-Rivaz
 Internship, IST Austria
 
 July 2022 - October 2022
@@ -3370,6 +3370,13 @@ This map and list shows some of them.
     </ul>
 </div>
 
+<div id="Iran-people">
+    <p>Iran</p>
+    <ul>
+        <li><a href="https://ali-asadi.com/">Ali Asadi</a></li>
+    </ul>
+</div>
+
 <div id="Israel-people">
     <p>Israel</p>
     <ul>
@@ -3412,8 +3419,6 @@ This map and list shows some of them.
         <li><a href="https://kmallik.github.io/">Kaushik Mallik</a></li>
     </ul>
 </div>
-
-
 
 <div id="Sweden-people">
     <p>Sweden</p>
