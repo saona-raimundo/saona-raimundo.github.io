@@ -3446,6 +3446,7 @@ This map and list shows some of them.
         <li><a href="https://www.kcl.ac.uk/people/frederik-mallmann-trenn">Frederik Mallmann-Trenn</a></li>
         <li><a href="https://www.lse.ac.uk/Mathematics/people/Galit-Ashkenazi-Golan">Galit Seknadji-Golan</a></li>
         <li><a href="https://nolver.net/home/">Neil Olver</a></li>
+        <li><a href="https://cgi.csc.liv.ac.uk/~rahul/">Rahul Savani</a></li>
         <li><a href="https://www.liverpool.ac.uk/people/rasmus-ibsen-jensen">Rasmus Ibsen-Jensen</a></li>
         <li><a href="https://shufang-zhu.github.io/">Shufang Zhu</a></li>
         <li><a href="https://sites.google.com/site/levygametheory/">Yehuda "John" Levy</a></li>
