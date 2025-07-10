@@ -13,6 +13,13 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# PhD thesis: Robustness of Solutions in Game Theory
+R. Saona. 
+
+- **Manuscript** 
+	- ISTA repository: To appear <!-- [???](https://research-explorer.app.ist.ac.at/record/???) -->
+	- Self-hosted: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/PhDThesis.pdf">self-hosted</a>
+
 # Limit-sure reachability for small memory policies in POMDPs is NP-complete 
 [A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona, [A. Shafiee](https://www.linkedin.com/in/ali9shafiee/). 
 
