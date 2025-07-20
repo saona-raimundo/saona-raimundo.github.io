@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Lemmas on MArkov Chains"
+title:  "Lemmas on Markov Chains"
 date:   2025-06-04 00:00:00 +0000
 front:  false
 
