@@ -25,6 +25,11 @@ R. Saona.
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2412.00941](https://doi.org/10.48550/arXiv.2412.00941)
+- OpenReview
+    - **Entry**: [https://openreview.net/forum?id=JId8jZK6nm](https://openreview.net/forum?id=JId8jZK6nm)
+- UAI
+    - **Proceedings**: [https://proceedings.mlr.press/v286/asadi25b.html](https://proceedings.mlr.press/v286/asadi25b.html)
+    - **Paper**: [https://raw.githubusercontent.com/mlresearch/v286/main/assets/asadi25b/asadi25b.pdf](https://raw.githubusercontent.com/mlresearch/v286/main/assets/asadi25b/asadi25b.pdf) 
 
 # POMDPs and Blind MDPs: (Dis)continuity of Values and Strategies
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), R. Saona. 
