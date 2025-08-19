@@ -74,6 +74,8 @@ The service is fully paid, and there is a trial version that is exhausted after 
 	- Researcher toolkit
 - [iris.ai](https://iris.ai)
 	- Researcher toolkit
+- [ThesisAI](https://thesisai.io/)
+    - Write a thesis document with a single prompt, citing given papers
 
 ## Other tools
 
