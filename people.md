@@ -3411,6 +3411,7 @@ This map and list shows some of them.
         <li><a href="https://sites.google.com/site/janosflesch/home">János Flesch</a></li>
         <li><a href="https://www.maastrichtuniversity.nl/mjw-schr%C3%B6der">Marc Schröder</a></li>
         <li><a href="https://markus-utke.github.io/">Markus Utke</a></li>
+        <li><a href="https://reidmen.github.io/PublicMistakes/">Reidmen Aróstica B.</a></li>
         <li><a href="https://sites.google.com/view/timoosterwijk/">Tim Oosterwijk</a></li>
         <li><a href="https://sites.google.com/view/schmidt-kraepelin">Ulrike Schmidt-Kraepelin</a></li>
         <li><a href="https://reiffenhaeuser.de/">Rebecca Reiffenhäuser</a></li>
