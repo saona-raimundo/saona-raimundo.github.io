@@ -2,7 +2,7 @@
 
 layout: post
 title:  "Raw pdf files: Writing a pdf from the specification"
-date:   2022-06-21 00:00:00 +0000
+date:   2025-08-25 00:00:00 +0000
 front: 	false
 categories: 
 
@@ -10,7 +10,10 @@ categories:
 
 [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF), standardized as ISO 32000, is a file format. [PDF secifications](https://www.pdfa.org/resource/pdf-specification-index/) have evolved over the years, but the format is very stable and backwards compatible.
 
-This post is mainly a primer on the basics of the PDF format. You may write your first pdf without the help of a pdf writer. The content of the post follows closely [PDF 1.7 specification](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf), from 2008. Later specifications are not free of charge.
+This post is mainly a primer on the basics of the PDF format. You may write your first pdf without the help of a pdf writer. 
+The content of the post follows closely [PDF 1.7 specification](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf), from 2008. 
+The newest specification I know of is [PDF 2.0 (ISO 32000-2 / 2017)](
+https://developer.adobe.com/document-services/docs/assets/5b15559b96303194340b99820d3a70fa/PDF_ISO_32000-2.pdf), which was not free of charge for some time, and therefore PDF 1.7 might still be the most used version.
 
 ## Syntax
 

@@ -15,31 +15,26 @@ list_title: News
 		</a>
 	</div>
 	<div>
-		I am a last-year
+		I am a
 		<span vocab="https://schema.org/" typeof="OrganizationRole">
 			<span property="roleName">
-				PhD student
+				Fellow
 			</span>
 			at
 			<span typeof="Organization">
-				<a href= "https://ista.ac.at">
-				<span property="sameAs" content="https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology_Austria">
-					<span property="name">Institute of Science and Technology Austria (ISTA)</span></span></a>
+				<a href= "https://www.lse.ac.uk/">
+				<span property="sameAs" content="https://en.wikipedia.org/wiki/London_School_of_Economics">
+					<span property="name">London School of Economics and Political Science (LSE)</span></span></a>
 			</span>
-			<meta property="startDate" content="2019-06-01">
-			under the supervision of 
-			<span vocab="https://schema.org/" typeof="Person">
-				<a property="sameAs" href="https://pub.ist.ac.at/~kchatterjee/">
-					<span property="name">
-						Krishnendu Chatterjee
-					</span>
-				</a>.
+			<meta property="startDate" content="2025-09-01">.
 			</span>
 		</span>
 	</div>
 	<div>
-		My research lies at the intersection of Mathematics, Game Theory, and Computer Science.
-		I have a bachelor's and master's degree in mathematics. My master thesis was on Optimal Stopping problems and Online Algorithms. During my PhD, I worked on the Computational Complexity of problems in Game Theory.
+		My research is at the intersection of Mathematics, Game Theory, and Computer Science.
+		I have a bachelor's and master's degree in mathematics. 
+		My master thesis was on Optimal Stopping problems and Online Algorithms. 
+		My PhD thesis was on the intersection of Computer Science and Game Theory, titled "Robustness of Solutions in Game Theory".
 	</div>
 	<div>
 		<address itemprop="email">
@@ -48,16 +43,6 @@ list_title: News
 	</div>
 </div>
 
-# <strong>NOTICE</strong> 
-
-There are open positions for <a href="https://phd.pages.ist.ac.at/internships/">INTERNSHIPS</a>, including: 
-<ul>
-	<li> <a href="https://phd.ista.ac.at/scientific-internships/">year-round internship</a> </li> 
-	<li> <a href="https://phd.pages.ista.ac.at/isternship/">summer internship</a> (application deadline around February each year)</li> 
-	<li> <a href="https://phd.pages.ista.ac.at/bsc-msc-research-projects/">THESIS (Bachelor or Master)</a> </li>
-</ul>
-
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 
 Game Theory, Probability Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Imprecise Probability Theory
-
