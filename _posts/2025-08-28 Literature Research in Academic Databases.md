@@ -175,3 +175,9 @@ Metrics available include
     - measures productivity and citation impact of publications
     - depends on the index you search in
 
+## Personal learning
+
+The following is what I appreciate most from this course.
+- seeing how to use Scopus, which I have never used but knew that existed
+- understanding the differences in what and how articles are indexed in different databases
+- finding  out that Scopus also has a "cited by" feature, which is what I mostly use when doing literature review
