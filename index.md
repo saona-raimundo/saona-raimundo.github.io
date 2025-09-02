@@ -24,10 +24,12 @@ list_title: News
 			<span typeof="Organization">
 				<a href= "https://www.lse.ac.uk/">
 				<span property="sameAs" content="https://en.wikipedia.org/wiki/London_School_of_Economics">
-					<span property="name">London School of Economics and Political Science (LSE)</span></span></a>
+					<span property="name">London School of Economics and Political Science (LSE)</span>
+				</span>
+				</a>
 			</span>
-			<meta property="startDate" content="2025-09-01">.
-			</span>
+			<meta property="startDate" content="2025-09-01">
+			.
 		</span>
 	</div>
 	<div>

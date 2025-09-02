@@ -3,7 +3,7 @@
 layout: post
 title:  "Data: Use your internet records for a change"
 date:   2022-09-25 00:00:00 +0000
-front: 	true
+front: 	false
 categories: 
 
 ---
