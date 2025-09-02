@@ -33,10 +33,14 @@ list_title: News
 		</span>
 	</div>
 	<div>
-		My research is at the intersection of Mathematics, Game Theory, and Computer Science.
-		I have a bachelor's and master's degree in mathematics. 
-		My master thesis was on Optimal Stopping problems and Online Algorithms. 
-		My PhD thesis was on the intersection of Computer Science and Game Theory, titled "Robustness of Solutions in Game Theory".
+		<p>
+			My research uses tools from Mathematics, Game Theory, and Computer Science. I work with continuous and discrete models, prove theoretical existence theorems and code efficient algorithms, and work with both dynamic online and static offline settings. I see my work as developing tools to provide new insights on situations involving uncertainty, and I am happy to hear about your problems.
+		</p>
+		<p>
+			I joined LSE in 2025 as a Fellow in Mathematics. 
+Before this, I completed my PhD under the supervision of <a href= "https://pub.ista.ac.at/~kchatterjee/">Krishnendu Chatterjee</a> at the <a href= "https://www.ista.ac.at">Institute of Science and Technology Austria</a> on the robustness of solutions in Game Theory, titled "Robustness of Solutions in Game Theory".
+		</p>
+
 	</div>
 	<div>
 		<address itemprop="email">

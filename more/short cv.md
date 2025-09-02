@@ -4,17 +4,27 @@ title: Short CV
 permalink: /more/short-cv/
 ---
 
+# Postdoc
+
+Fellowship in Mathematics
+
+London School of Economics and Political Science (LSE). London, United Kingdom
+
+September 2025 - Today
+
 # PhD
 
-Institute of Science and Technology Austria (IST Austria)
+Doctor of Philosophy
 
-September 2019 - Today
+Institute of Science and Technology Austria (ISTA). Klosterneuburg, Austria.
+
+September 2019 - July 2025
 
 # Master
 
 Master of Science in Engineering with a major in Applied Mathematics
 
-Universidad de Chile, Santiago (Chile)
+Universidad de Chile. Santiago, Chile.
 
 March 2018 - March 2019
 
@@ -22,6 +32,6 @@ March 2018 - March 2019
 
 Bachelor of Science in Engineering with a Major in Mathematics
 
-Universidad de Chile, Santiago (Chile)
+Universidad de Chile. Santiago, Chile.
 
 March 2013 - March 2018
