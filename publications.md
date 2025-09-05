@@ -17,7 +17,7 @@ permalink: /publications/
 R. Saona. 
 
 - **Manuscript** 
-	- ISTA repository: To appear <!-- [???](https://research-explorer.app.ist.ac.at/record/???) -->
+	- ISTA repository: [https://doi.org/10.15479/AT-ISTA-20234](https://doi.org/10.15479/AT-ISTA-20234)
 	- Self-hosted: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/PhDThesis.pdf">self-hosted</a>
 
 # Limit-sure reachability for small memory policies in POMDPs is NP-complete 
