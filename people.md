@@ -3340,6 +3340,7 @@ This map and list shows some of them.
         <li><a href="https://sites.google.com/view/dpizarro">Dana Pizarro</a></li>
         <li><a href="https://sites.google.com/view/fgarridolucero/home">Felipe Garrido-Lucero</a></li>
         <li><a href="https://floresentenac.github.io/">Flore Sentenac</a></li>
+        <li><a href="https://www.labri.fr/perso/fkardos/">František Kardoš</a></li>
         <li><a href="https://www.amse-aixmarseille.fr/fr/membres/fournier">Gaëtan Fournier</a></li>
         <li><a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/chitiva-julian">Julián Chitiva</a></li>
         <li><a href="https://sites.google.com/site/oliubarton/">Miquel Oliu-Barton</a></li>
