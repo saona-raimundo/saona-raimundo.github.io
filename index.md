@@ -38,7 +38,7 @@ list_title: News
 		</p>
 		<p>
 			I joined LSE in 2025 as a Fellow in Mathematics. 
-Before this, I completed my PhD under the supervision of <a href= "https://pub.ista.ac.at/~kchatterjee/">Krishnendu Chatterjee</a> at the <a href= "https://www.ista.ac.at">Institute of Science and Technology Austria</a> on the robustness of solutions in Game Theory, titled "Robustness of Solutions in Game Theory".
+Before this, I completed my PhD under the supervision of <a href= "https://pub.ista.ac.at/~kchatterjee/">Krishnendu Chatterjee</a> at the <a href= "https://www.ista.ac.at">Institute of Science and Technology Austria</a> on the robustness of solutions in Game Theory.
 		</p>
 
 	</div>
