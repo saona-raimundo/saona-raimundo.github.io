@@ -14,7 +14,10 @@ I want to put up some resources for researches that might be useful.
 ### Tools
 
 - Research assistant [Zotero](https://www.zotero.org/)
-  - [Setup Zotero](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
+	- Install plugins
+		- [zotmoov](https://github.com/wileyyugioh/zotmoov)
+		- [better-bibtex](https://github.com/retorquere/zotero-better-bibtex)
+	- [Connect to SciHub](https://www.youtube.com/watch?v=z0JiQdC14co)
 - Bibliography banks
   - SciHub
     - [Wikipedia](https://en.wikipedia.org/wiki/Sci-Hub)

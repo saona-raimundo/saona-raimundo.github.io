@@ -9,6 +9,14 @@ front:  false
 
 In preparation to my new job in Operations Research, here is a collection of literature of the area I find interesting.
 
+## Comercial solvers
+
+- [Hexaly](https://www.hexaly.com/hexaly-optimizer)
+    - Six standard problems with benchmarks
+
+## Books
+
+
 <style>
 .sr-only {
   position: absolute;
