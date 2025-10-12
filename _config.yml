@@ -34,7 +34,8 @@ plugins:
 header_pages:
   - people.md
   - publications.md
-  - interests.md
+  - teaching.md
+  - funding.md
   - more.md
 
 # Collections
