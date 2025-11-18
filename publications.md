@@ -13,6 +13,16 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Revealing POMDPs: Qualitative and Quantitative Analysis for Parity Objectives 
+[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [D. Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david), R. Saona. 
+
+- ArXiv
+	- **Paper**: [https://doi.org/](https://doi.org/).
+	<!-- - **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a> -->
+- AAAI
+	- **Paper**: [https://doi.org/](https://doi.org/).
+	<!-- - **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a> -->
+
 # PhD thesis: Robustness of Solutions in Game Theory
 R. Saona. 
 
@@ -53,11 +63,15 @@ Submitted.
 	- **Paper**: [https://doi.org/10.48550/arXiv.2406.18404](https://doi.org/10.48550/arXiv.2406.18404)
 
 
-# Asymptotic Value and Decidability in Ergodic Blind Stochastic Games
+# Uniform Value and Decidability in Ergodic Blind Stochastic Games
+
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [D. Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2405.12583](https://doi.org/10.48550/arXiv.2405.12583)
+- Mathematics of Operations Research
+	- **Paper** [to appear]()
+	- **PDF**: [to appear]()
 
 # Concurrent Stochastic Games with Stateful-discounted and Parity Objectives: Complexity and Algorithms
 

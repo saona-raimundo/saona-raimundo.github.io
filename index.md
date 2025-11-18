@@ -51,4 +51,4 @@ Before this, I completed my PhD under the supervision of <a href= "https://pub.i
 
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 
-Game Theory, Probability Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Imprecise Probability Theory
+Game Theory, Probability Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Optimal Stopping, Imprecise Probability Theory
