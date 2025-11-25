@@ -17,7 +17,7 @@ permalink: /publications/
 [A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [D. Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david), R. Saona. 
 
 - ArXiv
-	- **Paper**: [https://doi.org/](https://doi.org/).
+	- **Paper**: [https://doi.org/10.48550/arXiv.2511.13134](https://doi.org/10.48550/arXiv.2511.13134).
 	<!-- - **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a> -->
 - AAAI
 	- **Paper**: [https://doi.org/](https://doi.org/).
@@ -91,8 +91,6 @@ Submitted.
 	- **Paper**: [https://doi.org/10.48550/arXiv.2407.11752](https://doi.org/10.48550/arXiv.2407.11752)
 - ICALP 2025
 	- **Paper**: [https://doi.org/10.4230/LIPIcs.ICALP.2025.87](https://doi.org/10.4230/LIPIcs.ICALP.2025.87)
-
-
 
 
 # Random Zero-Sum Dynamic Games on Infinite Directed Graphs
