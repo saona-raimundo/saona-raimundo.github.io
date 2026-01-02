@@ -25,6 +25,11 @@ I want to put up some resources for researches that might be useful.
     - [Telegram bot](https://www.reddit.com/r/scihub/comments/cbzod3/official_telegram_bot_for_scihub/)
   - Genesis Library
     - [Wikipedia](https://en.wikipedia.org/wiki/Library_Genesis)
+    - [Reddit Metathread on its status](https://www.reddit.com/r/libgen/comments/1n4vjud/megathread_status_of_libgen/)
+    - [SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)
+  - Iran paper
+    - [Website](https://iranpaper.ir/)
+    - Similar to Scihub
 
 ## Game Theory
 

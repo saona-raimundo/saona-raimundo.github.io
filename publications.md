@@ -22,6 +22,8 @@ permalink: /publications/
 - AAAI
 	- **Paper**: [https://doi.org/](https://doi.org/).
 	<!-- - **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a> -->
+- [LSE repository](https://eprints.lse.ac.uk/130382/)
+
 
 # PhD thesis: Robustness of Solutions in Game Theory
 R. Saona. 
@@ -72,6 +74,7 @@ Submitted.
 - Mathematics of Operations Research
 	- **Paper** [to appear]()
 	- **PDF**: [to appear]()
+- [LSE repository](https://eprints.lse.ac.uk/130381/)
 
 # Concurrent Stochastic Games with Stateful-discounted and Parity Objectives: Complexity and Algorithms
 
@@ -99,6 +102,7 @@ Submitted.
 
 - Dynamic Games and Applications
 	- **Paper**: [https://doi.org/10.1007/s13235-025-00636-4](https://doi.org/10.1007/s13235-025-00636-4)
+	- **SharedIt**: [https://rdcu.be/eXhHv](https://rdcu.be/eXhHv)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Attia2025RandomZero-SumDynamicGamesInfiniteDirectedGraphs.pdf">self-hosted</a> or [at Springer](https://rdcu.be/eezUW)
 
 - ArXiv
@@ -165,8 +169,10 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 
 - Bulletin of Mathematical Biology 
 	- **Paper**: [https://doi.org/10.1007/s11538-022-01029-z](https://doi.org/10.1007/s11538-022-01029-z). Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/11447)
+	- **SharedIt**: [https://rdcu.be/eXhGX](https://rdcu.be/eXhGX)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/saona2022RelationNumberPeaksa.pdf">self-hosted</a>
-	- **Correction**: [https://doi.org/10.1007/s11538-022-01118-z](https://doi.org/10.1007/s11538-022-01118-z).
+	- **Correction**: [https://doi.org/10.1007/s11538-022-01118-z](https://doi.org/10.1007/s11538-022-01118-z)
+	- **SharedIt**: [https://rdcu.be/eXhHj](https://rdcu.be/eXhHj)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/saona2023CorrectionRelationNumber.pdf">self-hosted</a>
 - BioRxiv
 	- **Paper**: [https://doi.org/10.1101/2022.01.23.477446](https://doi.org/10.1101/2022.01.23.477446)
@@ -188,6 +194,7 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 
 - Mathematical Programming.
 	- **Paper**: [https://doi.org/10.1007/s10107-020-01544-8](https://doi.org/10.1007/s10107-020-01544-8)
+	- **SharedIt**: [https://rdcu.be/eXhGf](https://rdcu.be/eXhGf)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/correa2021ProphetSecretaryBlind.pdf">self-hosted</a>
 
 - Master thesis at University of Chile.
