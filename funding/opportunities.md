@@ -1,3 +1,16 @@
+- [Fellowship in UK](https://royalsociety.org/grants/newton-international/)
+This scheme is for you if:
+you have a PhD, or will have successfully defended your doctoral thesis before the closing date for applications, you have no more than five years of active full-time postdoctoral experience post-PhD, you are based outside the UK, you do not hold UK citizenship, you are competent in oral and written English, your research is within the Royal Society’s remit of natural sciences, which includes but is not limited to biological research and biomedical sciences, chemistry, engineering, mathematics and physics.
+
+- [Post-Doc in Game Theory and Economic Theory (HEC Paris)](https://drive.google.com/file/d/1bMoxWxqPVwSZu0yg3JIc8RI_pHQEtZsO/view)
+Workplace: HEC Paris - GREGHEC - CNRS.
+Contract period: 24 months.
+Expected date of employment: September 2026 – August 2028.
+Desired level of education: PhD.
+Submission deadline: March 5th.
+Applications should be sent to laclau@hec.fr and should include a CV, a motivation letter, and two reference letters that should be addressed directly to laclau@hec.fr.
+https://sites.google.com/site/marielaclauvigeral/
+
 - [Position in Leiden, Neederlands](https://academicpositions.com/ad/leiden-university/2025/assistant-professor-in-mathematics-of-operations-research/239859)
 
 - [LSE Global Research Fund](https://info.lse.ac.uk/staff/divisions/international-strategy-and-academic-partnerships/Funding-opportunities/Global-Research-Fund-and-Global-Research-Consortium-Fund) Seed funding for individual LSE academics to develop international collaborations with nominated research partners. It offers targeted support for establishing or strengthening research links, enabling collaborative activities that lead to joint publications and future grant applications.

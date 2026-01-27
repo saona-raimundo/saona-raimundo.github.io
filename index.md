@@ -52,3 +52,67 @@ Before this, I completed my PhD under the supervision of <a href= "https://pub.i
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 
 Game Theory, Probability Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Optimal Stopping, Imprecise Probability Theory
+
+<div id="events"></div>
+
+<script>
+const CALENDAR_ID = 'a0bc276d180aec3fd9375f5847b01dfc79bb6195e364f6be97cd2ea61c9aca07@group.calendar.google.com';
+const API_KEY = 'AIzaSyCXAW1kzho5aFrXh6sCyBUSFuqPyQOLLJs';
+const MAX_EVENTS = 10;
+
+async function fetchEvents() {
+  const now = new Date().toISOString();
+  const url = `https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(CALENDAR_ID)}/events?` +
+    `key=${API_KEY}&timeMin=${now}&maxResults=${MAX_EVENTS}&singleEvents=true&orderBy=startTime`;
+
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+    if (data.error) throw new Error(data.error.message);
+    renderEvents(data.items || []);
+  } catch (err) {
+    document.getElementById('events').innerHTML = 
+      `<p style="color:#c00">Could not load events: ${err.message}</p>`;
+  }
+}
+
+function renderEvents(events) {
+  const container = document.getElementById('events');
+  
+  if (events.length === 0) {
+    container.innerHTML = '';
+    return;
+  }
+
+  container.innerHTML = `
+    <style>
+      #events .event { padding: 0.75rem 0; border-bottom: 1px solid #eee; }
+      #events .event:last-child { border-bottom: none; }
+      #events .event-date { font-size: 0.85rem; color: #666; margin-bottom: 0.25rem; }
+      #events .event-title { font-weight: 500; }
+      #events .event-location { font-size: 0.85rem; color: #888; margin-top: 0.25rem; }
+    </style>
+    <h2>Next Events</h2>
+  ` + events.map(e => {
+    const start = e.start.dateTime || e.start.date;
+    const dateStr = formatDate(start, !e.start.dateTime);
+    const location = e.location ? `<div class="event-location">📍 ${e.location}</div>` : '';
+    return `
+      <div class="event">
+        <div class="event-date">${dateStr}</div>
+        <div class="event-title">${e.summary}</div>
+        ${location}
+      </div>
+    `;
+  }).join('');
+}
+
+function formatDate(dateStr, allDay) {
+  const date = new Date(dateStr);
+  const opts = { weekday: 'short', month: 'short', day: 'numeric' };
+  if (!allDay) { opts.hour = 'numeric'; opts.minute = '2-digit'; }
+  return date.toLocaleDateString('en-GB', opts);
+}
+
+fetchEvents();
+</script>

@@ -63,6 +63,8 @@ Submitted.
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2406.18404](https://doi.org/10.48550/arXiv.2406.18404)
+- AIHPC (Annales de l'Institut Henri Poincaré C: Analyse non linéaire)
+    - To appear
 
 
 # Uniform Value and Decidability in Ergodic Blind Stochastic Games
