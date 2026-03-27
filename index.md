@@ -92,7 +92,7 @@ function renderEvents(events) {
       #events .event-title { font-weight: 500; }
       #events .event-location { font-size: 0.85rem; color: #888; margin-top: 0.25rem; }
     </style>
-    <h2>Next Events</h2>
+    <h2>Next Events at LSE</h2>
   ` + events.map(e => {
     const start = e.start.dateTime || e.start.date;
     const dateStr = formatDate(start, !e.start.dateTime);
