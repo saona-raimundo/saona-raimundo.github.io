@@ -1,6 +1,6 @@
 ---
 layout: new
-title:  LSE Blog - Meet the Academic: Professor Ryan Martin 
+title:  "LSE Blog - Meet the Academic: Professor Ryan Martin"
 date: 2026-01-19
 link: https://blogs.lse.ac.uk/maths/2026/01/19/meet-the-academic-professor-ryan-martin/
 ---

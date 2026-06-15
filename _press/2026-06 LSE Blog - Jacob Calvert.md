@@ -1,6 +1,6 @@
 ---
 layout: new
-title:  LSE Blog - Math@LSE: The New Digital Enlightenment - Ehud Shapiro on Rethinking the Internet
+title:  "LSE Blog - Math@LSE: The New Digital Enlightenment - Ehud Shapiro on Rethinking the Internet"
 date: 2026-02-26
 link: https://blogs.lse.ac.uk/maths/2026/06/02/from-the-wet-lab-to-complex-systems-in-conversation-with-dr-jacob-calvert/
 ---

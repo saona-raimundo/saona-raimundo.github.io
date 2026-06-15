@@ -1,6 +1,6 @@
 ---
 layout: new
-title:  LSE Blog - Math@LSE: The New Digital Enlightenment - Ehud Shapiro on Rethinking the Internet
+title:  "LSE Blog - Math@LSE: The New Digital Enlightenment - Ehud Shapiro on Rethinking the Internet"
 date: 2026-02-26
 link: https://blogs.lse.ac.uk/maths/2026/02/26/the-new-digital-enlightenment-ehud-shapiro-on-rethinking-the-internet/
 ---
