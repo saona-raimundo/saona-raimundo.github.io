@@ -7,6 +7,13 @@ Finish checking links
 lychee --offline=false '**/*.md'
 ```
 
+## Data in Yekyll
+
+- Add _data/people.yml
+    * Put data of people in YAML and cite it by key
+- Add _data/refs.yml
+    * Put article references in YAML (not BibTeX) and cite it by key
+
 ## RDFa
 
 Add WebSemantics (using RDFa) to other pages than the home page.
