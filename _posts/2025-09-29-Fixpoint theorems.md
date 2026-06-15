@@ -4,6 +4,7 @@ layout: post
 title:  "Fixpoint theorems"
 date:   2025-09-29 00:00:00 +0000
 front:  false
+render_with_liquid: false
 
 ---
 

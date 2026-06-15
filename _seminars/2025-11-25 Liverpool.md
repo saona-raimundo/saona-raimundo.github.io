@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Blind Stochastic Games: From nonexistence, through undecidability, to subclasses
+title: "Blind Stochastic Games: From nonexistence, through undecidability, to subclasses"
 date: 2025-11-25
 place: University of Liverpool
 ---

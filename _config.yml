@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,7 +23,7 @@ email: raimundo.saona@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Research website of Raimundo Saona (mathematician).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://saona-raimundo.github.io" 
+url: "https://saona-raimundo.github.io"
 
 # Build settings
 theme: minima
@@ -36,10 +36,6 @@ plugins:
 
 # Show post excerpts on the home page (your home.html already supports this)
 show_excerpts: true
-
-# Pagination (for a future /blog/ page — see point 6 below)
-paginate: 10
-paginate_path: "/blog/page:num/"
 
 # SEO defaults (used by jekyll-seo-tag)
 author:
