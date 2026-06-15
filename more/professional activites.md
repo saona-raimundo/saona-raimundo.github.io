@@ -12,12 +12,10 @@ permalink: /more/professional-activities/
 
 # Reviewing
 
-## Certification
-
-- [Elsevier Peer Reviewer Course](https://researcheracademy.elsevier.com/navigating-peer-review/certified-peer-reviewer-course) (completed on February 2021)
-
 ## Conferences
 
+- [FOCS2026](https://sanjeevkhanna.org/FOCS2026_CFP.html) (IEEE Symposium on Foundations of Computer Science 2026)
+- [EC2026](https://ec26.sigecom.org/) (Twenty-Seventh ACM Conference on Economics and Computation)
 - [SODA2025](https://www.siam.org/conferences-events/siam-conferences/soda25/) (ACM-SIAM Symposium on Discrete Algorithms 2025)
 - [FOCS2024](https://focs.computer.org/2024/) (IEEE Symposium on Foundations of Computer Science 2024)
 - [MFCS2024](http://www.mfcs.sk/) (Mathematical Foundations of Computer Science 2024)
@@ -46,18 +44,32 @@ permalink: /more/professional-activities/
 - [Internatioal Journal of Game Theory](https://link.springer.com/journal/182)
 	- 2023 (1)
 
+
+## Certification
+
+- [Elsevier Peer Reviewer Course](https://researcheracademy.elsevier.com/navigating-peer-review/certified-peer-reviewer-course) (completed on February 2021)
+
 <hr/>
+
+
+
+
 
 # Organizing
 
 ## Seminars
+
+### [LSE: Seminar and PhD Seminar on Combinatorics, Games and Optimisation](https://www.lse.ac.uk/Mathematics/Events-and-Seminars/Seminar-and-PhD-Seminar-on-Combinatorics-Games-and-Optimisation)
+
+September 2025 - September 2027
+
+Goal: Cover the research areas in the Mathematics Department, including discrete mathematics, algorithms, game theory and operational research.
 
 ### [Stochastic seminars IST Austria](https://stochasticseminars.pages.ist.ac.at/)
 
 September 2020 - September 2024
 
 Goal: Increase the conversation between groups (at IST Austria) that work in solutions for stochastic problems and properties of stochastic dynamics.
-
 
 <hr/>
 
