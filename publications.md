@@ -59,7 +59,7 @@ Submitted.
 	- **Paper**: [https://doi.org/10.48550/arXiv.2412.12228](https://doi.org/10.48550/arXiv.2412.12228)
 
 # Stochastic homogenization of HJ equations: a differential game approach
-[A. Davini](https://www1.mat.uniroma1.it/people/davini/home.html), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
+[A. Davini](https://andreadavini.github.io/homepage/index.html), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno). 
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2406.18404](https://doi.org/10.48550/arXiv.2406.18404)
@@ -74,8 +74,8 @@ Submitted.
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2405.12583](https://doi.org/10.48550/arXiv.2405.12583)
 - Mathematics of Operations Research
-	- **Paper** [to appear]()
-	- **PDF**: [to appear]()
+	- **Paper** [to appear]
+	- **PDF**: [to appear]
 - [LSE repository](https://eprints.lse.ac.uk/130381/)
 
 # Concurrent Stochastic Games with Stateful-discounted and Parity Objectives: Complexity and Algorithms
@@ -100,7 +100,7 @@ Submitted.
 
 # Random Zero-Sum Dynamic Games on Infinite Directed Graphs
 
-[L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc), [L. Lichev](http://lyubenlichev.rf.gd/), [D. Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno)
+[L. Attia](https://cepr.org/about/people/luc-attia), [L. Lichev](http://lyubenlichev.rf.gd/), [D. Mitsche](https://sites.google.com/view/dieter-mitsche/home), R. Saona, [B. Ziliotto](https://sites.google.com/site/ziliottobruno)
 
 - Dynamic Games and Applications
 	- **Paper**: [https://doi.org/10.1007/s13235-025-00636-4](https://doi.org/10.1007/s13235-025-00636-4)
@@ -112,7 +112,7 @@ Submitted.
 
 
 # Marginal Values of a Stochastic Game
-[L. Attia](https://dauphine.psl.eu/en/research/resume-database/attia-luc), [M. Oliu-Barton](https://sites.google.com/site/oliubarton/), R. Saona.
+[L. Attia](https://cepr.org/about/people/luc-attia), [M. Oliu-Barton](https://sites.google.com/site/oliubarton/), R. Saona.
 
 - Mathematics of Operations Research
 	- **Paper** [https://doi.org/10.1287/moor.2023.0297](https://doi.org/10.1287/moor.2023.0297)
@@ -163,11 +163,10 @@ Submitted.
 
 - SODA 2023
 	- **DOI**: [https://doi.org/10.1137/1.9781611977554.ch173](https://doi.org/10.1137/1.9781611977554.ch173)
-	- **PDF**: [https://epubs.siam.org/doi/pdf/10.1137/1.9781611977554.ch173](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977554.ch173)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/chatterjee2023FasterAlgorithmTurnbased.pdf">self-hosted</a>
 
 # Relation between the number of peaks and the number of reciprocal sign epistatic interactions
-Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-group/), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). 
+Raimundo Saona, [Fyodor A. Kondrashov](https://orcid.org/0000-0001-8243-4694), [Ksenia A. Khudiakova](https://ist.ac.at/en/research/barton-group/). 
 
 - Bulletin of Mathematical Biology 
 	- **Paper**: [https://doi.org/10.1007/s11538-022-01029-z](https://doi.org/10.1007/s11538-022-01029-z). Also available at [ISTA repository](https://research-explorer.app.ist.ac.at/record/11447)
@@ -214,4 +213,3 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://ist.ac.at/en/research/kondrashov-
 - Applied Soft Computing
 	- **Paper**: [https://doi.org/10.1016/j.asoc.2018.01.033](https://doi.org/10.1016/j.asoc.2018.01.033)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/acuna2018ConditionalPredictiveBayesian.pdf">self-hosted</a>
-

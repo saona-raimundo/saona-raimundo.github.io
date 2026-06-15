@@ -1,0 +1,11 @@
+# LinkedIn returns 999 to bots; the URL is fine
+^https://www.linkedin.com/in/ali9shafiee/$
+
+# DOIs
+^https://doi.org/10.1137/1.9781611977554.ch173
+^https://doi.org/10.1287/moor.2023.0297
+^https://doi.org/10.1287/moor.2022.0332
+^https://doi.org/10.1145/3661814.3662080
+^https://doi.org/10.1137/1.9781611975482.118
+^https://doi.org/10.1101/2022.01.23.477446
+^https://doi.org/10.1287/moor.2020.1116

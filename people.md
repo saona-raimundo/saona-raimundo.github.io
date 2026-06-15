@@ -29,7 +29,7 @@ Optimal stopping problems: Prophet inequality and Secretary problem.
 
 She gave a [talk titled "Repeated Prophet Inequality"](https://sites.google.com/view/adwim-2022/abstracts#h.uai6gxfy57n0) in the [SECOND Austrian Day of women in mathematics](https://sites.google.com/view/adwim-2022/home?authuser=0).
 
-We submitted a paper to [ACM-SIAM Symposium on Discrete Algorithms (SODA23)](https://www.siam.org/conferences/cm/conference/soda23) on the Prophet Inequality.
+We submitted a paper to ACM-SIAM Symposium on Discrete Algorithms (SODA23) on the Prophet Inequality.
 
 ## Mahdi Jafari-Rivaz
 Internship, IST Austria
@@ -74,7 +74,7 @@ January 2017 - March 2017
 
 Anthole modelling with noninvasive data
 
-## [Soledad Torres](https://storres-cimfav.uv.cl/)
+## [Soledad Torres](https://scholar.google.com/citations?user=Ke-iYUQAAAAJ)
 Internship, Universidad de Valparaíso
 
 January 2016 - March 2016
@@ -3302,7 +3302,7 @@ This map and list shows some of them.
 <div id="Belgium-people">
     <p>Belgium</p>
     <ul>
-        <li><a href="https://www.ulb.be/fr/leonard-brice">Léonard Brice</a></li>
+        <li><a href="https://lnrdbrice.github.io/">Léonard Brice</a></li>
     </ul>
 </div>
 
@@ -3320,7 +3320,7 @@ This map and list shows some of them.
         <li><a href="https://amerino.cl/">Arturo Merino</a></li>
         <li><a href="https://www.dii.uchile.cl/~jcorrea/">José Correa</a></li>
         <li><a href="https://sites.google.com/site/jverschae/">José Verschae</a></li>
-        <li><a href="https://cimfav.uv.cl/nosotros/investigadores?view=article&id=32&catid=11">Soledad Torres</a></li>
+        <li><a href="https://scholar.google.com/citations?user=Ke-iYUQAAAAJ">Soledad Torres</a></li>
     </ul>
 </div>
 
@@ -3349,7 +3349,7 @@ This map and list shows some of them.
         <li><a href="https://www.irif.fr/users/mauras/index">Simon Mauras</a></li>
         <li><a href="https://perso.imj-prg.fr/sylvain-sorin/">Sylvain Sorin</a></li>
         <li><a href="https://sites.google.com/site/tristantomala2">Tristan Tomala</a></li>
-        <li><a href="https://vianney.ai/">Vianney Perchet</a></li>
+        <li><a href="https://scholar.google.com/citations?user=YntTInQAAAAJ">Vianney Perchet</a></li>
     </ul>
 </div>
 
@@ -3421,7 +3421,7 @@ This map and list shows some of them.
         <li><a href="https://sites.google.com/site/janosflesch/home">János Flesch</a></li>
         <li><a href="https://www.maastrichtuniversity.nl/mjw-schr%C3%B6der">Marc Schröder</a></li>
         <li><a href="https://markus-utke.github.io/">Markus Utke</a></li>
-        <li><a href="https://reidmen.github.io/PublicMistakes/">Reidmen Aróstica B.</a></li>
+        <li><a href="https://github.com/Reidmen">Reidmen Aróstica B.</a></li>
         <li><a href="https://sites.google.com/view/timoosterwijk/">Tim Oosterwijk</a></li>
         <li><a href="https://sites.google.com/view/schmidt-kraepelin">Ulrike Schmidt-Kraepelin</a></li>
         <li><a href="https://reiffenhaeuser.de/">Rebecca Reiffenhäuser</a></li>
@@ -3438,7 +3438,7 @@ This map and list shows some of them.
 <div id="Sweden-people">
     <p>Sweden</p>
     <ul>
-        <li><a href="https://people.kth.se/~blikstad/">Joakim Blikstad</a></li>
+        <li><a href="https://blikstad.gitlab.io/">Joakim Blikstad</a></li>
     </ul>
 </div>
 
@@ -3446,7 +3446,7 @@ This map and list shows some of them.
     <p>Switzerland</p>
     <ul>
         <li><a href="https://people.epfl.ch/maryam.kamgarpour?lang=en">Maryam Kamgarpour</a></li>
-        <li><a href="https://livanos3.web.engr.illinois.edu/">Vasilis Livanos</a></li>
+        <li><a href="https://vaslivanos.github.io/">Vasilis Livanos</a></li>
     </ul>
 </div>
 
@@ -3470,7 +3470,7 @@ This map and list shows some of them.
     <p>United States</p>
     <ul>
         <li><a href="https://www.stonybrook.edu/commcms/economics/people/_bios/SHMAYA.php">Eran Shmaya</a></li>
-        <li><a href="https://www.linkedin.com/in/mahdi-jafari-72ba551a6/">Mahdi JafariRaviz</a></li>  <!--College park, University of Maryland, Washington, DC-->
+        <li><a href="https://scholar.google.com/citations?user=4YIhidoAAAAJ">Mahdi JafariRaviz</a></li>  <!--College park, University of Maryland, Washington, DC-->
         <li><a href="https://people.cs.umass.edu/~rsengupta/">Rik Sengupta</a></li>
     </ul>
 </div>

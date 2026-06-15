@@ -8,7 +8,7 @@ categories:
 
 ---
 
-[Accessibility (A11y)]() is important for all and benefits everyone. On the web, the [Web A11y Initiative](https://www.w3.org/WAI/) develops a11y standards, but in science there is much to do. Researchers from [SemanticScholar](https://www.semanticscholar.org/) have studied the issue and, as a researcher myself, I am ashamed.
+Accessibility (A11y) is important for all and benefits everyone. On the web, the [Web A11y Initiative](https://www.w3.org/WAI/) develops a11y standards, but in science there is much to do. Researchers from [SemanticScholar](https://www.semanticscholar.org/) have studied the issue and, as a researcher myself, I am ashamed.
 
 The [SciA11y](https://scia11y.org/) initiative is only the beginning. You can even try their [pdf conversion tool](https://a11y2.apps.allenai.org/) that outputs a more accessible version in HTML. 
 

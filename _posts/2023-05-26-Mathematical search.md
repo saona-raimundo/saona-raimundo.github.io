@@ -14,29 +14,27 @@ How to browse mathematical content in the web? How to do it as a working mathema
 
 ## Resources
 
-- [zbMathNew](www.zbMath.org) 
+- [zbMathNew](https://www.zbMath.org) 
 	- an abstracting and reviewing service in pure and applied mathematics
-- [MathSciNet](www.ams.org/mathscinet) 
+- [MathSciNet](https://www.ams.org/mathscinet) 
 	- searchable database of reviews, abstracts and bibliographic information for much of the mathematical sciences literature
-- [Google-Scholar](www.scholar.google.com)
+- [Google-Scholar](https://www.scholar.google.com)
 	- search of scholarly literature across many disciplines and sources
-- [Google](www.google.com) 
+- [Google](https://www.google.com) 
 	- Search the world’s information, including web-pages, images, videos and more
-- [TIB](www.tib.uni-hannover.de) 
+- [TIB](https://www.tib.uni-hannover.de) 
 	- The online catalogue of the Uni Hannover Library 
-- [vifamath](vifamath.de) 
-	- The Virtual Library of Mathematics” - a meta online catalogue
-- [arXiv](www.arxiv.org) 
+- [arXiv](https://www.arxiv.org) 
 	- Open e-print archive
-- [ResearchGate](www.researchgate.net) 
+- [ResearchGate](https://www.researchgate.net) 
 	- a network dedicated to science and research
-- [mathoverflow](www.mathoverflow.net) 
+- [mathoverflow](https://www.mathoverflow.net) 
 	- a question and answer site for professional mathematicians
-- [MSC-Map](www.map.mathweb.org) 
+- [MSC-Map](https://www.map.mathweb.org) 
 	- accessing math via interactive maps based on an MSC metric
-- [arXiv-Catchup](www.arxiv.org/catchup) 
+- [arXiv-Catchup](https://www.arxiv.org/catchup) 
 	- interface for catching up with the newest articles in math
-- [FormulaSearch](www.zbmath.org/formulae) 
+- [FormulaSearch](https://www.zbmath.org/formulae) 
 	- allows to search for mathematical formulae in documents indexed in zbMath
 
 Also, recall that you have

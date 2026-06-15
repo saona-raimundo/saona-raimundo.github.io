@@ -15,7 +15,7 @@ I want to put up some resources for researches that might be useful.
 - [DMANET mailing list](https://www.zaik.uni-koeln.de/AFS/publications/dmanet/)
 - [Seminars](https://researchseminars.org/)
 - [Selected seminars per field](https://www.owprobability.org/other-worlds)
-- [European Game Theory community](https://gametheorynetwork.com/)
+- [European Game Theory community](https://web.archive.org/web/20220812212545/https://gametheorynetwork.com/)
 
 ## Graduate programs
 

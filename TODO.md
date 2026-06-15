@@ -1,4 +1,11 @@
-# To do
+# TODO
+
+## Link check
+
+Finish checking links
+``` 
+lychee --offline=false '**/*.md'
+```
 
 ## RDFa
 
@@ -34,8 +41,6 @@ Details
   - https://en.wikipedia.org/wiki/Ellsberg_paradox
 - A Foundation for Expected Utility in Decision Problems and Games
   - https://www.youtube.com/watch?v=hXIXtfrqvJU
-- References
-  - https://www.ihs.ac.at/publications/eco/visit_profs/blume/machinaneu.pdf
 
 # Workflow
 

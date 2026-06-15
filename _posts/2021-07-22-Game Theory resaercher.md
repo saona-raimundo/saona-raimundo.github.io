@@ -42,7 +42,7 @@ I want to put up some resources for researches that might be useful.
 ### Societies or networks
 
 - [Game Theory Society](https://gametheorysociety.org/)
-- [GAMENET](https://gametheorynetwork.com/)
+- [GAMENET](https://web.archive.org/web/20220812212545/https://gametheorynetwork.com/)
 - [International Society on Dynamic Games (ISDG)](http://www.isdg-site.org/)
 
 ### Journals
