@@ -61,9 +61,9 @@ This rule means:
 
 > if there's a supervision atom `supervision(W, P)` assigning W to P, then P is a project.
 
-Run this and the solver returns a model with no assignements. The constraint is vacuously satisfied: nothing in the program *generates* a `supervision` atom, so the solver picks the simplest assignment, which is no supervision atoms at all.
+Run this and the solver returns a model with no assignments. The constraint is vacuously satisfied: nothing in the program *generates* a `supervision` atom, so the solver picks the simplest assignment, which is no supervision atoms at all.
 
-The behaviour may be unfamiliar if you come from Prolog or from a constraint solver. In a constraint solver (MiniZinc, CP-SAT, an MIP) you declare your decision variables first and the solver must assign every variable a value. The variables exist as a precondition of the search. ASP works the other way around: predicates are sets of atoms, and an atom belongs to the set only if some rule derives it. Constraints (... :- ...) eliminate candidate models; they do not populate predicates. With no rule generating supervision, the smallest set satisfying every rule is the empty one.
+The behavior may be unfamiliar if you come from Prolog or from a constraint solver. In a constraint solver (MiniZinc, CP-SAT, an MIP) you declare your decision variables first and the solver must assign every variable a value. The variables exist as a precondition of the search. ASP works the other way around: predicates are sets of atoms, and an atom belongs to the set only if some rule derives it. Constraints (... :- ...) eliminate candidate models; they do not populate predicates. With no rule generating supervision, the smallest set satisfying every rule is the empty one.
 
 To generate supervision and marking atoms:
 	
@@ -138,13 +138,13 @@ has_max_work_explicit(W) :- max_work_explicit(W, _).
 max_work(W, 5) :- worker(W), not has_max_work_explicit(W).
 ```
 
-> Worker 1 can have a maximum work load of 10.
+> Worker 1 can have a maximum workload of 10.
 
 ```prolog
 max_work_explicit(w(1), 10).
 ```
 
-Then, we can enforce this maximum work load as follows.
+Then, we can enforce this maximum workload as follows.
 
 > Every worker can not work more than their max_work.
 
@@ -160,7 +160,7 @@ Note that we use again the tags `s` and `m` to count correctly, and we are enfor
 
 Although a maximum work is a simple restriction, it does not take into account the nature of the work (supervision or marking). We would like to balance the workload for each worker.
 
-> For every worker, denote s the number of supervisions and m the number of markings assigns. Then, we force (s is at most m + 2) and (m is at most s + 1).
+> For every worker, denote `s` the number of supervisions and `m` the number of markings assigns. Then, we force (s is at most m + 2) and (m is at most s + 1).
 
 ```prolog
 :- worker(W),
