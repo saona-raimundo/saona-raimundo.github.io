@@ -3,7 +3,7 @@
 layout: post
 title:  "The Evolving Foundations of Math"
 date:   2026-05-02 00:00:00 +0000
-front:  false
+front:  true
 
 ---
 

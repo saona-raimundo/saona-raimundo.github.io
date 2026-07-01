@@ -1,5 +1,12 @@
 # TODO
 
+## Local build
+
+```
+distrobox enter jekyll
+bundle exec jekyll serve --livereload
+```
+
 ## Link check
 
 Finish checking links
