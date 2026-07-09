@@ -6,6 +6,41 @@ permalink: /people/
 
 # Students
 
+## Lezi Zhang
+Operations Research & Analytics Masters Project, LSE
+
+June 2026 - September 2026
+
+Game-theoretic models for competitive dynamics in tour operator markets.
+
+## Yuwen Kong
+Operations Research & Analytics Masters Project, LSE
+
+June 2026 - September 2026
+
+Building Replacement Credit-Risk Models for Lending: Approval, Default, and Loan-Size Prediction.
+
+## [Cole Gaines](https://www.linkedin.com/in/cole-gaines-11a5b1203/)
+Master dissertation, LSE
+
+September 2025 - August 2026
+
+Optimal Stopping Time with Advice: Multi-threshold Strategies.
+
+## Ying Liu
+Master dissertation, LSE
+
+September 2025 - August 2026
+
+Information Ellicitation of Risky Agents.
+
+## Sofiane Bensebas
+Master dissertation, LSE
+
+September 2025 - August 2026
+
+Robust Information Ellicitation.
+
 ## [Ali Shafiee](https://www.linkedin.com/in/ali9shafiee/)
 Internship, IST Austria
 
