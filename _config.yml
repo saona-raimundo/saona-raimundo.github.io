@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research website of Raimundo Saona (mathematician).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saona-raimundo.github.io"
+mastodon:
+  instance: mathstodon.xyz
+  username: SaonaRaimundo
 
 # Build settings
 theme: minima
@@ -37,7 +40,7 @@ plugins:
 # Show post excerpts on the home page (your home.html already supports this)
 show_excerpts: true
 
-# SEO defaults (used by jekyll-seo-tag)
+# SEO 
 author:
   name: Raimundo Saona
   email: raimundo.saona@gmail.com

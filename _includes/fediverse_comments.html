@@ -1,0 +1,26 @@
+{% if page.mastodon_id %}
+<h3>Comments from the fediverse</h3>
+<p>Reply to <a href="https://{{ site.mastodon.instance }}/@{{ site.mastodon.username }}/{{ page.mastodon_id }}">this post on Mastodon</a>.</p>
+<div id="fedi-comments"></div>
+<script>
+(async () => {
+  const el = document.getElementById('fedi-comments');
+  const url = 'https://{{ site.mastodon.instance }}/api/v1/statuses/{{ page.mastodon_id }}/context';
+  try {
+    const { descendants } = await (await fetch(url)).json();
+    if (!descendants.length) { el.textContent = 'No replies yet.'; return; }
+    for (const s of descendants) {
+      const d = document.createElement('article');
+      const a = document.createElement('a');
+      a.href = s.account.url;
+      a.textContent = '@' + s.account.acct;
+      const p = document.createElement('p');
+      p.textContent = new DOMParser()
+        .parseFromString(s.content, 'text/html').body.textContent;
+      d.append(a, p);
+      el.append(d);
+    }
+  } catch { el.textContent = 'Could not load replies.'; }
+})();
+</script>
+{% endif %}
