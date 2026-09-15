@@ -18,7 +18,7 @@ A template for new articles and notes.
 
 % ---------- Review / notes ----------
 \usepackage{todonotes}
-\usepackage[draft, deletedmarkup=sout]{changes} % \added[id=<id>, comment=<comment>]{<new text>} \deleted \replaced \highlight \comment
+\usepackage[draft, deletedmarkup=sout]{changes} % \added[id=<id>, comment=<comment>]{<new text>} \deleted \replaced \highlight \comment[id=<id>]{<comment>}
 \definechangesauthor[name=NAME, color=green]{ID}
 \definechangesauthor[name=NAME, color=blue]{ID}
 

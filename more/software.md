@@ -47,6 +47,10 @@ Simulation of Stochastic processes
 
 Game Theory
 
+## [pdf_annotation_extractor](https://crates.io/crates/pdf_annotation_extractor)
+
+Extracts annotations (highlights, comments, notes) from a PDF
+
 ## [preexplorer](https://crates.io/crates/preexplorer)
 
 Visualization tool
