@@ -27,6 +27,9 @@ url: "https://saona-raimundo.github.io"
 mastodon:
   instance: mathstodon.xyz
   username: SaonaRaimundo
+bluesky:
+  handle: saonaraimundo.bsky.social
+  did: did:plc:cdpnj4kdufvficsjkcsk23b6
 
 # Build settings
 theme: minima

@@ -1,0 +1,36 @@
+{% if page.bluesky_rkey %}
+{% assign at_uri = "at://" | append: site.bluesky.did | append: "/app.bsky.feed.post/" | append: page.bluesky_rkey %}
+<h3>Comments from the ATmosphere</h3>
+<p>Reply to <a href="https://bsky.app/profile/{{ site.bluesky.handle }}/post/{{ page.bluesky_rkey }}">this post on Bluesky</a> to join in.</p>
+<div id="bsky-comments"></div>
+<script>
+(async () => {
+  const el = document.getElementById('bsky-comments');
+  const uri = {{ at_uri | jsonify }};
+  const api = 'https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri='
+            + encodeURIComponent(uri) + '&depth=6';
+  const render = (nodes, depth) => {
+    for (const n of nodes.sort((a,b) =>
+        new Date(a.post.indexedAt) - new Date(b.post.indexedAt))) {
+      if (!n.post) continue;                     // blocked / not-found stubs
+      const d = document.createElement('article');
+      d.style.marginLeft = (depth * 1.5) + 'em';
+      const a = document.createElement('a');
+      a.href = 'https://bsky.app/profile/' + n.post.author.handle;
+      a.textContent = '@' + n.post.author.handle;
+      const p = document.createElement('p');
+      p.textContent = n.post.record.text;
+      d.append(a, p);
+      el.append(d);
+      if (n.replies) render(n.replies, depth + 1);
+    }
+  };
+  try {
+    const { thread } = await (await fetch(api)).json();
+    const replies = thread.replies || [];
+    if (!replies.length) { el.textContent = 'No replies yet.'; return; }
+    render(replies, 0);
+  } catch { el.textContent = 'Could not load replies.'; }
+})();
+</script>
+{% endif %}
