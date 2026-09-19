@@ -4,6 +4,7 @@ layout: post
 title:  "Misalignment of AI for Mathematics"
 date:   2026-09-19 00:00:00 +0000
 front:  true
+mastodon_id: 117297761635086234
 
 ---
 
