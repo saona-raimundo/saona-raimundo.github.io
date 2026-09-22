@@ -16,7 +16,7 @@ In the spirit of sharing experiences, this is a live document about my journey c
 
 ## 2026 September
 
-- Applied to [Anthropic Fellowship]() and [Iliad Fellowship](https://www.iliad.ac/fellowship) to "get my hands dirty" because I feel I need more context to make a contribution in the AI space.
+- Applied to [Anthropic Fellowship](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) and [Iliad Fellowship](https://www.iliad.ac/fellowship) to "get my hands dirty" because I feel I need more context to make a contribution in the AI space.
 - Got accepted in [Iliad Fellowship](https://www.iliad.ac/fellowship), I start it on October 2026.
 - Completed BlueDot courses: Future of AI, AGI strategy, Technical AI safety.
 - Applied to BlueDot "Technical sprint" (open only for alumni of Technical AI Safety course) to get guidance on my first AI Safety project.
