@@ -34,10 +34,10 @@ list_title: News
 	</div>
 	<div>
 		<p>
-			My research uses tools from Mathematics, Game Theory, and Computer Science. I work with continuous and discrete models, prove theoretical existence theorems and code efficient algorithms, and work with both dynamic online and static offline settings. I see my work as developing tools to provide new insights on situations involving uncertainty, and I am happy to hear about your problems.
+			My research uses tools from Mathematics, Game Theory, and Computer Science. I work with continuous and discrete models, prove theoretical existence theorems and code efficient algorithms, and work with both dynamic online and static offline settings. I see my work as developing tools to provide new insights on situations involving uncertainty, and I am happy to hear about your problems.
 		</p>
 		<p>
-			I joined LSE in 2025 as a Fellow in Mathematics. 
+			I joined LSE in 2025 as a Fellow in Mathematics. 
 Before this, I completed my PhD under the supervision of <a href= "https://pub.ista.ac.at/~kchatterjee/">Krishnendu Chatterjee</a> at the <a href= "https://www.ista.ac.at">Institute of Science and Technology Austria</a> on the robustness of solutions in Game Theory.
 		</p>
 
@@ -51,7 +51,7 @@ Before this, I completed my PhD under the supervision of <a href= "https://pub.i
 
 # <a href="{{site.baseurl}}/interests/"> Interests </a>
 
-Game Theory, Probability Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Optimal Stopping, Imprecise Probability Theory
+Game Theory, Complexity Theory, Learning Theory, Algorithmic Game Theory, Stochastic Analysis, Optimal Control, Optimal Stopping, Imprecise Probability Theory
 
 <div id="events"></div>
 
