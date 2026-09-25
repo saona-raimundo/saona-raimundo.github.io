@@ -24,7 +24,7 @@ permalink: /more/software/
 
 ## Virus alarm
 
-[Simulation engine](https://saona-raimundo.github.io/virus_alert/sim/index.html) to study and design the board game [virus alarm](https://ist.ac.at/en/education/ist-for-kids/virus-alert/).
+[Simulation engine](https://saona-raimundo.github.io/virus_alert/sim/index.html) to study and design the board game [virus alarm](https://ista.ac.at/en/news/when-schoolchildren-become-pandemic-pros-exploring/).
 
 ## Online_plotter
 

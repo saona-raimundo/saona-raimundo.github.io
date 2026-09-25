@@ -1,5 +1,6 @@
 # LinkedIn returns 999 to bots; the URL is fine
 ^https://www.linkedin.com/in/ali9shafiee/$
+^https://www.linkedin.com/in/cole-gaines-11a5b1203/$
 
 # DOIs
 ^https://doi.org/10.1137/1.9781611977554.ch173

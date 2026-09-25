@@ -13,6 +13,13 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Algorithms for Linear Equations with Min and Max Operators Under (Absolutely) Halting Condition
+[K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [R. Luo](https://riekenluo.github.io/), R. Saona, [J. Svoboda](https://math.dartmouth.edu/~jakub/). 
+
+- Provider/Version/Venue
+	- **Paper**: To appear in NeurIPS 2026
+	- **Poster**: To apper
+
 # Revealing POMDPs: Qualitative and Quantitative Analysis for Parity Objectives 
 [A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [D. Lurie](https://dauphine.psl.eu/en/research/resume-database/lurie-david), R. Saona. 
 
@@ -90,7 +97,7 @@ Submitted.
 	
 
 # IID Prophet Inequality with Random Horizon: Going Beyond Increasing Hazard Rates
-[G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
+[G. Giambartolomei](https://scholar.google.com/citations?user=mykj1eYAAAAJ), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2407.11752](https://doi.org/10.48550/arXiv.2407.11752)
@@ -135,7 +142,7 @@ Submitted.
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/chatterjee2025ValueIterationGuessing.pdf">self-hosted</a>
 
 # Prophet Inequalities: Separating Random Order from Order Selection
-[G. Giambartolomei](https://kclpure.kcl.ac.uk/portal/giordano.giambartolomei.html), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
+[G. Giambartolomei](https://scholar.google.com/citations?user=mykj1eYAAAAJ), [F. Mallmann-Trenn](https://sites.google.com/view/mallmann/), R. Saona. 
 
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2304.04024](https://doi.org/10.48550/arXiv.2304.04024)
