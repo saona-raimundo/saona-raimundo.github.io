@@ -1,3 +1,6 @@
+# enter distrobox
+enter:
+    distrobox enter jekyll
 # Jekyll watch
 watch:
-    bundle exec jekyll serve --watch
+    distrobox enter jekyll -- bash -lc 'bundle exec jekyll serve --watch'
