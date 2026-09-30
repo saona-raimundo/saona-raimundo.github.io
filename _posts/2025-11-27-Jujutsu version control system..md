@@ -9,4 +9,4 @@ front:  true
 
 [Jujutsu](https://github.com/jj-vcs/jj) is a version control system. It is Git-compatible, and you will find it is an improvement over other version control systems.
 
-There is a [tutorial for everyone](https://jj-for-everyone.github.io/).
+There is a [tutorial for everyone](https://jj-for-everyone.github.io/) (no Git experinece), and a [tutorial for Git users](https://docs.jj-vcs.dev/latest/tutorial/).

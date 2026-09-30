@@ -2,7 +2,7 @@
 
 layout: post
 title:  "Career transition to AI Safety"
-date:   2026-09-22 00:00:00 +0000
+date:   2026-09-30 00:00:00 +0000
 front:  true
 # mastodon_id: 
 
@@ -20,3 +20,4 @@ In the spirit of sharing experiences, this is a live document about my journey c
 - Got accepted in [Iliad Fellowship](https://www.iliad.ac/fellowship), I start it on October 2026. By the way, if you are thinking of applying, you can use my [referral code](https://www.iliad.ac/apply?r=RSQ1X).
 - Completed BlueDot courses: Future of AI, AGI strategy, Technical AI safety.
 - Applied to BlueDot "Technical sprint" (open only for alumni of Technical AI Safety course) to get guidance on my first AI Safety project.
+- Got accepted to BlueDot "Technical sprint", so I will start working on a project soon.
