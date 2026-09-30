@@ -6,6 +6,10 @@ permalink: /more/software/
 
 # <img src="apps.svg" class="galleryItem" width=140p> Apps
 
+## Weftd (LLM interface)
+
+[weftd](https://github.com/saona-raimundo/weftd) is a local-first scaffolding runtime for LLMs.
+
 ## Unicode font
 
 [Unicode font playground](https://saona-raimundo.github.io/unicode_font/) for converting unicode characters between fonts.
