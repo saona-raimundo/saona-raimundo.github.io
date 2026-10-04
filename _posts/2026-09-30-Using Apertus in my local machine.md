@@ -5,6 +5,7 @@ title:  "Using Open source AI in my local machine"
 date:   2026-09-30 00:00:00 +0000
 front:  true
 # mastodon_id: 
+render_with_liquid: false
 
 ---
 
