@@ -21,3 +21,8 @@ In the spirit of sharing experiences, this is a live document about my journey c
 - Completed BlueDot courses: Future of AI, AGI strategy, Technical AI safety.
 - Applied to BlueDot "Technical sprint" (open only for alumni of Technical AI Safety course) to get guidance on my first AI Safety project.
 - Got accepted to BlueDot "Technical sprint", so I will start working on a project soon.
+
+## 2026 October
+
+- Started the [Iliad Fellowship](https://www.iliad.ac/fellowship), mentored by [Alexander Gietelink Oldenziel](https://sites.google.com/view/afdago/home)
+- Applied to an [AI control course by Lens Academy](https://lensacademy.org/courses/ai-control)
