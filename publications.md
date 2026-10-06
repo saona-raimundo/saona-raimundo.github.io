@@ -220,3 +220,14 @@ Raimundo Saona, [Fyodor A. Kondrashov](https://orcid.org/0000-0001-8243-4694), [
 - Applied Soft Computing
 	- **Paper**: [https://doi.org/10.1016/j.asoc.2018.01.033](https://doi.org/10.1016/j.asoc.2018.01.033)
 	- **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/acuna2018ConditionalPredictiveBayesian.pdf">self-hosted</a>
+
+
+## Acknowledgement
+
+Papers in which I made substantial contribution, but at the end I was not an author.
+
+# Algorithms with Smoothed Polynomial-Time Complexity for Deterministic Discounted-sum and Mean-payoff Games
+[A. Asadi](http://ali-asadi.com/), [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [R. Luo](https://riekenluo.github.io/). 
+
+- SODA 2027
+	- **Paper**: https://riekenluo.github.io/files/dsg-smoothed-analysis/paper.pdf
