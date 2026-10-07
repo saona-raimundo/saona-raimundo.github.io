@@ -25,4 +25,4 @@ In the spirit of sharing experiences, this is a live document about my journey c
 ## 2026 October
 
 - Started the [Iliad Fellowship](https://www.iliad.ac/fellowship), mentored by [Alexander Gietelink Oldenziel](https://sites.google.com/view/afdago/home)
-- Applied to an [AI control course by Lens Academy](https://lensacademy.org/courses/ai-control)
+- Applied to an [AI control course by Lens Academy](https://lensacademy.org/courses/ai-control) and got accepted! This is a 5-sessions course (part-time).

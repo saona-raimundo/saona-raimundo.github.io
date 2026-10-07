@@ -12,4 +12,4 @@ front:  false
 I am happy to announce that we had our first football match in our reasearch team! 
 Thanks to everyone, I had a great time :D
 
-![Team photo in the field, with everyone hugging](..\more\photos\2024-07-18.jpg)
+![Team photo in the field, with everyone hugging](/more/photos/2024-07-18.jpg)

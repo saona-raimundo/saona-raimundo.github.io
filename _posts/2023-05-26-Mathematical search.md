@@ -18,7 +18,7 @@ How to browse mathematical content in the web? How to do it as a working mathema
 	- an abstracting and reviewing service in pure and applied mathematics
 - [MathSciNet](https://www.ams.org/mathscinet) 
 	- searchable database of reviews, abstracts and bibliographic information for much of the mathematical sciences literature
-- [Google-Scholar](https://www.scholar.google.com)
+- [Google-Scholar](https://scholar.google.com)
 	- search of scholarly literature across many disciplines and sources
 - [Google](https://www.google.com) 
 	- Search the world’s information, including web-pages, images, videos and more

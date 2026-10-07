@@ -16,7 +16,7 @@ jobs:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4   # so lychee picks up .lycheeignore
+      - uses: actions/checkout@v5   # so lychee picks up .lycheeignore
 
       - name: List published pages from sitemap
         id: pages
@@ -31,5 +31,8 @@ jobs:
           args: >-
             --no-progress
             --max-concurrency 8
+            --max-retries 3
+            --retry-wait-time 5
+            --timeout 30
             --accept 200..=299,429
             ${{ steps.pages.outputs.urls }}
