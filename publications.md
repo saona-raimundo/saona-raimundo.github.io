@@ -27,7 +27,7 @@ permalink: /publications/
 	- **Paper**: [https://doi.org/10.48550/arXiv.2511.13134](https://doi.org/10.48550/arXiv.2511.13134).
 	<!-- - **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a> -->
 - AAAI
-	- **Paper**: [https://doi.org/](https://doi.org/).
+	- **Paper**: [https://doi.org/10.1609/aaai.v40i43.40932](https://doi.org/10.1609/aaai.v40i43.40932).
 	<!-- - **PDF**: <a href="https://github.com/saona-raimundo/saona-raimundo.github.io/blob/main/publications/Asadi2024ConcurrentStochasticGamesStatefulDiscountedParityObjectivesComplexityAlgorithm.pdf">self-hosted</a> -->
 - [LSE repository](https://eprints.lse.ac.uk/130382/)
 
