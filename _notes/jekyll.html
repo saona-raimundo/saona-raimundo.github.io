@@ -1,0 +1,12 @@
+---
+layout: post
+title: "$pagetitle$"
+render_with_liquid: false
+$if(front)$
+front: true
+$endif$
+$if(mastodon_id)$
+mastodon_id: "$mastodon_id$"
+$endif$
+---
+$body$

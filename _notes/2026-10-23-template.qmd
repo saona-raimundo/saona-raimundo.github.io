@@ -1,0 +1,18 @@
+---
+title: "My note"
+front: false
+# mastodon_id: "117297761635086234"
+format:
+  html:
+    template: jekyll.html
+    html-math-method: mathml
+    minimal: true
+---
+
+TEMPLATE for Quarto notes.
+
+Let $x \in \mathbb{R}$. Then
+
+$$ \int_0^1 x\,dx = \tfrac12 $$ {#eq-int}
+
+See @eq-int.
