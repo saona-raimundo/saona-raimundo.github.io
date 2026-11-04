@@ -81,6 +81,14 @@ collections:
   seminars:
     output: true
 
+# jekyll-sitemap lists collection static files by source path (/_conferences/...),
+# which 404s. They're still reachable through the pages that embed them.
+defaults:
+  - scope:
+      path: "_*/**/*.pdf"
+    values:
+      sitemap: false
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

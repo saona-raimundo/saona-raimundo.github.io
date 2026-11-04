@@ -18,12 +18,14 @@ jobs:
     steps:
       - uses: actions/checkout@v5   # so lychee picks up .lycheeignore
 
+      # Written to a file because lychee-action evals its args, so URLs with
+      # ( ) & ' break the shell. PDFs have no links to extract; they are still
+      # checked as link targets from the pages.
       - name: List published pages from sitemap
-        id: pages
         run: |
-          urls=$(curl -fsSL https://saona-raimundo.github.io/sitemap.xml \
-                 | grep -oP '(?<=<loc>)[^<]+' | tr '\n' ' ')
-          echo "urls=$urls" >> "$GITHUB_OUTPUT"
+          curl -fsSL https://saona-raimundo.github.io/sitemap.xml \
+            | python3 -c 'import html, re, sys; print(*(html.unescape(u) for u in re.findall(r"<loc>([^<]+)</loc>", sys.stdin.read())), sep="\n")' \
+            | grep -v '\.pdf$' > pages.txt
 
       - name: Check links
         uses: lycheeverse/lychee-action@v2
@@ -35,4 +37,4 @@ jobs:
             --retry-wait-time 5
             --timeout 30
             --accept 200..=299,429
-            ${{ steps.pages.outputs.urls }}
+            --files-from pages.txt

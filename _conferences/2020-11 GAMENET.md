@@ -9,4 +9,4 @@ I represented the working group 3 (graph games) of the GAMENET network (see more
 
 Here is the presentation.
 
-<iframe src="presentations\2020-11-09 GAMENET.pdf" height="400" width="700"></iframe>
+<iframe src="/conferences/presentations/2020-11-09 GAMENET.pdf" height="400" width="700"></iframe>

@@ -18,7 +18,7 @@ From 2017-01 to 2018-10.
 
 Project "Adaptive and Personalized Sequential Posted Prices"
 
-[Official link](https://research.google/outreach/featured-research-collaborations/latin-america-research-awards/recipients/?category=2017)
+[Official link](https://web.archive.org/web/20220204172237/https://research.google/outreach/featured-research-collaborations/latin-america-research-awards/recipients/?category=2017)
 
 
 # Outstanding Undergraduate Student

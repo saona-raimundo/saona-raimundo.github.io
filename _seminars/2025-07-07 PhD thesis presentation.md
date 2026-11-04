@@ -14,5 +14,5 @@ The amazing committee members were:
 - Bruno Ziliotto
 
 Here is the presentation:
-<iframe src="presentations\2025-07-07 PhD thesis.pdf" height="400" width="700"></iframe>
+<iframe src="/seminars/presentations/2025-07-07 PhD thesis.pdf" height="400" width="700"></iframe>
 

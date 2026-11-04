@@ -42,7 +42,7 @@ Check out https://areweideyet.com and make your favorite choice!
 	- With packages
 		- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 			- LaTeX preview, compile, autocomplete, colorize, and more
-		- [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
+		- [LTeX+](https://marketplace.visualstudio.com/items?itemName=ltex-plus.vscode-ltex-plus)
 			- Spell checker based on Language Tools
 2. Atom
 	- With the following packages

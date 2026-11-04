@@ -9,6 +9,6 @@ I presented "Percolation Games: A bridge between Game Theory and Analysis" a tal
 
 Here is the presentation:
 
-<iframe src="presentations\2022-07-22 Percolation Games.pdf" height="400" width="700"></iframe>
+<iframe src="/conferences/presentations/2022-07-22 Percolation Games.pdf" height="400" width="700"></iframe>
 
 

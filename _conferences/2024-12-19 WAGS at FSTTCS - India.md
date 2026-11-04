@@ -10,6 +10,6 @@ I presented "Partial Observation:
 Recent computational results" a talk based on my works on partial observation in sequential decision making.
 
 Here is the presentation:
-<iframe src="presentations\2024-12 Partial Observation.pdf" height="400" width="700"></iframe>
+<iframe src="/conferences/presentations/2024-12 Partial Observation.pdf" height="400" width="700"></iframe>
 
 

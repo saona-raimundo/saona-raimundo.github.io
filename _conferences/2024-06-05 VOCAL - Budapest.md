@@ -9,6 +9,6 @@ link:   http://vocal.p-graph.org/
 I presented "Value-positivity for Matrix Games" a talk based on my MOR paper to appear.
 
 Here is the presentation:
-<iframe src="presentations\2024-06-05 Value-positivity for Matrix Games.pdf" height="400" width="700"></iframe>
+<iframe src="/conferences/presentations/2024-06-05 Value-positivity for Matrix Games.pdf" height="400" width="700"></iframe>
 
 

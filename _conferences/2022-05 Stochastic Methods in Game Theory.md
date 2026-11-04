@@ -10,7 +10,7 @@ I presented a work on Repeated Prophet Secretary, working paper.
 
 Here is the presentation:
 
-<iframe src="presentations\2022-05-17 Repeated Prophet Secretary - Erice.pdf" height="400" width="700"></iframe>
+<iframe src="/conferences/presentations/2022-05-17 Repeated Prophet Secretary - Erice.pdf" height="400" width="700"></iframe>
 
 About the other talks, the following are some of my notes.
 

@@ -15,8 +15,8 @@ In contrast, if one of the players is allowed to respond with one of their top 2
 In this class, I presented these results and the main technical tool in the proof.
 
 Here are pictures of the board:
-<iframe src="presentations\2025-06-02 ISTA 1.jpg" height="400" width="700"></iframe>
-<iframe src="presentations\2025-06-02 ISTA 2.jpg" height="400" width="700"></iframe>
+<iframe src="/seminars/presentations/2025-06-02 ISTA 1.jpg" height="400" width="700"></iframe>
+<iframe src="/seminars/presentations/2025-06-02 ISTA 2.jpg" height="400" width="700"></iframe>
 
 Here is the audio of the class:
-<iframe src="presentations\2025-06-02 ISTA 3.mp3" height="400" width="700"></iframe>
+<iframe src="/seminars/presentations/2025-06-02 ISTA 3.mp3" height="400" width="700"></iframe>

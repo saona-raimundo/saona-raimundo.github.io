@@ -35,7 +35,6 @@ ANRFrench Agence Nationale de la Recherche (ANR).
 ERC grant "Formal Methods for Stochastic Models: Algorithms and Applications"
 
 - Links 
-	- [ERC Database](https://erc.easme-web.eu/?p=863818)
 	- [Project description](https://cordis.europa.eu/project/id/863818)
 - Code: ERC CoG 863818
 - Text

@@ -22,4 +22,4 @@ Our results are tight because we show that no algorithm can compute the uniform 
 
 
 Here is the presentation:
-<iframe src="presentations\2025-11 Liverpool.pdf" height="400" width="700"></iframe>
+<iframe src="/seminars/presentations/2025-11 Liverpool.pdf" height="400" width="700"></iframe>

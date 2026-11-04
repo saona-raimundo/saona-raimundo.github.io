@@ -29,6 +29,13 @@ list_title: News
 				</a>
 			</span>
 			<meta property="startDate" content="2025-09-01">
+			and at
+			<span typeof="Organization">
+				<a href= "https://www.iliad.ac">
+					Iliad
+				</a>
+			</span>
+			<meta property="startDate" content="2026-10-01">			
 			.
 		</span>
 	</div>

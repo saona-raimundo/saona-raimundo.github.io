@@ -33,6 +33,6 @@ I made some new friends too, including:
 
 
 Here is my presentation:
-<iframe src="presentations\2025-02 Computational Game Theory - Tilburg.pdf" height="400" width="700"></iframe>
+<iframe src="/conferences/presentations/2025-02 Computational Game Theory - Tilburg.pdf" height="400" width="700"></iframe>
 
 

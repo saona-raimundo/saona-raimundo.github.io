@@ -44,4 +44,4 @@ Choose a path to go.
 Guide an energy ball through that path.
 </pre>
 
-![Handwritten note](./2025-07-20 Meditation practice for future plans.jpg)
+![Handwritten note](/assets/posts/2025-07-20 Meditation practice for future plans.jpg)

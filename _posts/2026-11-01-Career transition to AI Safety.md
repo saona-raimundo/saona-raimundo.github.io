@@ -31,3 +31,5 @@ In the spirit of sharing experiences, this is a live document about my journey c
 ## 2026 November
 
 - Applied to [AIXI labs](https://www.aixi.uk/), focused on risk factors and safety mitigations for artificial superintelligence.
+- Applied to [Research Scientist role in Google Deep Mind](https://www.google.com/about/careers/applications/jobs/results/91961567221818054-research-scientist-fsf-risk-modeling-and-governance-deepmind), to lead governance research and risk modeling work for the Frontier Safety Framework.
+- Applied to [Pivotal AI Safety research fellowship](https://www.pivotal-research.org/fellowships/ai-safety-fellowship), focused on working with [Jan Kirchner](https://www.pivotal-research.org/mentors/profile/jan-kirchner).
