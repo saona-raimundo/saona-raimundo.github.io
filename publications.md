@@ -81,8 +81,7 @@ Submitted.
 - ArXiv
 	- **Paper**: [https://doi.org/10.48550/arXiv.2405.12583](https://doi.org/10.48550/arXiv.2405.12583)
 - Mathematics of Operations Research
-	- **Paper** [to appear]
-	- **PDF**: [to appear]
+	- **Paper** [https://doi.org/10.1287/moor.2024.0839](https://doi.org/10.1287/moor.2024.0839)
 - [LSE repository](https://eprints.lse.ac.uk/130381/)
 
 # Concurrent Stochastic Games with Stateful-discounted and Parity Objectives: Complexity and Algorithms
