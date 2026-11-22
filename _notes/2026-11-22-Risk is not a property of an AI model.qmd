@@ -1,0 +1,110 @@
+---
+title: "Risk is not a property of an AI model"
+front: true
+# mastodon_id: ""
+format:
+  html:
+    template: jekyll.html
+    html-math-method: mathml
+    minimal: true
+---
+
+This is a call to everyone working on AI safety frameworks: testing AI models only one at a time is dangerous.
+
+The companies building the most capable AI models publish safety frameworks.
+These documents say when a model is too dangerous to release without extra protection.
+All of them ask the same question: is *this model* dangerous?
+I think it is the wrong question, and here is why.
+
+## Safe alone, unsafe together
+
+Jones, Dragan and Steinhardt showed at ICML 2025 that ["adversaries can misuse combinations of models even when each individual model is safe"](https://proceedings.mlr.press/v267/jones25a.html).
+The trick is simple.
+Split a harmful task into pieces.
+Give the hard but harmless pieces to a strong model, which is happy to help.
+Give the easy but harmful pieces to a weak model that never refuses.
+In one of their experiments, a strong model and a weak open one produced vulnerable code 43% of the time.
+Neither model alone went above 3%.
+Nobody had to jailbreak anything.
+
+So each model passes its test, and the pair fails.
+
+## What the frameworks do
+
+I have read Google's [Frontier Safety Framework](https://deepmind.google/frontier-safety/) closely, including its latest revision of April 2026 (version 3.1).
+It defines capability thresholds, and it says that a model below every threshold poses an acceptable risk, because it lacks the capabilities to contribute substantially to severe harm (Section 1.3.5).
+The model is tested with its own scaffolding and, for misuse, compared with a world without generative AI.
+In other words, the model is tested as if it were the only one out there.
+
+Other models do appear in the framework, but only after a threshold is reached, and only in examples where they lower the risk: if a similar model is already public, releasing a new model adds little.
+The opposite case, where another model makes the new model more dangerous, is not there.
+And the framework names what reopens the verdict on a released model: a new version trained by Google.
+A new model released by somebody else is not on that list.
+
+Google is not alone.
+As far as I can tell, the frameworks of [OpenAI](https://openai.com/index/updating-our-preparedness-framework/) and [Anthropic](https://www.anthropic.com/responsible-scaling-policy) also assess one model at a time, and none of the three mentions an attacker who combines models.
+
+Curiously, the European [Code of Practice](https://code-of-practice.ai/?section=safety-security) already lists "interactions with other AI models and/or AI systems" among the possible sources of systemic risk.
+The rule book has seen the problem.
+The frameworks have not.
+
+## Why well-meaning companies do this?
+
+I do not think these companies are careless.
+They are in a race.
+Caution is costly for whoever shows it first, and no company can make AI safe on its own.
+The frameworks say so explicitly themselves.
+Google writes that its security recommendations only work if the whole field applies them.
+OpenAI keeps the option of lowering its requirements if a competitor releases a risky system without comparable safeguards.
+Anthropic rewrote its policy in 2026, explaining that safeguards at higher levels ["might prove outright impossible to implement without collective action"](https://www.anthropic.com/news/responsible-scaling-policy-v3).
+
+When everybody measures only what their own model adds to what is already out there, everybody's share looks small.
+The total does not.
+
+## A proposal: share the risk
+
+Mathematics has had a tool for this since 1953: the [Shapley value](https://en.wikipedia.org/wiki/Shapley_value).
+
+Take the set $N$ of models and tools that people can access today, say there are $n = |N|$ of them.
+For every subset $S$ of $N$, let $v(S)$ be the risk when exactly the models in $S$ are available, measured against a world with none of them, so that $v(\emptyset) = 0$.
+You can think of $v(S)$ as the test that frameworks already run, applied to a group of models instead of one.
+The share of a model $m$ is "its average contribution over all the orders in which the models could have arrived":
+
+$$
+\varphi_m = \sum_{S \subseteq N \setminus \{m\}} \frac{|S|! \, (n - |S| - 1)!}{n!} \left( v(S \cup \{m\}) - v(S) \right) .
+$$
+
+With two models $A$ and $B$, this is
+
+$$
+\varphi_A = \frac{1}{2} \, v(\{A\}) + \frac{1}{2} \left( v(\{A, B\}) - v(\{B\}) \right) .
+$$
+
+Recall [Jones, Dragan and Steinhardt at ICML 2025](https://proceedings.mlr.press/v267/jones25a.html).
+Consider $v(S)$ a success rate instead of risk.
+Then, according to their experiments, wach model alone succeeds $v(\{A\}) = v(\{B\}) =$ 3%, and together they reach $v(\{A, B\}) =$ 43%.
+Using the Shapley value, each model gets a share between 0.20 and 0.23!
+Two models that looked harmless now carry roughly half of the problem each.
+
+Three things make this attractive.
+
+1. The shares add up to the total risk, so no risk is left without an owner.
+2. Models that are interchangeable get equal shares, so a second model that copies the first does not get a free pass.
+3. The order of arrival does not matter, so being the last one to release is not an excuse.
+
+This is not an exotic idea.
+Researchers at the Bank for International Settlements proposed the Shapley value to [attribute systemic risk to individual banks](https://www.bis.org/publ/work308.htm), for a similar reason: the risk of a system is not the sum of the risks of its parts.
+Anthropic's policy already speaks of its marginal contribution to the risk of the whole ecosystem.
+The Shapley value is the version of that idea that adds up.
+
+There are limits, of course.
+We need to agree on the set $N$, and a short list of the strongest public models is a start.
+Measuring $v$ on groups of models costs more than measuring it on one, although five models give only 32 groups.
+And a share is not a verdict: we still need to say how much total risk is acceptable.
+
+## What I ask
+
+- To AI companies: test your models in combination with other models, including your own, and repeat the test when the ecosystem changes.
+- To regulators and standards bodies: the Code of Practice already names the problem, so ask for the test.
+- To researchers: measure how much models complement each other on the tasks that matter, and find cheap ways to estimate these shares.
+- To everybody else: when you read that a model is "below the threshold", ask "below the threshold together with what?".
