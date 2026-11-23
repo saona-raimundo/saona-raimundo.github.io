@@ -13,11 +13,19 @@ permalink: /publications/
 	- **Slides**: 
 -->
 
+# Proper and Optimal Scoring Rules for Risk-Averse Agents
+Y. Liu, R. Saona. 
+
+- ArXiv
+	- **Paper**: To appear. arxiv:2602.06480
+- Hexagon
+	- **Paper**: To appear. hexagon:2611.00933
+
 # Algorithms for Linear Equations with Min and Max Operators Under (Absolutely) Halting Condition
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [R. Luo](https://riekenluo.github.io/), R. Saona, [J. Svoboda](https://math.dartmouth.edu/~jakub/). 
 
-- Provider/Version/Venue
-	- **Paper**: To appear in NeurIPS 2026
+- NeurIPS 2026
+	- **Paper**: To appear
 	- **Poster**: To apper
 
 # Revealing POMDPs: Qualitative and Quantitative Analysis for Parity Objectives 
