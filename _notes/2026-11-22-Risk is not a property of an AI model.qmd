@@ -48,7 +48,7 @@ Curiously, the European [Code of Practice](https://code-of-practice.ai/?section=
 The rule book has seen the problem.
 The frameworks have not.
 
-## Why well-meaning companies do this?
+## Why do well-meaning companies do this?
 
 I do not think these companies are careless.
 They are in a race.
@@ -61,11 +61,37 @@ Anthropic rewrote its policy in 2026, explaining that safeguards at higher level
 When everybody measures only what their own model adds to what is already out there, everybody's share looks small.
 The total does not.
 
-## A proposal: share the risk
+## A concrete proposal: three checks before release
 
+Say Anthropic is about to release a new model, or a new version of a model.
+Which other models should it be tested with?
+
+1. **Anthropic's own models.**
+   This is the least they should consider.
+2. **The open-weight ecosystem.**
+   These models are the most likely to complement the new one in dangerous capabilities: anyone can run them without safeguards, like the weak model in the experiment above.
+3. **The other frontier models.**
+   These have the greatest capabilities.
+
+A check passes when the new model, combined with any of those models, stays below the thresholds that the framework already uses for a single model.
+The hope is that all three checks pass before the release.
+
+Check 1 is easy to pass: the company controls both models, so it can adapt them.
+
+Check 2 is a reality check, and mostly a red teaming exercise.
+The open models are already out there and cannot be changed, so only the new model can be adapted.
+
+Check 3 is the hard one.
+It would likely require coordination between the companies, if they are willing to cooperate.
+If they are not, a failed check at least gives regulators sufficient grounds to say: "combining the models of the leading companies can be dangerous, we need more regulation".
+
+## When a check fails: share the risk
+
+Suppose check 3 fails: two models from two companies are dangerous together.
+Which company owns that risk?
 Mathematics has had a tool for this since 1953: the [Shapley value](https://en.wikipedia.org/wiki/Shapley_value).
 
-Take the set $N$ of models and tools that people can access today, say there are $n = |N|$ of them.
+Take the set $N$ of models considered in the three checks, including the new one, say there are $n = |N|$ of them.
 For every subset $S$ of $N$, let $v(S)$ be the risk when exactly the models in $S$ are available, measured against a world with none of them, so that $v(\emptyset) = 0$.
 You can think of $v(S)$ as the test that frameworks already run, applied to a group of models instead of one.
 The share of a model $m$ is "its average contribution over all the orders in which the models could have arrived":
@@ -82,7 +108,7 @@ $$
 
 Recall [Jones, Dragan and Steinhardt at ICML 2025](https://proceedings.mlr.press/v267/jones25a.html).
 Consider $v(S)$ a success rate instead of risk.
-Then, according to their experiments, wach model alone succeeds $v(\{A\}) = v(\{B\}) =$ 3%, and together they reach $v(\{A, B\}) =$ 43%.
+Then, according to their experiments, each model alone succeeds at most 3% of the time, so $v(\{A\})$ and $v(\{B\})$ are at most 0.03, and together they reach $v(\{A, B\}) = 0.43$.
 Using the Shapley value, each model gets a share between 0.20 and 0.23!
 Two models that looked harmless now carry roughly half of the problem each.
 
@@ -98,13 +124,13 @@ Anthropic's policy already speaks of its marginal contribution to the risk of th
 The Shapley value is the version of that idea that adds up.
 
 There are limits, of course.
-We need to agree on the set $N$, and a short list of the strongest public models is a start.
+The lists of models behind checks 2 and 3 have to be kept up to date.
 Measuring $v$ on groups of models costs more than measuring it on one, although five models give only 32 groups.
 And a share is not a verdict: we still need to say how much total risk is acceptable.
 
 ## What I ask
 
-- To AI companies: test your models in combination with other models, including your own, and repeat the test when the ecosystem changes.
-- To regulators and standards bodies: the Code of Practice already names the problem, so ask for the test.
+- To AI companies: run the three checks before every release, and repeat them when the ecosystem changes.
+- To regulators and standards bodies: the Code of Practice already names the problem, so ask for the results of the three checks.
 - To researchers: measure how much models complement each other on the tasks that matter, and find cheap ways to estimate these shares.
 - To everybody else: when you read that a model is "below the threshold", ask "below the threshold together with what?".
