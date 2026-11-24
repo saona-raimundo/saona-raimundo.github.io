@@ -17,9 +17,9 @@ permalink: /publications/
 Y. Liu, R. Saona. 
 
 - ArXiv
-	- **Paper**: To appear. arxiv:2602.06480
+	- **Paper**: [https://doi.org/10.48550/arXiv.2611.30563](https://doi.org/10.48550/arXiv.2611.30563)
 - Hexagon
-	- **Paper**: To appear. hexagon:2611.00933
+	- **Paper**: [https://hexagonmath.org/2611.00933](https://hexagonmath.org/2611.00933)
 
 # Algorithms for Linear Equations with Min and Max Operators Under (Absolutely) Halting Condition
 [K. Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [R. Luo](https://riekenluo.github.io/), R. Saona, [J. Svoboda](https://math.dartmouth.edu/~jakub/). 
